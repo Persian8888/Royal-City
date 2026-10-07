@@ -18794,6 +18794,8 @@ public OnPlayerSpawn(playerid)
 if(FCNPC_IsValid(playerid)) return 1;
 FullySpawned[playerid] = 3;
 if(IsPlayerInGame(playerid))AttachPlayerToys(playerid);
+TogglePlayerSpectating(playerid, 0);
+SetCameraBehindPlayer(playerid);
 /*
 //           Anti Sobeit
 	SetCameraBehindPlayer(playerid);
@@ -18870,9 +18872,11 @@ if(IsPlayerInGame(playerid))AttachPlayerToys(playerid);
 	}
 	if(mpop[playerid] != 0) {
 		SetPlayerPos(playerid, 1451.5844,-1065.7572,213.3828);// New by Sina
+		TogglePlayerControllable(playerid, 0);
+		SetCameraBehindPlayer(playerid);
 		SetPlayerVirtualWorld(playerid, playerid);
 		SetPlayerFacingAngle(playerid, 359.412506);
-		TogglePlayerControllable(playerid, 1);
+		
 		SetPlayerInterior(playerid, 0);
 		if(PINFO[playerid][pSex] == 1)
 		{
@@ -66509,8 +66513,9 @@ if(IsPlayerConnected(playerid))
   {
 	SetPlayerColor(playerid, -1);
 	mpop[playerid] = 5566;
-	TogglePlayerControllable(playerid, 0);
 	SetPlayerPos(playerid, 1451.5844,-1065.7572,213.3828);// New by Sina
+	TogglePlayerControllable(playerid, 0);
+	SetCameraBehindPlayer(playerid);
 	if(PINFO[playerid][pSex]==1)
 	{
 	SetPlayerSkin(playerid, 170);

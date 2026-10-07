@@ -11010,3 +11010,5488 @@ Site: Bigdev.ir.
 [19:23:22] Now server has at least one active admin
 [19:23:27] Vexer has logged in.
 [19:24:01] Now server hasn't any active admin
+[19:24:59] Now server has at least one active admin
+[19:25:07] Now server hasn't any active admin
+[19:25:07] Now server has at least one active admin
+[19:25:12] Now server hasn't any active admin
+[19:26:34] [part] Vexer has left the server (0:0)
+[19:26:35] [connection] 2.147.161.164:8788 requests connection cookie.
+[19:26:35] [connection] incoming connection: 2.147.161.164:8788 id: 0
+[19:26:36] [join] Vexer has joined the server (0:2.147.161.164)
+[19:26:47] Vexer has logged in.
+[19:26:47] Now server has at least one active admin
+[19:26:53] Vexer has logged in.
+[19:27:11] (CMD) Vexer: /pin
+[19:27:20] (CMD) Vexer: /ffnn
+[19:27:25] (CMD) Vexer: /ml 0 12
+[19:27:31] [part] Vexer has left the server (0:1)
+[19:27:31] Now server hasn't any active admin
+[19:27:32] [connection] 2.147.161.164:8789 requests connection cookie.
+[19:27:32] [connection] incoming connection: 2.147.161.164:8789 id: 0
+[19:27:33] [connection] 2.147.161.164:8790 requests connection cookie.
+[19:27:33] [connection] incoming connection: 2.147.161.164:8790 id: 1
+[19:27:44] [connection] 2.147.161.164:8794 requests connection cookie.
+[19:27:44] [connection] incoming connection: 2.147.161.164:8794 id: 0
+[19:27:45] [join] Vexer has joined the server (0:2.147.161.164)
+[19:28:05] Vexer has logged in.
+[19:28:06] Now server has at least one active admin
+[19:28:11] Vexer has logged in.
+[19:29:02] Now server hasn't any active admin
+[19:35:43] (CMD) Vexer: /pin
+[19:35:43] Now server has at least one active admin
+[19:35:50] (CMD) Vexer: /ml 0 0
+[19:35:53] (CMD) Vexer: /ml 0 17
+[19:35:56] (CMD) Vexer: /0h
+[19:35:58] [part] Vexer has left the server (0:1)
+[19:35:59] Now server hasn't any active admin
+[19:35:59] [connection] 2.147.161.164:8803 requests connection cookie.
+[19:35:59] [connection] incoming connection: 2.147.161.164:8803 id: 0
+[19:36:00] [connection] 2.147.161.164:8804 requests connection cookie.
+[19:36:00] [connection] incoming connection: 2.147.161.164:8804 id: 1
+[19:36:01] [join] Vexer has joined the server (1:2.147.161.164)
+[19:36:15] Vexer has logged in.
+[19:36:15] Now server has at least one active admin
+[19:36:21] Vexer has logged in.
+[19:36:33] (CMD) Vexer: /autologin
+[19:36:40] (CMD) Vexer: /pin
+[19:36:45] (CMD) Vexer: /ml 0 0
+[19:36:51] (CMD) Vexer: /ml 1 0
+[19:36:54] (CMD) Vexer: /ml 1 12
+[19:36:57] (CMD) Vexer: /0h
+[19:37:00] [part] Vexer has left the server (1:1)
+[19:37:00] Now server hasn't any active admin
+[19:37:00] [connection] 2.147.161.164:8805 requests connection cookie.
+[19:37:01] [connection] incoming connection: 2.147.161.164:8805 id: 0
+[19:37:01] [join] Vexer has joined the server (0:2.147.161.164)
+[19:37:06] Player Vexer logged in with autologin enabled
+[19:37:06] Vexer has logged in.
+[19:37:07] Now server has at least one active admin
+[19:37:12] Vexer has logged in.
+[19:37:16] (CMD) Vexer: /autologin
+[19:37:20] [part] Vexer has left the server (0:1)
+[19:37:20] Now server hasn't any active admin
+[19:37:21] [connection] 2.147.161.164:9519 requests connection cookie.
+[19:37:21] [connection] incoming connection: 2.147.161.164:9519 id: 0
+[19:37:22] [connection] 2.147.161.164:9520 requests connection cookie.
+[19:37:22] [connection] incoming connection: 2.147.161.164:9520 id: 1
+[19:37:32] [connection] 2.147.161.164:9525 requests connection cookie.
+[19:37:32] [connection] incoming connection: 2.147.161.164:9525 id: 0
+[19:37:33] [join] Vexer has joined the server (0:2.147.161.164)
+[19:37:47] Vexer has logged in.
+[19:37:47] Now server has at least one active admin
+[19:37:53] Vexer has logged in.
+[19:37:56] (CMD) Vexer: /pin
+[19:38:00] (CMD) Vexer: /ffnn
+[19:38:06] (CMD) Vexer: /ml 0 0
+[19:38:09] (CMD) Vexer: /ml 0 13
+[19:38:12] [part] Vexer has left the server (0:1)
+[19:38:13] Now server hasn't any active admin
+[19:38:13] [connection] 2.147.161.164:9527 requests connection cookie.
+[19:38:13] [connection] incoming connection: 2.147.161.164:9527 id: 0
+[19:38:14] [connection] 2.147.161.164:9528 requests connection cookie.
+[19:38:14] [connection] incoming connection: 2.147.161.164:9528 id: 1
+[19:38:14] [join] Vexer has joined the server (1:2.147.161.164)
+[19:38:26] Vexer has logged in.
+[19:38:27] Now server has at least one active admin
+[19:38:32] Vexer has logged in.
+[19:38:36] (CMD) Vexer: /pin
+[19:38:46] (CMD) Vexer: /ffnn
+[19:38:49] (CMD) Vexer: /ml 0 0
+[19:38:52] (CMD) Vexer: /ml 1 0
+[19:38:57] (CMD) Vexer: /ml 1 14
+[19:38:59] [part] Vexer has left the server (1:1)
+[19:39:00] Now server hasn't any active admin
+[19:39:00] [connection] 2.147.161.164:9530 requests connection cookie.
+[19:39:00] [connection] incoming connection: 2.147.161.164:9530 id: 0
+[19:39:01] [join] Vexer has joined the server (0:2.147.161.164)
+[19:39:13] Vexer has logged in.
+[19:39:13] Now server has at least one active admin
+[19:39:19] Vexer has logged in.
+[19:39:26] [part] Vexer has left the server (0:0)
+[19:39:26] Now server hasn't any active admin
+[19:40:44] [connection] 2.147.161.164:9534 requests connection cookie.
+[19:40:44] [connection] incoming connection: 2.147.161.164:9534 id: 0
+[19:40:44] [join] Vexer has joined the server (0:2.147.161.164)
+[19:40:55] Vexer has logged in.
+[19:40:56] Now server has at least one active admin
+[19:41:01] Vexer has logged in.
+[19:41:03] (CMD) Vexer: /pin
+[19:41:16] (CMD) Vexer: /ffnn
+[19:41:22] (CMD) Vexer: /ml 0
+[19:41:24] (CMD) Vexer: /ml 0 0
+[19:41:30] (CMD) Vexer: /ml 0 15
+[19:41:36] [part] Vexer has left the server (0:1)
+[19:41:36] Now server hasn't any active admin
+[19:41:36] [connection] 2.147.161.164:9535 requests connection cookie.
+[19:41:36] [connection] incoming connection: 2.147.161.164:9535 id: 0
+[19:41:37] [connection] 2.147.161.164:9536 requests connection cookie.
+[19:41:37] [connection] incoming connection: 2.147.161.164:9536 id: 1
+[19:41:38] [join] Vexer has joined the server (1:2.147.161.164)
+[19:41:49] Vexer has logged in.
+[19:41:49] Now server has at least one active admin
+[19:41:55] Vexer has logged in.
+[19:41:55] (CMD) Vexer: /pin
+[19:42:00] (CMD) Vexer: /ml 0 0
+[19:42:03] (CMD) Vexer: /ml 1 0
+[19:42:05] (CMD) Vexer: /ffnn
+[19:42:09] (CMD) Vexer: /ml 1 16
+[19:42:13] [part] Vexer has left the server (1:1)
+[19:42:14] Now server hasn't any active admin
+[19:42:14] [connection] 2.147.161.164:9537 requests connection cookie.
+[19:42:14] [connection] incoming connection: 2.147.161.164:9537 id: 0
+[19:42:15] [connection] 2.147.161.164:9538 requests connection cookie.
+[19:42:15] [connection] incoming connection: 2.147.161.164:9538 id: 1
+[19:42:16] [join] Vexer has joined the server (1:2.147.161.164)
+[19:42:28] Vexer has logged in.
+[19:42:28] Now server has at least one active admin
+[19:42:34] Vexer has logged in.
+[19:42:53] (CMD) Vexer: /pin
+[19:42:58] (CMD) Vexer: /ffnn
+[19:43:09] (CMD) Vexer: /ml 1 0
+[19:43:14] (CMD) Vexer: /ml 1 11
+[19:43:17] [part] Vexer has left the server (1:1)
+[19:43:17] Now server hasn't any active admin
+[19:43:18] [connection] 2.147.161.164:9541 requests connection cookie.
+[19:43:18] [connection] incoming connection: 2.147.161.164:9541 id: 0
+[19:43:19] [connection] 2.147.161.164:9542 requests connection cookie.
+[19:43:19] [connection] incoming connection: 2.147.161.164:9542 id: 1
+[19:43:19] [join] Vexer has joined the server (1:2.147.161.164)
+[19:43:32] Vexer has logged in.
+[19:43:32] Now server has at least one active admin
+[19:43:38] Vexer has logged in.
+[19:43:44] (CMD) Vexer: /pin
+[19:43:52] [chat] [Vexer]: tt
+[19:43:54] (CMD) Vexer: /ffnn
+[19:44:02] Now server hasn't any active admin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:59:31] 
+[19:59:31] Server Plugins
+[19:59:31] --------------
+[19:59:31]  Loading plugin: streamer
+[19:59:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: FCNPC
+[19:59:31] 
+[19:59:31] -------------------------------------------------
+[19:59:31]      FCNPC - Fully Controllable NPC v1.8.2
+[19:59:31]          Windows SA-MP 0.3.7 R2
+[19:59:31]           Jan  8 2018 at 01:14:48
+[19:59:31] 
+[19:59:31]   Author:       OrMisicL (2013 - 2015)
+[19:59:31]   Continued by: ziggi (2016 - present)
+[19:59:31]   Contributors: kurta999, Neutralneu
+[19:59:31] -------------------------------------------------
+[19:59:31] 
+[19:59:31] Loading...
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: pawnregex
+[19:59:31] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: libRegEx
+[19:59:31] 
+[19:59:31]  ------------------------------
+[19:59:31]  |
+[19:59:31]  | -> Regular Expression Plugin v0.2
+[19:59:31]  | -> Using Oniguruma v5.9.5
+[19:59:31]  |
+[19:59:31]  ------ (c) 2014, Koala -------
+[19:59:31] 
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: ColAndreas
+[19:59:31] *********************
+[19:59:31] ** Created By:     **
+[19:59:31] ** [uL]Chris42O    **
+[19:59:31] ** [uL]Slice       **
+[19:59:31] ** [uL]Pottus      **
+[19:59:31] *********************
+[19:59:31] No collision data found.
+[19:59:31] *********************
+[19:59:31]   ColAndreas Loaded
+[19:59:31]    v1.4.0
+[19:59:31] *********************
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: mysql.dll
+[19:59:31]  >> plugin.mysql: R39-6 successfully loaded.
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: sampmysql
+[19:59:31] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: pawnraknet
+[19:59:31] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: sscanf
+[19:59:31] 
+
+[19:59:31]  ===============================
+
+[19:59:31]       sscanf plugin loaded.     
+
+[19:59:31]    (c) 2009 Alex "Y_Less" Cole
+
+[19:59:31]    0.3d-R2 500 Players "dnee"
+
+[19:59:31]  ===============================
+
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: Whirlpool
+[19:59:31]  
+[19:59:31]  ==================
+[19:59:31]  
+[19:59:31]   Whirlpool loaded
+[19:59:31]  
+[19:59:31]  ==================
+[19:59:31]  
+[19:59:31]   Loaded.
+[19:59:31]  Loading plugin: nativechecker
+[19:59:31]   Loaded.
+[19:59:31]  Loaded 11 plugins.
+
+[19:59:31] 
+[19:59:31] Ban list
+[19:59:31] --------
+[19:59:31]  Loaded: samp.ban
+[19:59:31] 
+[19:59:31] 
+[19:59:31] Filterscripts
+[19:59:31] ---------------
+[19:59:31]   Loading filterscript 'sobeit.amx'...
+[19:59:31] Anti Sobeit loaded
+[19:59:31]   Loaded 1 filterscripts.
+
+[19:59:31]  
+[19:59:31]  
+[19:59:31]  
+[19:59:31]  ======================================= 
+[19:59:31]  |                                     | 
+[19:59:31]  |        YSI version 3.09.0684        | 
+[19:59:31]  |        By Alex "Y_Less" Cole        | 
+[19:59:31]  |                                     | 
+[19:59:31]  ======================================= 
+[19:59:31]  
+[19:59:31]  
+[19:59:31]  
+[19:59:31]  
+[19:59:31] --------------------------------------
+[19:59:31]  Anticheat Nex-AC Load Shod
+[19:59:31]  Noskhe Anticheat: 1.9.69
+[19:59:31]  Sazande: Nexius
+[19:59:31] --------------------------------------
+
+[19:59:31] [npc:join] Billy has joined the server (502:127.0.0.1)
+[19:59:31] [npc:join] Chester has joined the server (501:127.0.0.1)
+[19:59:31] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[19:59:31] Server password has been removed.
+[19:59:31] -- Connected to MySQL Server successfully. --
+[19:59:31] 
+Loading Houses ...
+
+[19:59:31] 
+Loading Codes ...
+
+[19:59:31] 
+Loading Businesses ...
+
+[19:59:31] 
+Loading Special Businesses ...
+
+[19:59:31] 
+Loading Stuff ...
+
+[19:59:31] 
+Loading Factions/Families ...
+
+[19:59:31] 
+Loading Clans ...
+
+[19:59:31] 
+Loading Clans ...
+
+[19:59:31] 
+Loading Turfs ...
+
+[19:59:31] 
+Loading Meetings ...
+
+[19:59:31] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[19:59:31] Number of vehicle models: 120
+[19:59:31] 
+All Houses Loaded.
+
+[19:59:31] 
+All Codes Loaded.
+
+[19:59:31] 
+All Businesses Loaded.
+
+[19:59:31] 
+All Special Businesses Loaded.
+
+[19:59:31] 
+Stuff loaded
+JackpotValue: 5918, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[19:59:31] 
+All Dynamic Factions Loaded.
+
+[19:59:31] 
+All Clans Loaded.
+
+[19:59:32] 
+All Friends Loaded.
+
+[19:59:32] 
+All Turfs Loaded.
+
+[19:59:32] 
+All Meetings Loaded.
+
+[19:59:32] 
+Royal City Game gamemode loaded.
+
+[19:59:32] 
+Scripter: MoeinBig.
+
+
+[19:59:32] 
+Site: Bigdev.ir.
+
+
+[19:59:32] Server password has been removed.
+[19:59:42] [connection] 2.147.161.164:10269 requests connection cookie.
+[19:59:42] [connection] incoming connection: 2.147.161.164:10269 id: 0
+[19:59:43] [join] Vexer has joined the server (0:2.147.161.164)
+[20:00:03] Vexer has logged in.
+[20:00:03] Now server has at least one active admin
+[20:00:09] Vexer has logged in.
+[20:00:10] (CMD) Vexer: /pin
+[20:00:14] (CMD) Vexer: /ml 0 0
+[20:00:15] (CMD) Vexer: /ml 0 12
+[20:00:18] [part] Vexer has left the server (0:1)
+[20:00:18] Now server hasn't any active admin
+[20:00:19] [connection] 2.147.161.164:10271 requests connection cookie.
+[20:00:19] [connection] incoming connection: 2.147.161.164:10271 id: 0
+[20:00:20] [connection] 2.147.161.164:10272 requests connection cookie.
+[20:00:20] [connection] incoming connection: 2.147.161.164:10272 id: 1
+[20:00:20] [join] Vexer has joined the server (1:2.147.161.164)
+[20:00:33] Vexer has logged in.
+[20:00:33] Now server has at least one active admin
+[20:00:39] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:03:26] 
+[20:03:26] Server Plugins
+[20:03:26] --------------
+[20:03:26]  Loading plugin: streamer
+[20:03:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: FCNPC
+[20:03:26] 
+[20:03:26] -------------------------------------------------
+[20:03:26]      FCNPC - Fully Controllable NPC v1.8.2
+[20:03:26]          Windows SA-MP 0.3.7 R2
+[20:03:26]           Jan  8 2018 at 01:14:48
+[20:03:26] 
+[20:03:26]   Author:       OrMisicL (2013 - 2015)
+[20:03:26]   Continued by: ziggi (2016 - present)
+[20:03:26]   Contributors: kurta999, Neutralneu
+[20:03:26] -------------------------------------------------
+[20:03:26] 
+[20:03:26] Loading...
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: pawnregex
+[20:03:26] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: libRegEx
+[20:03:26] 
+[20:03:26]  ------------------------------
+[20:03:26]  |
+[20:03:26]  | -> Regular Expression Plugin v0.2
+[20:03:26]  | -> Using Oniguruma v5.9.5
+[20:03:26]  |
+[20:03:26]  ------ (c) 2014, Koala -------
+[20:03:26] 
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: ColAndreas
+[20:03:26] *********************
+[20:03:26] ** Created By:     **
+[20:03:26] ** [uL]Chris42O    **
+[20:03:26] ** [uL]Slice       **
+[20:03:26] ** [uL]Pottus      **
+[20:03:26] *********************
+[20:03:26] No collision data found.
+[20:03:26] *********************
+[20:03:26]   ColAndreas Loaded
+[20:03:26]    v1.4.0
+[20:03:26] *********************
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: mysql.dll
+[20:03:26]  >> plugin.mysql: R39-6 successfully loaded.
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: sampmysql
+[20:03:26] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: pawnraknet
+[20:03:26] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[20:03:26]   Loaded.
+[20:03:26]  Loading plugin: sscanf
+[20:03:27] 
+
+[20:03:27]  ===============================
+
+[20:03:27]       sscanf plugin loaded.     
+
+[20:03:27]    (c) 2009 Alex "Y_Less" Cole
+
+[20:03:27]    0.3d-R2 500 Players "dnee"
+
+[20:03:27]  ===============================
+
+[20:03:27]   Loaded.
+[20:03:27]  Loading plugin: Whirlpool
+[20:03:27]  
+[20:03:27]  ==================
+[20:03:27]  
+[20:03:27]   Whirlpool loaded
+[20:03:27]  
+[20:03:27]  ==================
+[20:03:27]  
+[20:03:27]   Loaded.
+[20:03:27]  Loading plugin: nativechecker
+[20:03:27]   Loaded.
+[20:03:27]  Loaded 11 plugins.
+
+[20:03:27] 
+[20:03:27] Ban list
+[20:03:27] --------
+[20:03:27]  Loaded: samp.ban
+[20:03:27] 
+[20:03:27] 
+[20:03:27] Filterscripts
+[20:03:27] ---------------
+[20:03:27]   Loading filterscript 'sobeit.amx'...
+[20:03:27] Anti Sobeit loaded
+[20:03:27]   Loaded 1 filterscripts.
+
+[20:03:27]  
+[20:03:27]  
+[20:03:27]  
+[20:03:27]  ======================================= 
+[20:03:27]  |                                     | 
+[20:03:27]  |        YSI version 3.09.0684        | 
+[20:03:27]  |        By Alex "Y_Less" Cole        | 
+[20:03:27]  |                                     | 
+[20:03:27]  ======================================= 
+[20:03:27]  
+[20:03:27]  
+[20:03:27]  
+[20:03:27]  
+[20:03:27] --------------------------------------
+[20:03:27]  Anticheat Nex-AC Load Shod
+[20:03:27]  Noskhe Anticheat: 1.9.69
+[20:03:27]  Sazande: Nexius
+[20:03:27] --------------------------------------
+
+[20:03:27] [npc:join] Billy has joined the server (502:127.0.0.1)
+[20:03:27] [npc:join] Chester has joined the server (501:127.0.0.1)
+[20:03:27] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[20:03:27] Server password has been removed.
+[20:03:27] -- Connected to MySQL Server successfully. --
+[20:03:27] 
+Loading Houses ...
+
+[20:03:27] 
+Loading Codes ...
+
+[20:03:27] 
+Loading Businesses ...
+
+[20:03:27] 
+Loading Special Businesses ...
+
+[20:03:27] 
+Loading Stuff ...
+
+[20:03:27] 
+Loading Factions/Families ...
+
+[20:03:27] 
+Loading Clans ...
+
+[20:03:27] 
+Loading Clans ...
+
+[20:03:27] 
+Loading Turfs ...
+
+[20:03:27] 
+Loading Meetings ...
+
+[20:03:27] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[20:03:27] Number of vehicle models: 120
+[20:03:27] 
+All Houses Loaded.
+
+[20:03:27] 
+All Codes Loaded.
+
+[20:03:27] 
+All Businesses Loaded.
+
+[20:03:27] 
+All Special Businesses Loaded.
+
+[20:03:27] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[20:03:27] 
+All Dynamic Factions Loaded.
+
+[20:03:27] 
+All Clans Loaded.
+
+[20:03:27] 
+All Friends Loaded.
+
+[20:03:27] 
+All Turfs Loaded.
+
+[20:03:27] 
+All Meetings Loaded.
+
+[20:03:27] 
+Royal City Game gamemode loaded.
+
+[20:03:27] 
+Scripter: MoeinBig.
+
+
+[20:03:27] 
+Site: Bigdev.ir.
+
+
+[20:03:28] Server password has been removed.
+[20:03:28] [connection] 2.147.161.164:10279 requests connection cookie.
+[20:03:28] [connection] incoming connection: 2.147.161.164:10279 id: 0
+[20:03:29] [join] Vexer has joined the server (0:2.147.161.164)
+[20:03:42] Vexer has logged in.
+[20:03:42] Now server has at least one active admin
+[20:03:48] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:42:28] 
+[21:42:28] Server Plugins
+[21:42:28] --------------
+[21:42:28]  Loading plugin: streamer
+[21:42:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: FCNPC
+[21:42:28] 
+[21:42:28] -------------------------------------------------
+[21:42:28]      FCNPC - Fully Controllable NPC v1.8.2
+[21:42:28]          Windows SA-MP 0.3.7 R2
+[21:42:28]           Jan  8 2018 at 01:14:48
+[21:42:28] 
+[21:42:28]   Author:       OrMisicL (2013 - 2015)
+[21:42:28]   Continued by: ziggi (2016 - present)
+[21:42:28]   Contributors: kurta999, Neutralneu
+[21:42:28] -------------------------------------------------
+[21:42:28] 
+[21:42:28] Loading...
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: pawnregex
+[21:42:28] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: libRegEx
+[21:42:28] 
+[21:42:28]  ------------------------------
+[21:42:28]  |
+[21:42:28]  | -> Regular Expression Plugin v0.2
+[21:42:28]  | -> Using Oniguruma v5.9.5
+[21:42:28]  |
+[21:42:28]  ------ (c) 2014, Koala -------
+[21:42:28] 
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: ColAndreas
+[21:42:28] *********************
+[21:42:28] ** Created By:     **
+[21:42:28] ** [uL]Chris42O    **
+[21:42:28] ** [uL]Slice       **
+[21:42:28] ** [uL]Pottus      **
+[21:42:28] *********************
+[21:42:28] No collision data found.
+[21:42:28] *********************
+[21:42:28]   ColAndreas Loaded
+[21:42:28]    v1.4.0
+[21:42:28] *********************
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: mysql.dll
+[21:42:28]  >> plugin.mysql: R39-6 successfully loaded.
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: sampmysql
+[21:42:28] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: pawnraknet
+[21:42:28] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: sscanf
+[21:42:28] 
+
+[21:42:28]  ===============================
+
+[21:42:28]       sscanf plugin loaded.     
+
+[21:42:28]    (c) 2009 Alex "Y_Less" Cole
+
+[21:42:28]    0.3d-R2 500 Players "dnee"
+
+[21:42:28]  ===============================
+
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: Whirlpool
+[21:42:28]  
+[21:42:28]  ==================
+[21:42:28]  
+[21:42:28]   Whirlpool loaded
+[21:42:28]  
+[21:42:28]  ==================
+[21:42:28]  
+[21:42:28]   Loaded.
+[21:42:28]  Loading plugin: nativechecker
+[21:42:28]   Loaded.
+[21:42:28]  Loaded 11 plugins.
+
+[21:42:28] 
+[21:42:28] Ban list
+[21:42:28] --------
+[21:42:28]  Loaded: samp.ban
+[21:42:28] 
+[21:42:28] 
+[21:42:28] Filterscripts
+[21:42:28] ---------------
+[21:42:28]   Loading filterscript 'sobeit.amx'...
+[21:42:28] Anti Sobeit loaded
+[21:42:28]   Loaded 1 filterscripts.
+
+[21:42:28]  
+[21:42:28]  
+[21:42:28]  
+[21:42:28]  ======================================= 
+[21:42:28]  |                                     | 
+[21:42:28]  |        YSI version 3.09.0684        | 
+[21:42:28]  |        By Alex "Y_Less" Cole        | 
+[21:42:28]  |                                     | 
+[21:42:28]  ======================================= 
+[21:42:28]  
+[21:42:28]  
+[21:42:28]  
+[21:42:28]  
+[21:42:28] --------------------------------------
+[21:42:28]  Anticheat Nex-AC Load Shod
+[21:42:28]  Noskhe Anticheat: 1.9.69
+[21:42:28]  Sazande: Nexius
+[21:42:28] --------------------------------------
+
+[21:42:28] [npc:join] Billy has joined the server (502:127.0.0.1)
+[21:42:29] [npc:join] Chester has joined the server (501:127.0.0.1)
+[21:42:29] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[21:42:29] Server password has been removed.
+[21:42:29] -- Connected to MySQL Server successfully. --
+[21:42:29] 
+Loading Houses ...
+
+[21:42:29] 
+Loading Codes ...
+
+[21:42:29] 
+Loading Businesses ...
+
+[21:42:29] 
+Loading Special Businesses ...
+
+[21:42:29] 
+Loading Stuff ...
+
+[21:42:29] 
+Loading Factions/Families ...
+
+[21:42:29] 
+Loading Clans ...
+
+[21:42:29] 
+Loading Clans ...
+
+[21:42:29] 
+Loading Turfs ...
+
+[21:42:29] 
+Loading Meetings ...
+
+[21:42:29] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[21:42:29] Number of vehicle models: 120
+[21:42:29] 
+All Houses Loaded.
+
+[21:42:29] 
+All Codes Loaded.
+
+[21:42:29] 
+All Businesses Loaded.
+
+[21:42:29] 
+All Special Businesses Loaded.
+
+[21:42:29] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[21:42:29] 
+All Dynamic Factions Loaded.
+
+[21:42:29] 
+All Clans Loaded.
+
+[21:42:29] 
+All Friends Loaded.
+
+[21:42:29] 
+All Turfs Loaded.
+
+[21:42:29] 
+All Meetings Loaded.
+
+[21:42:29] 
+Royal City Game gamemode loaded.
+
+[21:42:29] 
+Scripter: MoeinBig.
+
+
+[21:42:29] 
+Site: Bigdev.ir.
+
+
+[21:42:30] Server password has been removed.
+[21:42:47] [connection] 2.147.161.164:13267 requests connection cookie.
+[21:42:47] [connection] incoming connection: 2.147.161.164:13267 id: 0
+[21:42:47] [join] Vexer has joined the server (0:2.147.161.164)
+[21:43:01] Vexer has logged in.
+[21:43:01] Now server has at least one active admin
+[21:43:07] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:08] 
+[21:54:08] Server Plugins
+[21:54:08] --------------
+[21:54:08]  Loading plugin: streamer
+[21:54:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: FCNPC
+[21:54:08] 
+[21:54:08] -------------------------------------------------
+[21:54:08]      FCNPC - Fully Controllable NPC v1.8.2
+[21:54:08]          Windows SA-MP 0.3.7 R2
+[21:54:08]           Jan  8 2018 at 01:14:48
+[21:54:08] 
+[21:54:08]   Author:       OrMisicL (2013 - 2015)
+[21:54:08]   Continued by: ziggi (2016 - present)
+[21:54:08]   Contributors: kurta999, Neutralneu
+[21:54:08] -------------------------------------------------
+[21:54:08] 
+[21:54:08] Loading...
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: pawnregex
+[21:54:08] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: libRegEx
+[21:54:08] 
+[21:54:08]  ------------------------------
+[21:54:08]  |
+[21:54:08]  | -> Regular Expression Plugin v0.2
+[21:54:08]  | -> Using Oniguruma v5.9.5
+[21:54:08]  |
+[21:54:08]  ------ (c) 2014, Koala -------
+[21:54:08] 
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: ColAndreas
+[21:54:08] *********************
+[21:54:08] ** Created By:     **
+[21:54:08] ** [uL]Chris42O    **
+[21:54:08] ** [uL]Slice       **
+[21:54:08] ** [uL]Pottus      **
+[21:54:08] *********************
+[21:54:08] No collision data found.
+[21:54:08] *********************
+[21:54:08]   ColAndreas Loaded
+[21:54:08]    v1.4.0
+[21:54:08] *********************
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: mysql.dll
+[21:54:08]  >> plugin.mysql: R39-6 successfully loaded.
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: sampmysql
+[21:54:08] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: pawnraknet
+[21:54:08] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: sscanf
+[21:54:08] 
+
+[21:54:08]  ===============================
+
+[21:54:08]       sscanf plugin loaded.     
+
+[21:54:08]    (c) 2009 Alex "Y_Less" Cole
+
+[21:54:08]    0.3d-R2 500 Players "dnee"
+
+[21:54:08]  ===============================
+
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: Whirlpool
+[21:54:08]  
+[21:54:08]  ==================
+[21:54:08]  
+[21:54:08]   Whirlpool loaded
+[21:54:08]  
+[21:54:08]  ==================
+[21:54:08]  
+[21:54:08]   Loaded.
+[21:54:08]  Loading plugin: nativechecker
+[21:54:08]   Loaded.
+[21:54:08]  Loaded 11 plugins.
+
+[21:54:08] 
+[21:54:08] Ban list
+[21:54:08] --------
+[21:54:08]  Loaded: samp.ban
+[21:54:08] 
+[21:54:08] 
+[21:54:08] Filterscripts
+[21:54:08] ---------------
+[21:54:08]   Loading filterscript 'sobeit.amx'...
+[21:54:08] Anti Sobeit loaded
+[21:54:08]   Loaded 1 filterscripts.
+
+[21:54:09]  
+[21:54:09]  
+[21:54:09]  
+[21:54:09]  ======================================= 
+[21:54:09]  |                                     | 
+[21:54:09]  |        YSI version 3.09.0684        | 
+[21:54:09]  |        By Alex "Y_Less" Cole        | 
+[21:54:09]  |                                     | 
+[21:54:09]  ======================================= 
+[21:54:09]  
+[21:54:09]  
+[21:54:09]  
+[21:54:09]  
+[21:54:09] --------------------------------------
+[21:54:09]  Anticheat Nex-AC Load Shod
+[21:54:09]  Noskhe Anticheat: 1.9.69
+[21:54:09]  Sazande: Nexius
+[21:54:09] --------------------------------------
+
+[21:54:09] [npc:join] Billy has joined the server (502:127.0.0.1)
+[21:54:09] [npc:join] Chester has joined the server (501:127.0.0.1)
+[21:54:09] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[21:54:09] Server password has been removed.
+[21:54:09] -- Connected to MySQL Server successfully. --
+[21:54:09] 
+Loading Houses ...
+
+[21:54:09] 
+Loading Codes ...
+
+[21:54:09] 
+Loading Businesses ...
+
+[21:54:09] 
+Loading Special Businesses ...
+
+[21:54:09] 
+Loading Stuff ...
+
+[21:54:09] 
+Loading Factions/Families ...
+
+[21:54:09] 
+Loading Clans ...
+
+[21:54:09] 
+Loading Clans ...
+
+[21:54:09] 
+Loading Turfs ...
+
+[21:54:09] 
+Loading Meetings ...
+
+[21:54:09] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[21:54:09] Number of vehicle models: 120
+[21:54:09] 
+All Houses Loaded.
+
+[21:54:09] 
+All Codes Loaded.
+
+[21:54:09] 
+All Businesses Loaded.
+
+[21:54:09] 
+All Special Businesses Loaded.
+
+[21:54:09] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[21:54:09] 
+All Dynamic Factions Loaded.
+
+[21:54:09] 
+All Clans Loaded.
+
+[21:54:09] 
+All Friends Loaded.
+
+[21:54:09] 
+All Turfs Loaded.
+
+[21:54:09] 
+All Meetings Loaded.
+
+[21:54:09] 
+Royal City Game gamemode loaded.
+
+[21:54:09] 
+Scripter: MoeinBig.
+
+
+[21:54:09] 
+Site: Bigdev.ir.
+
+
+[21:54:10] Server password has been removed.
+[21:54:11] [connection] 2.147.161.164:13994 requests connection cookie.
+[21:54:11] [connection] incoming connection: 2.147.161.164:13994 id: 0
+[21:54:12] [join] Vexer has joined the server (0:2.147.161.164)
+[21:54:22] [chat] [Vexer]: tt
+[21:54:22] [Nex-AC debug] ID 0 Az NOP TogglePlayerSpectating Estefade Kard
+[21:54:22] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 052 (6)
+[21:54:26] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+[21:54:34] Vexer has logged in.
+[21:54:35] Now server has at least one active admin
+[21:54:40] Vexer has logged in.
+[21:54:52] [part] Vexer has left the server (0:1)
+[21:54:52] Now server hasn't any active admin
+[21:54:53] [connection] 2.147.161.164:13996 requests connection cookie.
+[21:54:53] [connection] incoming connection: 2.147.161.164:13996 id: 0
+[21:55:04] [connection] 2.147.161.164:14007 requests connection cookie.
+[21:55:04] [connection] incoming connection: 2.147.161.164:14007 id: 0
+[21:55:05] [join] Vexer has joined the server (0:2.147.161.164)
+[21:55:22] Vexer has logged in.
+[21:55:22] Now server has at least one active admin
+[21:55:28] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:00] 
+[22:03:00] Server Plugins
+[22:03:00] --------------
+[22:03:00]  Loading plugin: streamer
+[22:03:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: FCNPC
+[22:03:00] 
+[22:03:00] -------------------------------------------------
+[22:03:00]      FCNPC - Fully Controllable NPC v1.8.2
+[22:03:00]          Windows SA-MP 0.3.7 R2
+[22:03:00]           Jan  8 2018 at 01:14:48
+[22:03:00] 
+[22:03:00]   Author:       OrMisicL (2013 - 2015)
+[22:03:00]   Continued by: ziggi (2016 - present)
+[22:03:00]   Contributors: kurta999, Neutralneu
+[22:03:00] -------------------------------------------------
+[22:03:00] 
+[22:03:00] Loading...
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: pawnregex
+[22:03:00] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: libRegEx
+[22:03:00] 
+[22:03:00]  ------------------------------
+[22:03:00]  |
+[22:03:00]  | -> Regular Expression Plugin v0.2
+[22:03:00]  | -> Using Oniguruma v5.9.5
+[22:03:00]  |
+[22:03:00]  ------ (c) 2014, Koala -------
+[22:03:00] 
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: ColAndreas
+[22:03:00] *********************
+[22:03:00] ** Created By:     **
+[22:03:00] ** [uL]Chris42O    **
+[22:03:00] ** [uL]Slice       **
+[22:03:00] ** [uL]Pottus      **
+[22:03:00] *********************
+[22:03:00] No collision data found.
+[22:03:00] *********************
+[22:03:00]   ColAndreas Loaded
+[22:03:00]    v1.4.0
+[22:03:00] *********************
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: mysql.dll
+[22:03:00]  >> plugin.mysql: R39-6 successfully loaded.
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: sampmysql
+[22:03:00] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: pawnraknet
+[22:03:00] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: sscanf
+[22:03:00] 
+
+[22:03:00]  ===============================
+
+[22:03:00]       sscanf plugin loaded.     
+
+[22:03:00]    (c) 2009 Alex "Y_Less" Cole
+
+[22:03:00]    0.3d-R2 500 Players "dnee"
+
+[22:03:00]  ===============================
+
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: Whirlpool
+[22:03:00]  
+[22:03:00]  ==================
+[22:03:00]  
+[22:03:00]   Whirlpool loaded
+[22:03:00]  
+[22:03:00]  ==================
+[22:03:00]  
+[22:03:00]   Loaded.
+[22:03:00]  Loading plugin: nativechecker
+[22:03:00]   Loaded.
+[22:03:00]  Loaded 11 plugins.
+
+[22:03:00] 
+[22:03:00] Ban list
+[22:03:00] --------
+[22:03:00]  Loaded: samp.ban
+[22:03:00] 
+[22:03:00] 
+[22:03:00] Filterscripts
+[22:03:00] ---------------
+[22:03:00]   Loading filterscript 'sobeit.amx'...
+[22:03:00] Anti Sobeit loaded
+[22:03:00]   Loaded 1 filterscripts.
+
+[22:03:00]  
+[22:03:00]  
+[22:03:00]  
+[22:03:00]  ======================================= 
+[22:03:00]  |                                     | 
+[22:03:00]  |        YSI version 3.09.0684        | 
+[22:03:00]  |        By Alex "Y_Less" Cole        | 
+[22:03:00]  |                                     | 
+[22:03:00]  ======================================= 
+[22:03:00]  
+[22:03:00]  
+[22:03:00]  
+[22:03:00]  
+[22:03:00] --------------------------------------
+[22:03:00]  Anticheat Nex-AC Load Shod
+[22:03:00]  Noskhe Anticheat: 1.9.69
+[22:03:00]  Sazande: Nexius
+[22:03:00] --------------------------------------
+
+[22:03:00] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:03:00] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:03:00] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:03:00] Server password has been removed.
+[22:03:00] -- Connected to MySQL Server successfully. --
+[22:03:00] 
+Loading Houses ...
+
+[22:03:00] 
+Loading Codes ...
+
+[22:03:00] 
+Loading Businesses ...
+
+[22:03:00] 
+Loading Special Businesses ...
+
+[22:03:00] 
+Loading Stuff ...
+
+[22:03:00] 
+Loading Factions/Families ...
+
+[22:03:00] 
+Loading Clans ...
+
+[22:03:00] 
+Loading Clans ...
+
+[22:03:00] 
+Loading Turfs ...
+
+[22:03:00] 
+Loading Meetings ...
+
+[22:03:00] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:03:00] Number of vehicle models: 120
+[22:03:00] 
+All Houses Loaded.
+
+[22:03:00] 
+All Codes Loaded.
+
+[22:03:00] 
+All Businesses Loaded.
+
+[22:03:00] 
+All Special Businesses Loaded.
+
+[22:03:00] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:03:00] 
+All Dynamic Factions Loaded.
+
+[22:03:00] 
+All Clans Loaded.
+
+[22:03:00] 
+All Friends Loaded.
+
+[22:03:00] 
+All Turfs Loaded.
+
+[22:03:00] 
+All Meetings Loaded.
+
+[22:03:00] 
+Royal City Game gamemode loaded.
+
+[22:03:00] 
+Scripter: MoeinBig.
+
+
+[22:03:00] 
+Site: Bigdev.ir.
+
+
+[22:03:01] Server password has been removed.
+[22:03:02] [connection] 2.147.161.164:14728 requests connection cookie.
+[22:03:02] [connection] incoming connection: 2.147.161.164:14728 id: 0
+[22:03:02] [join] Vexer has joined the server (0:2.147.161.164)
+[22:03:20] Vexer has logged in.
+[22:03:21] Now server has at least one active admin
+[22:03:26] Vexer has logged in.
+[22:03:29] (CMD) Vexer: /pin
+[22:03:35] (CMD) Vexer: /id 0
+[22:03:40] Vexer has logged in.
+[22:03:40] [chat] [Vexer]: t
+[22:03:44] (CMD) Vexer: /id 0
+[22:03:49] Vexer has logged in.
+[22:03:53] (CMD) Vexer: /id 0
+[22:03:58] Vexer has logged in.
+[22:03:59] (CMD) Vexer: /id 1
+[22:04:04] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:08:20] 
+[22:08:20] Server Plugins
+[22:08:20] --------------
+[22:08:20]  Loading plugin: streamer
+[22:08:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:08:20]   Loaded.
+[22:08:20]  Loading plugin: FCNPC
+[22:08:20] 
+[22:08:20] -------------------------------------------------
+[22:08:20]      FCNPC - Fully Controllable NPC v1.8.2
+[22:08:20]          Windows SA-MP 0.3.7 R2
+[22:08:20]           Jan  8 2018 at 01:14:48
+[22:08:20] 
+[22:08:20]   Author:       OrMisicL (2013 - 2015)
+[22:08:20]   Continued by: ziggi (2016 - present)
+[22:08:20]   Contributors: kurta999, Neutralneu
+[22:08:20] -------------------------------------------------
+[22:08:21] 
+[22:08:21] Loading...
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: pawnregex
+[22:08:21] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: libRegEx
+[22:08:21] 
+[22:08:21]  ------------------------------
+[22:08:21]  |
+[22:08:21]  | -> Regular Expression Plugin v0.2
+[22:08:21]  | -> Using Oniguruma v5.9.5
+[22:08:21]  |
+[22:08:21]  ------ (c) 2014, Koala -------
+[22:08:21] 
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: ColAndreas
+[22:08:21] *********************
+[22:08:21] ** Created By:     **
+[22:08:21] ** [uL]Chris42O    **
+[22:08:21] ** [uL]Slice       **
+[22:08:21] ** [uL]Pottus      **
+[22:08:21] *********************
+[22:08:21] No collision data found.
+[22:08:21] *********************
+[22:08:21]   ColAndreas Loaded
+[22:08:21]    v1.4.0
+[22:08:21] *********************
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: mysql.dll
+[22:08:21]  >> plugin.mysql: R39-6 successfully loaded.
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: sampmysql
+[22:08:21] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: pawnraknet
+[22:08:21] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: sscanf
+[22:08:21] 
+
+[22:08:21]  ===============================
+
+[22:08:21]       sscanf plugin loaded.     
+
+[22:08:21]    (c) 2009 Alex "Y_Less" Cole
+
+[22:08:21]    0.3d-R2 500 Players "dnee"
+
+[22:08:21]  ===============================
+
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: Whirlpool
+[22:08:21]  
+[22:08:21]  ==================
+[22:08:21]  
+[22:08:21]   Whirlpool loaded
+[22:08:21]  
+[22:08:21]  ==================
+[22:08:21]  
+[22:08:21]   Loaded.
+[22:08:21]  Loading plugin: nativechecker
+[22:08:21]   Loaded.
+[22:08:21]  Loaded 11 plugins.
+
+[22:08:21] 
+[22:08:21] Ban list
+[22:08:21] --------
+[22:08:21]  Loaded: samp.ban
+[22:08:21] 
+[22:08:21] 
+[22:08:21] Filterscripts
+[22:08:21] ---------------
+[22:08:21]   Loading filterscript 'sobeit.amx'...
+[22:08:21] Anti Sobeit loaded
+[22:08:21]   Loaded 1 filterscripts.
+
+[22:08:21]  
+[22:08:21]  
+[22:08:21]  
+[22:08:21]  ======================================= 
+[22:08:21]  |                                     | 
+[22:08:21]  |        YSI version 3.09.0684        | 
+[22:08:21]  |        By Alex "Y_Less" Cole        | 
+[22:08:21]  |                                     | 
+[22:08:21]  ======================================= 
+[22:08:21]  
+[22:08:21]  
+[22:08:21]  
+[22:08:21]  
+[22:08:21] --------------------------------------
+[22:08:21]  Anticheat Nex-AC Load Shod
+[22:08:21]  Noskhe Anticheat: 1.9.69
+[22:08:21]  Sazande: Nexius
+[22:08:21] --------------------------------------
+
+[22:08:21] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:08:21] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:08:21] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:08:21] Server password has been removed.
+[22:08:21] -- Connected to MySQL Server successfully. --
+[22:08:21] 
+Loading Houses ...
+
+[22:08:21] 
+Loading Codes ...
+
+[22:08:21] 
+Loading Businesses ...
+
+[22:08:21] 
+Loading Special Businesses ...
+
+[22:08:21] 
+Loading Stuff ...
+
+[22:08:21] 
+Loading Factions/Families ...
+
+[22:08:21] 
+Loading Clans ...
+
+[22:08:21] 
+Loading Clans ...
+
+[22:08:21] 
+Loading Turfs ...
+
+[22:08:21] 
+Loading Meetings ...
+
+[22:08:21] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:08:21] Number of vehicle models: 120
+[22:08:21] 
+All Houses Loaded.
+
+[22:08:21] 
+All Codes Loaded.
+
+[22:08:21] 
+All Businesses Loaded.
+
+[22:08:21] 
+All Special Businesses Loaded.
+
+[22:08:21] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:08:21] 
+All Dynamic Factions Loaded.
+
+[22:08:21] 
+All Clans Loaded.
+
+[22:08:21] 
+All Friends Loaded.
+
+[22:08:21] 
+All Turfs Loaded.
+
+[22:08:21] 
+All Meetings Loaded.
+
+[22:08:21] 
+Royal City Game gamemode loaded.
+
+[22:08:21] 
+Scripter: MoeinBig.
+
+
+[22:08:21] 
+Site: Bigdev.ir.
+
+
+[22:08:22] Server password has been removed.
+[22:08:23] [connection] 2.147.161.164:14739 requests connection cookie.
+[22:08:23] [connection] incoming connection: 2.147.161.164:14739 id: 0
+[22:08:24] [join] Vexer has joined the server (0:2.147.161.164)
+[22:08:34] Vexer has logged in.
+[22:08:34] Now server has at least one active admin
+[22:08:40] Vexer has logged in.
+[22:08:44] (CMD) Vexer: /pin
+[22:08:48] (CMD) Vexer: /id 0
+[22:08:50] (CMD) Vexer: /id 0
+[22:08:50] (CMD) Vexer: /id 0
+[22:08:52] (CMD) Vexer: /id 0
+[22:08:53] (CMD) Vexer: /id 0
+[22:08:54] (CMD) Vexer: /id 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:09:51] 
+[22:09:51] Server Plugins
+[22:09:51] --------------
+[22:09:51]  Loading plugin: streamer
+[22:09:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: FCNPC
+[22:09:51] 
+[22:09:51] -------------------------------------------------
+[22:09:51]      FCNPC - Fully Controllable NPC v1.8.2
+[22:09:51]          Windows SA-MP 0.3.7 R2
+[22:09:51]           Jan  8 2018 at 01:14:48
+[22:09:51] 
+[22:09:51]   Author:       OrMisicL (2013 - 2015)
+[22:09:51]   Continued by: ziggi (2016 - present)
+[22:09:51]   Contributors: kurta999, Neutralneu
+[22:09:51] -------------------------------------------------
+[22:09:51] 
+[22:09:51] Loading...
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: pawnregex
+[22:09:51] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: libRegEx
+[22:09:51] 
+[22:09:51]  ------------------------------
+[22:09:51]  |
+[22:09:51]  | -> Regular Expression Plugin v0.2
+[22:09:51]  | -> Using Oniguruma v5.9.5
+[22:09:51]  |
+[22:09:51]  ------ (c) 2014, Koala -------
+[22:09:51] 
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: ColAndreas
+[22:09:51] *********************
+[22:09:51] ** Created By:     **
+[22:09:51] ** [uL]Chris42O    **
+[22:09:51] ** [uL]Slice       **
+[22:09:51] ** [uL]Pottus      **
+[22:09:51] *********************
+[22:09:51] No collision data found.
+[22:09:51] *********************
+[22:09:51]   ColAndreas Loaded
+[22:09:51]    v1.4.0
+[22:09:51] *********************
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: mysql.dll
+[22:09:51]  >> plugin.mysql: R39-6 successfully loaded.
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: sampmysql
+[22:09:51] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: pawnraknet
+[22:09:51] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: sscanf
+[22:09:51] 
+
+[22:09:51]  ===============================
+
+[22:09:51]       sscanf plugin loaded.     
+
+[22:09:51]    (c) 2009 Alex "Y_Less" Cole
+
+[22:09:51]    0.3d-R2 500 Players "dnee"
+
+[22:09:51]  ===============================
+
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: Whirlpool
+[22:09:51]  
+[22:09:51]  ==================
+[22:09:51]  
+[22:09:51]   Whirlpool loaded
+[22:09:51]  
+[22:09:51]  ==================
+[22:09:51]  
+[22:09:51]   Loaded.
+[22:09:51]  Loading plugin: nativechecker
+[22:09:51]   Loaded.
+[22:09:51]  Loaded 11 plugins.
+
+[22:09:51] 
+[22:09:51] Ban list
+[22:09:51] --------
+[22:09:51]  Loaded: samp.ban
+[22:09:51] 
+[22:09:51] 
+[22:09:51] Filterscripts
+[22:09:51] ---------------
+[22:09:51]   Loading filterscript 'sobeit.amx'...
+[22:09:51] Anti Sobeit loaded
+[22:09:51]   Loaded 1 filterscripts.
+
+[22:09:51]  
+[22:09:51]  
+[22:09:51]  
+[22:09:51]  ======================================= 
+[22:09:51]  |                                     | 
+[22:09:51]  |        YSI version 3.09.0684        | 
+[22:09:51]  |        By Alex "Y_Less" Cole        | 
+[22:09:51]  |                                     | 
+[22:09:51]  ======================================= 
+[22:09:51]  
+[22:09:51]  
+[22:09:51]  
+[22:09:51]  
+[22:09:51] --------------------------------------
+[22:09:51]  Anticheat Nex-AC Load Shod
+[22:09:51]  Noskhe Anticheat: 1.9.69
+[22:09:51]  Sazande: Nexius
+[22:09:51] --------------------------------------
+
+[22:09:51] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:09:51] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:09:51] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:09:51] Server password has been removed.
+[22:09:51] -- Connected to MySQL Server successfully. --
+[22:09:51] 
+Loading Houses ...
+
+[22:09:51] 
+Loading Codes ...
+
+[22:09:51] 
+Loading Businesses ...
+
+[22:09:51] 
+Loading Special Businesses ...
+
+[22:09:51] 
+Loading Stuff ...
+
+[22:09:51] 
+Loading Factions/Families ...
+
+[22:09:51] 
+Loading Clans ...
+
+[22:09:51] 
+Loading Clans ...
+
+[22:09:51] 
+Loading Turfs ...
+
+[22:09:51] 
+Loading Meetings ...
+
+[22:09:51] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:09:51] Number of vehicle models: 120
+[22:09:51] 
+All Houses Loaded.
+
+[22:09:51] 
+All Codes Loaded.
+
+[22:09:51] 
+All Businesses Loaded.
+
+[22:09:51] 
+All Special Businesses Loaded.
+
+[22:09:51] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:09:51] 
+All Dynamic Factions Loaded.
+
+[22:09:51] 
+All Clans Loaded.
+
+[22:09:51] 
+All Friends Loaded.
+
+[22:09:51] 
+All Turfs Loaded.
+
+[22:09:51] 
+All Meetings Loaded.
+
+[22:09:51] 
+Royal City Game gamemode loaded.
+
+[22:09:51] 
+Scripter: MoeinBig.
+
+
+[22:09:51] 
+Site: Bigdev.ir.
+
+
+[22:09:52] Server password has been removed.
+[22:09:53] [connection] 2.147.161.164:14740 requests connection cookie.
+[22:09:54] [connection] incoming connection: 2.147.161.164:14740 id: 0
+[22:09:54] [join] Vexer has joined the server (0:2.147.161.164)
+[22:10:05] Vexer has logged in.
+[22:10:06] Now server has at least one active admin
+[22:10:11] Vexer has logged in.
+[22:10:15] (CMD) Vexer: /pin
+[22:10:18] (CMD) Vexer: /id 0
+[22:10:20] (CMD) Vexer: /id 0
+[22:10:21] (CMD) Vexer: /id 0
+[22:10:22] (CMD) Vexer: /id 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:12:26] 
+[22:12:27] Server Plugins
+[22:12:27] --------------
+[22:12:27]  Loading plugin: streamer
+[22:12:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: FCNPC
+[22:12:27] 
+[22:12:27] -------------------------------------------------
+[22:12:27]      FCNPC - Fully Controllable NPC v1.8.2
+[22:12:27]          Windows SA-MP 0.3.7 R2
+[22:12:27]           Jan  8 2018 at 01:14:48
+[22:12:27] 
+[22:12:27]   Author:       OrMisicL (2013 - 2015)
+[22:12:27]   Continued by: ziggi (2016 - present)
+[22:12:27]   Contributors: kurta999, Neutralneu
+[22:12:27] -------------------------------------------------
+[22:12:27] 
+[22:12:27] Loading...
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: pawnregex
+[22:12:27] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: libRegEx
+[22:12:27] 
+[22:12:27]  ------------------------------
+[22:12:27]  |
+[22:12:27]  | -> Regular Expression Plugin v0.2
+[22:12:27]  | -> Using Oniguruma v5.9.5
+[22:12:27]  |
+[22:12:27]  ------ (c) 2014, Koala -------
+[22:12:27] 
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: ColAndreas
+[22:12:27] *********************
+[22:12:27] ** Created By:     **
+[22:12:27] ** [uL]Chris42O    **
+[22:12:27] ** [uL]Slice       **
+[22:12:27] ** [uL]Pottus      **
+[22:12:27] *********************
+[22:12:27] No collision data found.
+[22:12:27] *********************
+[22:12:27]   ColAndreas Loaded
+[22:12:27]    v1.4.0
+[22:12:27] *********************
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: mysql.dll
+[22:12:27]  >> plugin.mysql: R39-6 successfully loaded.
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: sampmysql
+[22:12:27] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: pawnraknet
+[22:12:27] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: sscanf
+[22:12:27] 
+
+[22:12:27]  ===============================
+
+[22:12:27]       sscanf plugin loaded.     
+
+[22:12:27]    (c) 2009 Alex "Y_Less" Cole
+
+[22:12:27]    0.3d-R2 500 Players "dnee"
+
+[22:12:27]  ===============================
+
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: Whirlpool
+[22:12:27]  
+[22:12:27]  ==================
+[22:12:27]  
+[22:12:27]   Whirlpool loaded
+[22:12:27]  
+[22:12:27]  ==================
+[22:12:27]  
+[22:12:27]   Loaded.
+[22:12:27]  Loading plugin: nativechecker
+[22:12:27]   Loaded.
+[22:12:27]  Loaded 11 plugins.
+
+[22:12:27] 
+[22:12:27] Ban list
+[22:12:27] --------
+[22:12:27]  Loaded: samp.ban
+[22:12:27] 
+[22:12:27] 
+[22:12:27] Filterscripts
+[22:12:27] ---------------
+[22:12:27]   Loading filterscript 'sobeit.amx'...
+[22:12:27] Anti Sobeit loaded
+[22:12:27]   Loaded 1 filterscripts.
+
+[22:12:27]  
+[22:12:27]  
+[22:12:27]  
+[22:12:27]  ======================================= 
+[22:12:27]  |                                     | 
+[22:12:27]  |        YSI version 3.09.0684        | 
+[22:12:27]  |        By Alex "Y_Less" Cole        | 
+[22:12:27]  |                                     | 
+[22:12:27]  ======================================= 
+[22:12:27]  
+[22:12:27]  
+[22:12:27]  
+[22:12:27]  
+[22:12:27] --------------------------------------
+[22:12:27]  Anticheat Nex-AC Load Shod
+[22:12:27]  Noskhe Anticheat: 1.9.69
+[22:12:27]  Sazande: Nexius
+[22:12:27] --------------------------------------
+
+[22:12:27] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:12:27] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:12:27] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:12:27] Server password has been removed.
+[22:12:27] -- Connected to MySQL Server successfully. --
+[22:12:27] 
+Loading Houses ...
+
+[22:12:27] 
+Loading Codes ...
+
+[22:12:27] 
+Loading Businesses ...
+
+[22:12:27] 
+Loading Special Businesses ...
+
+[22:12:27] 
+Loading Stuff ...
+
+[22:12:27] 
+Loading Factions/Families ...
+
+[22:12:27] 
+Loading Clans ...
+
+[22:12:27] 
+Loading Clans ...
+
+[22:12:27] 
+Loading Turfs ...
+
+[22:12:27] 
+Loading Meetings ...
+
+[22:12:27] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:12:27] Number of vehicle models: 120
+[22:12:27] 
+All Houses Loaded.
+
+[22:12:27] 
+All Codes Loaded.
+
+[22:12:27] 
+All Businesses Loaded.
+
+[22:12:27] 
+All Special Businesses Loaded.
+
+[22:12:27] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:12:27] 
+All Dynamic Factions Loaded.
+
+[22:12:27] 
+All Clans Loaded.
+
+[22:12:27] 
+All Friends Loaded.
+
+[22:12:27] 
+All Turfs Loaded.
+
+[22:12:27] 
+All Meetings Loaded.
+
+[22:12:27] 
+Royal City Game gamemode loaded.
+
+[22:12:27] 
+Scripter: MoeinBig.
+
+
+[22:12:27] 
+Site: Bigdev.ir.
+
+
+[22:12:28] Server password has been removed.
+[22:12:31] [connection] 2.147.161.164:14743 requests connection cookie.
+[22:12:31] [connection] incoming connection: 2.147.161.164:14743 id: 0
+[22:12:32] [join] Vexer has joined the server (0:2.147.161.164)
+[22:12:53] [part] Vexer has left the server (0:0)
+[22:13:04] [connection] 2.147.161.164:14744 requests connection cookie.
+[22:13:04] [connection] incoming connection: 2.147.161.164:14744 id: 0
+[22:13:05] [join] Vexer has joined the server (0:2.147.161.164)
+[22:13:17] Vexer has logged in.
+[22:13:17] Now server has at least one active admin
+[22:13:22] Vexer has logged in.
+[22:13:26] (CMD) Vexer: /pin
+[22:13:31] (CMD) Vexer: /id 0
+[22:13:51] (CMD) Vexer: /respawn 0
+[22:13:53] (CMD) Vexer: /respawn 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:17:03] 
+[22:17:03] Server Plugins
+[22:17:03] --------------
+[22:17:03]  Loading plugin: streamer
+[22:17:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: FCNPC
+[22:17:03] 
+[22:17:03] -------------------------------------------------
+[22:17:03]      FCNPC - Fully Controllable NPC v1.8.2
+[22:17:03]          Windows SA-MP 0.3.7 R2
+[22:17:03]           Jan  8 2018 at 01:14:48
+[22:17:03] 
+[22:17:03]   Author:       OrMisicL (2013 - 2015)
+[22:17:03]   Continued by: ziggi (2016 - present)
+[22:17:03]   Contributors: kurta999, Neutralneu
+[22:17:03] -------------------------------------------------
+[22:17:03] 
+[22:17:03] Loading...
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: pawnregex
+[22:17:03] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: libRegEx
+[22:17:03] 
+[22:17:03]  ------------------------------
+[22:17:03]  |
+[22:17:03]  | -> Regular Expression Plugin v0.2
+[22:17:03]  | -> Using Oniguruma v5.9.5
+[22:17:03]  |
+[22:17:03]  ------ (c) 2014, Koala -------
+[22:17:03] 
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: ColAndreas
+[22:17:03] *********************
+[22:17:03] ** Created By:     **
+[22:17:03] ** [uL]Chris42O    **
+[22:17:03] ** [uL]Slice       **
+[22:17:03] ** [uL]Pottus      **
+[22:17:03] *********************
+[22:17:03] No collision data found.
+[22:17:03] *********************
+[22:17:03]   ColAndreas Loaded
+[22:17:03]    v1.4.0
+[22:17:03] *********************
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: mysql.dll
+[22:17:03]  >> plugin.mysql: R39-6 successfully loaded.
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: sampmysql
+[22:17:03] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: pawnraknet
+[22:17:03] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: sscanf
+[22:17:03] 
+
+[22:17:03]  ===============================
+
+[22:17:03]       sscanf plugin loaded.     
+
+[22:17:03]    (c) 2009 Alex "Y_Less" Cole
+
+[22:17:03]    0.3d-R2 500 Players "dnee"
+
+[22:17:03]  ===============================
+
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: Whirlpool
+[22:17:03]  
+[22:17:03]  ==================
+[22:17:03]  
+[22:17:03]   Whirlpool loaded
+[22:17:03]  
+[22:17:03]  ==================
+[22:17:03]  
+[22:17:03]   Loaded.
+[22:17:03]  Loading plugin: nativechecker
+[22:17:03]   Loaded.
+[22:17:03]  Loaded 11 plugins.
+
+[22:17:03] 
+[22:17:03] Ban list
+[22:17:03] --------
+[22:17:03]  Loaded: samp.ban
+[22:17:03] 
+[22:17:03] 
+[22:17:03] Filterscripts
+[22:17:03] ---------------
+[22:17:03]   Loading filterscript 'sobeit.amx'...
+[22:17:03] Anti Sobeit loaded
+[22:17:03]   Loaded 1 filterscripts.
+
+[22:17:03]  
+[22:17:03]  
+[22:17:03]  
+[22:17:03]  ======================================= 
+[22:17:03]  |                                     | 
+[22:17:03]  |        YSI version 3.09.0684        | 
+[22:17:03]  |        By Alex "Y_Less" Cole        | 
+[22:17:03]  |                                     | 
+[22:17:03]  ======================================= 
+[22:17:03]  
+[22:17:03]  
+[22:17:03]  
+[22:17:03]  
+[22:17:03] --------------------------------------
+[22:17:03]  Anticheat Nex-AC Load Shod
+[22:17:03]  Noskhe Anticheat: 1.9.69
+[22:17:03]  Sazande: Nexius
+[22:17:03] --------------------------------------
+
+[22:17:03] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:17:03] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:17:03] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:17:03] Server password has been removed.
+[22:17:03] -- Connected to MySQL Server successfully. --
+[22:17:03] 
+Loading Houses ...
+
+[22:17:03] 
+Loading Codes ...
+
+[22:17:03] 
+Loading Businesses ...
+
+[22:17:03] 
+Loading Special Businesses ...
+
+[22:17:03] 
+Loading Stuff ...
+
+[22:17:03] 
+Loading Factions/Families ...
+
+[22:17:03] 
+Loading Clans ...
+
+[22:17:03] 
+Loading Clans ...
+
+[22:17:03] 
+Loading Turfs ...
+
+[22:17:03] 
+Loading Meetings ...
+
+[22:17:03] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:17:03] Number of vehicle models: 120
+[22:17:03] 
+All Houses Loaded.
+
+[22:17:03] 
+All Codes Loaded.
+
+[22:17:03] 
+All Businesses Loaded.
+
+[22:17:03] 
+All Special Businesses Loaded.
+
+[22:17:03] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:17:03] 
+All Dynamic Factions Loaded.
+
+[22:17:03] 
+All Clans Loaded.
+
+[22:17:04] 
+All Friends Loaded.
+
+[22:17:04] 
+All Turfs Loaded.
+
+[22:17:04] 
+All Meetings Loaded.
+
+[22:17:04] 
+Royal City Game gamemode loaded.
+
+[22:17:04] 
+Scripter: MoeinBig.
+
+
+[22:17:04] 
+Site: Bigdev.ir.
+
+
+[22:17:04] Server password has been removed.
+[22:17:06] [connection] 2.147.161.164:14750 requests connection cookie.
+[22:17:06] [connection] incoming connection: 2.147.161.164:14750 id: 0
+[22:17:07] [join] Vexer has joined the server (0:2.147.161.164)
+[22:17:21] Vexer has logged in.
+[22:17:21] Now server has at least one active admin
+[22:17:26] Vexer has logged in.
+[22:17:45] (CMD) Vexer: /pin
+[22:17:49] (CMD) Vexer: /respawn 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:19:46] 
+[22:19:46] Server Plugins
+[22:19:46] --------------
+[22:19:46]  Loading plugin: streamer
+[22:19:46] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: FCNPC
+[22:19:46] 
+[22:19:46] -------------------------------------------------
+[22:19:46]      FCNPC - Fully Controllable NPC v1.8.2
+[22:19:46]          Windows SA-MP 0.3.7 R2
+[22:19:46]           Jan  8 2018 at 01:14:48
+[22:19:46] 
+[22:19:46]   Author:       OrMisicL (2013 - 2015)
+[22:19:46]   Continued by: ziggi (2016 - present)
+[22:19:46]   Contributors: kurta999, Neutralneu
+[22:19:46] -------------------------------------------------
+[22:19:46] 
+[22:19:46] Loading...
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: pawnregex
+[22:19:46] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: libRegEx
+[22:19:46] 
+[22:19:46]  ------------------------------
+[22:19:46]  |
+[22:19:46]  | -> Regular Expression Plugin v0.2
+[22:19:46]  | -> Using Oniguruma v5.9.5
+[22:19:46]  |
+[22:19:46]  ------ (c) 2014, Koala -------
+[22:19:46] 
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: ColAndreas
+[22:19:46] *********************
+[22:19:46] ** Created By:     **
+[22:19:46] ** [uL]Chris42O    **
+[22:19:46] ** [uL]Slice       **
+[22:19:46] ** [uL]Pottus      **
+[22:19:46] *********************
+[22:19:46] No collision data found.
+[22:19:46] *********************
+[22:19:46]   ColAndreas Loaded
+[22:19:46]    v1.4.0
+[22:19:46] *********************
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: mysql.dll
+[22:19:46]  >> plugin.mysql: R39-6 successfully loaded.
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: sampmysql
+[22:19:46] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: pawnraknet
+[22:19:46] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: sscanf
+[22:19:46] 
+
+[22:19:46]  ===============================
+
+[22:19:46]       sscanf plugin loaded.     
+
+[22:19:46]    (c) 2009 Alex "Y_Less" Cole
+
+[22:19:46]    0.3d-R2 500 Players "dnee"
+
+[22:19:46]  ===============================
+
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: Whirlpool
+[22:19:46]  
+[22:19:46]  ==================
+[22:19:46]  
+[22:19:46]   Whirlpool loaded
+[22:19:46]  
+[22:19:46]  ==================
+[22:19:46]  
+[22:19:46]   Loaded.
+[22:19:46]  Loading plugin: nativechecker
+[22:19:46]   Loaded.
+[22:19:46]  Loaded 11 plugins.
+
+[22:19:46] 
+[22:19:46] Ban list
+[22:19:46] --------
+[22:19:46]  Loaded: samp.ban
+[22:19:46] 
+[22:19:46] 
+[22:19:46] Filterscripts
+[22:19:46] ---------------
+[22:19:46]   Loading filterscript 'sobeit.amx'...
+[22:19:46] Anti Sobeit loaded
+[22:19:46]   Loaded 1 filterscripts.
+
+[22:19:46]  
+[22:19:46]  
+[22:19:46]  
+[22:19:46]  ======================================= 
+[22:19:46]  |                                     | 
+[22:19:46]  |        YSI version 3.09.0684        | 
+[22:19:46]  |        By Alex "Y_Less" Cole        | 
+[22:19:46]  |                                     | 
+[22:19:46]  ======================================= 
+[22:19:46]  
+[22:19:46]  
+[22:19:46]  
+[22:19:46]  
+[22:19:46] --------------------------------------
+[22:19:46]  Anticheat Nex-AC Load Shod
+[22:19:46]  Noskhe Anticheat: 1.9.69
+[22:19:46]  Sazande: Nexius
+[22:19:46] --------------------------------------
+
+[22:19:46] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:19:46] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:19:46] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:19:46] Server password has been removed.
+[22:19:46] -- Connected to MySQL Server successfully. --
+[22:19:46] 
+Loading Houses ...
+
+[22:19:46] 
+Loading Codes ...
+
+[22:19:46] 
+Loading Businesses ...
+
+[22:19:46] 
+Loading Special Businesses ...
+
+[22:19:46] 
+Loading Stuff ...
+
+[22:19:46] 
+Loading Factions/Families ...
+
+[22:19:46] 
+Loading Clans ...
+
+[22:19:46] 
+Loading Clans ...
+
+[22:19:46] 
+Loading Turfs ...
+
+[22:19:46] 
+Loading Meetings ...
+
+[22:19:46] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:19:46] Number of vehicle models: 120
+[22:19:46] 
+All Houses Loaded.
+
+[22:19:46] 
+All Codes Loaded.
+
+[22:19:46] 
+All Businesses Loaded.
+
+[22:19:46] 
+All Special Businesses Loaded.
+
+[22:19:46] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:19:46] 
+All Dynamic Factions Loaded.
+
+[22:19:46] 
+All Clans Loaded.
+
+[22:19:46] 
+All Friends Loaded.
+
+[22:19:46] 
+All Turfs Loaded.
+
+[22:19:46] 
+All Meetings Loaded.
+
+[22:19:46] 
+Royal City Game gamemode loaded.
+
+[22:19:46] 
+Scripter: MoeinBig.
+
+
+[22:19:46] 
+Site: Bigdev.ir.
+
+
+[22:19:47] Server password has been removed.
+[22:19:48] [connection] 2.147.161.164:14756 requests connection cookie.
+[22:19:48] [connection] incoming connection: 2.147.161.164:14756 id: 0
+[22:19:49] [join] Vexer has joined the server (0:2.147.161.164)
+[22:19:59] Vexer has logged in.
+[22:20:00] Now server has at least one active admin
+[22:20:05] Vexer has logged in.
+[22:20:10] (CMD) Vexer: /pin
+[22:20:14] (CMD) Vexer: /id 0
+[22:20:19] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:30:07] 
+[22:30:07] Server Plugins
+[22:30:07] --------------
+[22:30:07]  Loading plugin: streamer
+[22:30:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: FCNPC
+[22:30:07] 
+[22:30:07] -------------------------------------------------
+[22:30:07]      FCNPC - Fully Controllable NPC v1.8.2
+[22:30:07]          Windows SA-MP 0.3.7 R2
+[22:30:07]           Jan  8 2018 at 01:14:48
+[22:30:07] 
+[22:30:07]   Author:       OrMisicL (2013 - 2015)
+[22:30:07]   Continued by: ziggi (2016 - present)
+[22:30:07]   Contributors: kurta999, Neutralneu
+[22:30:07] -------------------------------------------------
+[22:30:07] 
+[22:30:07] Loading...
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: pawnregex
+[22:30:07] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: libRegEx
+[22:30:07] 
+[22:30:07]  ------------------------------
+[22:30:07]  |
+[22:30:07]  | -> Regular Expression Plugin v0.2
+[22:30:07]  | -> Using Oniguruma v5.9.5
+[22:30:07]  |
+[22:30:07]  ------ (c) 2014, Koala -------
+[22:30:07] 
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: ColAndreas
+[22:30:07] *********************
+[22:30:07] ** Created By:     **
+[22:30:07] ** [uL]Chris42O    **
+[22:30:07] ** [uL]Slice       **
+[22:30:07] ** [uL]Pottus      **
+[22:30:07] *********************
+[22:30:07] No collision data found.
+[22:30:07] *********************
+[22:30:07]   ColAndreas Loaded
+[22:30:07]    v1.4.0
+[22:30:07] *********************
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: mysql.dll
+[22:30:07]  >> plugin.mysql: R39-6 successfully loaded.
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: sampmysql
+[22:30:07] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: pawnraknet
+[22:30:07] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: sscanf
+[22:30:07] 
+
+[22:30:07]  ===============================
+
+[22:30:07]       sscanf plugin loaded.     
+
+[22:30:07]    (c) 2009 Alex "Y_Less" Cole
+
+[22:30:07]    0.3d-R2 500 Players "dnee"
+
+[22:30:07]  ===============================
+
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: Whirlpool
+[22:30:07]  
+[22:30:07]  ==================
+[22:30:07]  
+[22:30:07]   Whirlpool loaded
+[22:30:07]  
+[22:30:07]  ==================
+[22:30:07]  
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: nativechecker
+[22:30:07]   Loaded.
+[22:30:07]  Loaded 11 plugins.
+
+[22:30:07] 
+[22:30:07] Ban list
+[22:30:07] --------
+[22:30:07]  Loaded: samp.ban
+[22:30:07] 
+[22:30:07] 
+[22:30:07] Filterscripts
+[22:30:07] ---------------
+[22:30:07]   Loading filterscript 'sobeit.amx'...
+[22:30:07] Anti Sobeit loaded
+[22:30:07]   Loaded 1 filterscripts.
+
+[22:30:08]  
+[22:30:08]  
+[22:30:08]  
+[22:30:08]  ======================================= 
+[22:30:08]  |                                     | 
+[22:30:08]  |        YSI version 3.09.0684        | 
+[22:30:08]  |        By Alex "Y_Less" Cole        | 
+[22:30:08]  |                                     | 
+[22:30:08]  ======================================= 
+[22:30:08]  
+[22:30:08]  
+[22:30:08]  
+[22:30:08]  
+[22:30:08] --------------------------------------
+[22:30:08]  Anticheat Nex-AC Load Shod
+[22:30:08]  Noskhe Anticheat: 1.9.69
+[22:30:08]  Sazande: Nexius
+[22:30:08] --------------------------------------
+
+[22:30:08] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:30:08] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:30:08] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:30:08] Server password has been removed.
+[22:30:08] -- Connected to MySQL Server successfully. --
+[22:30:08] 
+Loading Houses ...
+
+[22:30:08] 
+Loading Codes ...
+
+[22:30:08] 
+Loading Businesses ...
+
+[22:30:08] 
+Loading Special Businesses ...
+
+[22:30:08] 
+Loading Stuff ...
+
+[22:30:08] 
+Loading Factions/Families ...
+
+[22:30:08] 
+Loading Clans ...
+
+[22:30:08] 
+Loading Clans ...
+
+[22:30:08] 
+Loading Turfs ...
+
+[22:30:08] 
+Loading Meetings ...
+
+[22:30:08] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:30:08] Number of vehicle models: 120
+[22:30:08] 
+All Houses Loaded.
+
+[22:30:08] 
+All Codes Loaded.
+
+[22:30:08] 
+All Businesses Loaded.
+
+[22:30:08] 
+All Special Businesses Loaded.
+
+[22:30:08] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:30:08] 
+All Dynamic Factions Loaded.
+
+[22:30:08] 
+All Clans Loaded.
+
+[22:30:08] 
+All Friends Loaded.
+
+[22:30:08] 
+All Turfs Loaded.
+
+[22:30:08] 
+All Meetings Loaded.
+
+[22:30:08] 
+Royal City Game gamemode loaded.
+
+[22:30:08] 
+Scripter: MoeinBig.
+
+
+[22:30:08] 
+Site: Bigdev.ir.
+
+
+[22:30:09] Server password has been removed.
+[22:30:10] [connection] 2.147.161.164:15475 requests connection cookie.
+[22:30:10] [connection] incoming connection: 2.147.161.164:15475 id: 0
+[22:30:11] [join] Vexer has joined the server (0:2.147.161.164)
+[22:30:24] Vexer has logged in.
+[22:30:24] Now server has at least one active admin
+[22:30:29] Vexer has logged in.
+[22:30:32] (CMD) Vexer: /pin
+[22:30:37] (CMD) Vexer: /id 0
+[22:30:38] (CMD) Vexer: /id 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:35:08] 
+[22:35:08] Server Plugins
+[22:35:08] --------------
+[22:35:08]  Loading plugin: streamer
+[22:35:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: FCNPC
+[22:35:08] 
+[22:35:08] -------------------------------------------------
+[22:35:08]      FCNPC - Fully Controllable NPC v1.8.2
+[22:35:08]          Windows SA-MP 0.3.7 R2
+[22:35:08]           Jan  8 2018 at 01:14:48
+[22:35:08] 
+[22:35:08]   Author:       OrMisicL (2013 - 2015)
+[22:35:08]   Continued by: ziggi (2016 - present)
+[22:35:08]   Contributors: kurta999, Neutralneu
+[22:35:08] -------------------------------------------------
+[22:35:08] 
+[22:35:08] Loading...
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: pawnregex
+[22:35:08] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: libRegEx
+[22:35:08] 
+[22:35:08]  ------------------------------
+[22:35:08]  |
+[22:35:08]  | -> Regular Expression Plugin v0.2
+[22:35:08]  | -> Using Oniguruma v5.9.5
+[22:35:08]  |
+[22:35:08]  ------ (c) 2014, Koala -------
+[22:35:08] 
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: ColAndreas
+[22:35:08] *********************
+[22:35:08] ** Created By:     **
+[22:35:08] ** [uL]Chris42O    **
+[22:35:08] ** [uL]Slice       **
+[22:35:08] ** [uL]Pottus      **
+[22:35:08] *********************
+[22:35:08] No collision data found.
+[22:35:08] *********************
+[22:35:08]   ColAndreas Loaded
+[22:35:08]    v1.4.0
+[22:35:08] *********************
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: mysql.dll
+[22:35:08]  >> plugin.mysql: R39-6 successfully loaded.
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: sampmysql
+[22:35:08] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: pawnraknet
+[22:35:08] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: sscanf
+[22:35:08] 
+
+[22:35:08]  ===============================
+
+[22:35:08]       sscanf plugin loaded.     
+
+[22:35:08]    (c) 2009 Alex "Y_Less" Cole
+
+[22:35:08]    0.3d-R2 500 Players "dnee"
+
+[22:35:08]  ===============================
+
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: Whirlpool
+[22:35:08]  
+[22:35:08]  ==================
+[22:35:08]  
+[22:35:08]   Whirlpool loaded
+[22:35:08]  
+[22:35:08]  ==================
+[22:35:08]  
+[22:35:08]   Loaded.
+[22:35:08]  Loading plugin: nativechecker
+[22:35:08]   Loaded.
+[22:35:08]  Loaded 11 plugins.
+
+[22:35:08] 
+[22:35:08] Ban list
+[22:35:08] --------
+[22:35:08]  Loaded: samp.ban
+[22:35:08] 
+[22:35:08] 
+[22:35:08] Filterscripts
+[22:35:08] ---------------
+[22:35:08]   Loading filterscript 'sobeit.amx'...
+[22:35:08] Anti Sobeit loaded
+[22:35:08]   Loaded 1 filterscripts.
+
+[22:35:08]  
+[22:35:08]  
+[22:35:08]  
+[22:35:08]  ======================================= 
+[22:35:08]  |                                     | 
+[22:35:08]  |        YSI version 3.09.0684        | 
+[22:35:08]  |        By Alex "Y_Less" Cole        | 
+[22:35:08]  |                                     | 
+[22:35:08]  ======================================= 
+[22:35:08]  
+[22:35:08]  
+[22:35:08]  
+[22:35:08]  
+[22:35:08] --------------------------------------
+[22:35:08]  Anticheat Nex-AC Load Shod
+[22:35:08]  Noskhe Anticheat: 1.9.69
+[22:35:08]  Sazande: Nexius
+[22:35:08] --------------------------------------
+
+[22:35:08] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:35:08] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:35:08] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:35:08] Server password has been removed.
+[22:35:08] -- Connected to MySQL Server successfully. --
+[22:35:08] 
+Loading Houses ...
+
+[22:35:08] 
+Loading Codes ...
+
+[22:35:08] 
+Loading Businesses ...
+
+[22:35:08] 
+Loading Special Businesses ...
+
+[22:35:08] 
+Loading Stuff ...
+
+[22:35:08] 
+Loading Factions/Families ...
+
+[22:35:08] 
+Loading Clans ...
+
+[22:35:08] 
+Loading Clans ...
+
+[22:35:08] 
+Loading Turfs ...
+
+[22:35:08] 
+Loading Meetings ...
+
+[22:35:08] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:35:08] Number of vehicle models: 120
+[22:35:08] 
+All Houses Loaded.
+
+[22:35:08] 
+All Codes Loaded.
+
+[22:35:08] 
+All Businesses Loaded.
+
+[22:35:08] 
+All Special Businesses Loaded.
+
+[22:35:08] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:35:08] 
+All Dynamic Factions Loaded.
+
+[22:35:08] 
+All Clans Loaded.
+
+[22:35:08] 
+All Friends Loaded.
+
+[22:35:08] 
+All Turfs Loaded.
+
+[22:35:08] 
+All Meetings Loaded.
+
+[22:35:08] 
+Royal City Game gamemode loaded.
+
+[22:35:08] 
+Scripter: MoeinBig.
+
+
+[22:35:08] 
+Site: Bigdev.ir.
+
+
+[22:35:09] Server password has been removed.
+[22:35:09] [connection] 2.147.161.164:15479 requests connection cookie.
+[22:35:09] [connection] incoming connection: 2.147.161.164:15479 id: 0
+[22:35:10] [join] Vexer has joined the server (0:2.147.161.164)
+[22:35:27] Vexer has logged in.
+[22:35:27] Now server has at least one active admin
+[22:35:33] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:43:36] 
+[22:43:36] Server Plugins
+[22:43:36] --------------
+[22:43:36]  Loading plugin: streamer
+[22:43:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: FCNPC
+[22:43:36] 
+[22:43:36] -------------------------------------------------
+[22:43:36]      FCNPC - Fully Controllable NPC v1.8.2
+[22:43:36]          Windows SA-MP 0.3.7 R2
+[22:43:36]           Jan  8 2018 at 01:14:48
+[22:43:36] 
+[22:43:36]   Author:       OrMisicL (2013 - 2015)
+[22:43:36]   Continued by: ziggi (2016 - present)
+[22:43:36]   Contributors: kurta999, Neutralneu
+[22:43:36] -------------------------------------------------
+[22:43:36] 
+[22:43:36] Loading...
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: pawnregex
+[22:43:36] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: libRegEx
+[22:43:36] 
+[22:43:36]  ------------------------------
+[22:43:36]  |
+[22:43:36]  | -> Regular Expression Plugin v0.2
+[22:43:36]  | -> Using Oniguruma v5.9.5
+[22:43:36]  |
+[22:43:36]  ------ (c) 2014, Koala -------
+[22:43:36] 
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: ColAndreas
+[22:43:36] *********************
+[22:43:36] ** Created By:     **
+[22:43:36] ** [uL]Chris42O    **
+[22:43:36] ** [uL]Slice       **
+[22:43:36] ** [uL]Pottus      **
+[22:43:36] *********************
+[22:43:36] No collision data found.
+[22:43:36] *********************
+[22:43:36]   ColAndreas Loaded
+[22:43:36]    v1.4.0
+[22:43:36] *********************
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: mysql.dll
+[22:43:36]  >> plugin.mysql: R39-6 successfully loaded.
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: sampmysql
+[22:43:36] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: pawnraknet
+[22:43:36] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: sscanf
+[22:43:36] 
+
+[22:43:36]  ===============================
+
+[22:43:36]       sscanf plugin loaded.     
+
+[22:43:36]    (c) 2009 Alex "Y_Less" Cole
+
+[22:43:36]    0.3d-R2 500 Players "dnee"
+
+[22:43:36]  ===============================
+
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: Whirlpool
+[22:43:36]  
+[22:43:36]  ==================
+[22:43:36]  
+[22:43:36]   Whirlpool loaded
+[22:43:36]  
+[22:43:36]  ==================
+[22:43:36]  
+[22:43:36]   Loaded.
+[22:43:36]  Loading plugin: nativechecker
+[22:43:36]   Loaded.
+[22:43:36]  Loaded 11 plugins.
+
+[22:43:36] 
+[22:43:36] Ban list
+[22:43:36] --------
+[22:43:36]  Loaded: samp.ban
+[22:43:36] 
+[22:43:36] 
+[22:43:36] Filterscripts
+[22:43:36] ---------------
+[22:43:36]   Loading filterscript 'sobeit.amx'...
+[22:43:36] Anti Sobeit loaded
+[22:43:36]   Loaded 1 filterscripts.
+
+[22:43:36]  
+[22:43:36]  
+[22:43:36]  
+[22:43:36]  ======================================= 
+[22:43:36]  |                                     | 
+[22:43:36]  |        YSI version 3.09.0684        | 
+[22:43:36]  |        By Alex "Y_Less" Cole        | 
+[22:43:36]  |                                     | 
+[22:43:36]  ======================================= 
+[22:43:36]  
+[22:43:36]  
+[22:43:36]  
+[22:43:36]  
+[22:43:36] --------------------------------------
+[22:43:36]  Anticheat Nex-AC Load Shod
+[22:43:36]  Noskhe Anticheat: 1.9.69
+[22:43:36]  Sazande: Nexius
+[22:43:36] --------------------------------------
+
+[22:43:36] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:43:36] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:43:36] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:43:36] Server password has been removed.
+[22:43:36] -- Connected to MySQL Server successfully. --
+[22:43:36] 
+Loading Houses ...
+
+[22:43:36] 
+Loading Codes ...
+
+[22:43:36] 
+Loading Businesses ...
+
+[22:43:36] 
+Loading Special Businesses ...
+
+[22:43:36] 
+Loading Stuff ...
+
+[22:43:36] 
+Loading Factions/Families ...
+
+[22:43:36] 
+Loading Clans ...
+
+[22:43:36] 
+Loading Clans ...
+
+[22:43:36] 
+Loading Turfs ...
+
+[22:43:36] 
+Loading Meetings ...
+
+[22:43:36] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:43:36] Number of vehicle models: 120
+[22:43:36] 
+All Houses Loaded.
+
+[22:43:36] 
+All Codes Loaded.
+
+[22:43:36] 
+All Businesses Loaded.
+
+[22:43:36] 
+All Special Businesses Loaded.
+
+[22:43:36] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:43:36] 
+All Dynamic Factions Loaded.
+
+[22:43:36] 
+All Clans Loaded.
+
+[22:43:37] 
+All Friends Loaded.
+
+[22:43:37] 
+All Turfs Loaded.
+
+[22:43:37] 
+All Meetings Loaded.
+
+[22:43:37] 
+Royal City Game gamemode loaded.
+
+[22:43:37] 
+Scripter: MoeinBig.
+
+
+[22:43:37] 
+Site: Bigdev.ir.
+
+
+[22:43:37] Server password has been removed.
+[22:43:39] [connection] 2.147.161.164:15480 requests connection cookie.
+[22:43:39] [connection] incoming connection: 2.147.161.164:15480 id: 0
+[22:43:40] [join] Vexer has joined the server (0:2.147.161.164)
+[22:43:52] Vexer has logged in.
+[22:43:52] Now server has at least one active admin
+[22:43:58] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:45:54] 
+[22:45:54] Server Plugins
+[22:45:54] --------------
+[22:45:54]  Loading plugin: streamer
+[22:45:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: FCNPC
+[22:45:54] 
+[22:45:54] -------------------------------------------------
+[22:45:54]      FCNPC - Fully Controllable NPC v1.8.2
+[22:45:54]          Windows SA-MP 0.3.7 R2
+[22:45:54]           Jan  8 2018 at 01:14:48
+[22:45:54] 
+[22:45:54]   Author:       OrMisicL (2013 - 2015)
+[22:45:54]   Continued by: ziggi (2016 - present)
+[22:45:54]   Contributors: kurta999, Neutralneu
+[22:45:54] -------------------------------------------------
+[22:45:54] 
+[22:45:54] Loading...
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: pawnregex
+[22:45:54] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: libRegEx
+[22:45:54] 
+[22:45:54]  ------------------------------
+[22:45:54]  |
+[22:45:54]  | -> Regular Expression Plugin v0.2
+[22:45:54]  | -> Using Oniguruma v5.9.5
+[22:45:54]  |
+[22:45:54]  ------ (c) 2014, Koala -------
+[22:45:54] 
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: ColAndreas
+[22:45:54] *********************
+[22:45:54] ** Created By:     **
+[22:45:54] ** [uL]Chris42O    **
+[22:45:54] ** [uL]Slice       **
+[22:45:54] ** [uL]Pottus      **
+[22:45:54] *********************
+[22:45:54] No collision data found.
+[22:45:54] *********************
+[22:45:54]   ColAndreas Loaded
+[22:45:54]    v1.4.0
+[22:45:54] *********************
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: mysql.dll
+[22:45:54]  >> plugin.mysql: R39-6 successfully loaded.
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: sampmysql
+[22:45:54] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: pawnraknet
+[22:45:54] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: sscanf
+[22:45:54] 
+
+[22:45:54]  ===============================
+
+[22:45:54]       sscanf plugin loaded.     
+
+[22:45:54]    (c) 2009 Alex "Y_Less" Cole
+
+[22:45:54]    0.3d-R2 500 Players "dnee"
+
+[22:45:54]  ===============================
+
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: Whirlpool
+[22:45:54]  
+[22:45:54]  ==================
+[22:45:54]  
+[22:45:54]   Whirlpool loaded
+[22:45:54]  
+[22:45:54]  ==================
+[22:45:54]  
+[22:45:54]   Loaded.
+[22:45:54]  Loading plugin: nativechecker
+[22:45:54]   Loaded.
+[22:45:54]  Loaded 11 plugins.
+
+[22:45:54] 
+[22:45:54] Ban list
+[22:45:54] --------
+[22:45:54]  Loaded: samp.ban
+[22:45:54] 
+[22:45:54] 
+[22:45:54] Filterscripts
+[22:45:54] ---------------
+[22:45:54]   Loading filterscript 'sobeit.amx'...
+[22:45:54] Anti Sobeit loaded
+[22:45:54]   Loaded 1 filterscripts.
+
+[22:45:55]  
+[22:45:55]  
+[22:45:55]  
+[22:45:55]  ======================================= 
+[22:45:55]  |                                     | 
+[22:45:55]  |        YSI version 3.09.0684        | 
+[22:45:55]  |        By Alex "Y_Less" Cole        | 
+[22:45:55]  |                                     | 
+[22:45:55]  ======================================= 
+[22:45:55]  
+[22:45:55]  
+[22:45:55]  
+[22:45:55]  
+[22:45:55] --------------------------------------
+[22:45:55]  Anticheat Nex-AC Load Shod
+[22:45:55]  Noskhe Anticheat: 1.9.69
+[22:45:55]  Sazande: Nexius
+[22:45:55] --------------------------------------
+
+[22:45:55] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:45:55] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:45:55] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:45:55] Server password has been removed.
+[22:45:55] -- Connected to MySQL Server successfully. --
+[22:45:55] 
+Loading Houses ...
+
+[22:45:55] 
+Loading Codes ...
+
+[22:45:55] 
+Loading Businesses ...
+
+[22:45:55] 
+Loading Special Businesses ...
+
+[22:45:55] 
+Loading Stuff ...
+
+[22:45:55] 
+Loading Factions/Families ...
+
+[22:45:55] 
+Loading Clans ...
+
+[22:45:55] 
+Loading Clans ...
+
+[22:45:55] 
+Loading Turfs ...
+
+[22:45:55] 
+Loading Meetings ...
+
+[22:45:55] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:45:55] Number of vehicle models: 120
+[22:45:55] 
+All Houses Loaded.
+
+[22:45:55] 
+All Codes Loaded.
+
+[22:45:55] 
+All Businesses Loaded.
+
+[22:45:55] 
+All Special Businesses Loaded.
+
+[22:45:55] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:45:55] 
+All Dynamic Factions Loaded.
+
+[22:45:55] 
+All Clans Loaded.
+
+[22:45:55] 
+All Friends Loaded.
+
+[22:45:55] 
+All Turfs Loaded.
+
+[22:45:55] 
+All Meetings Loaded.
+
+[22:45:55] 
+Royal City Game gamemode loaded.
+
+[22:45:55] 
+Scripter: MoeinBig.
+
+
+[22:45:55] 
+Site: Bigdev.ir.
+
+
+[22:45:56] Server password has been removed.
+[22:46:17] [connection] 2.147.161.164:15481 requests connection cookie.
+[22:46:17] [connection] incoming connection: 2.147.161.164:15481 id: 0
+[22:46:18] [join] Vexer has joined the server (0:2.147.161.164)
+[22:46:30] Vexer has logged in.
+[22:46:30] Now server has at least one active admin
+[22:46:35] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:38] 
+[22:57:38] Server Plugins
+[22:57:38] --------------
+[22:57:38]  Loading plugin: streamer
+[22:57:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:57:38]   Loaded.
+[22:57:38]  Loading plugin: FCNPC
+[22:57:38] 
+[22:57:38] -------------------------------------------------
+[22:57:38]      FCNPC - Fully Controllable NPC v1.8.2
+[22:57:38]          Windows SA-MP 0.3.7 R2
+[22:57:38]           Jan  8 2018 at 01:14:48
+[22:57:38] 
+[22:57:38]   Author:       OrMisicL (2013 - 2015)
+[22:57:38]   Continued by: ziggi (2016 - present)
+[22:57:38]   Contributors: kurta999, Neutralneu
+[22:57:38] -------------------------------------------------
+[22:57:38] 
+[22:57:38] Loading...
+[22:57:38]   Loaded.
+[22:57:38]  Loading plugin: pawnregex
+[22:57:39] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: libRegEx
+[22:57:39] 
+[22:57:39]  ------------------------------
+[22:57:39]  |
+[22:57:39]  | -> Regular Expression Plugin v0.2
+[22:57:39]  | -> Using Oniguruma v5.9.5
+[22:57:39]  |
+[22:57:39]  ------ (c) 2014, Koala -------
+[22:57:39] 
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: ColAndreas
+[22:57:39] *********************
+[22:57:39] ** Created By:     **
+[22:57:39] ** [uL]Chris42O    **
+[22:57:39] ** [uL]Slice       **
+[22:57:39] ** [uL]Pottus      **
+[22:57:39] *********************
+[22:57:39] No collision data found.
+[22:57:39] *********************
+[22:57:39]   ColAndreas Loaded
+[22:57:39]    v1.4.0
+[22:57:39] *********************
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: mysql.dll
+[22:57:39]  >> plugin.mysql: R39-6 successfully loaded.
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: sampmysql
+[22:57:39] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: pawnraknet
+[22:57:39] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: sscanf
+[22:57:39] 
+
+[22:57:39]  ===============================
+
+[22:57:39]       sscanf plugin loaded.     
+
+[22:57:39]    (c) 2009 Alex "Y_Less" Cole
+
+[22:57:39]    0.3d-R2 500 Players "dnee"
+
+[22:57:39]  ===============================
+
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: Whirlpool
+[22:57:39]  
+[22:57:39]  ==================
+[22:57:39]  
+[22:57:39]   Whirlpool loaded
+[22:57:39]  
+[22:57:39]  ==================
+[22:57:39]  
+[22:57:39]   Loaded.
+[22:57:39]  Loading plugin: nativechecker
+[22:57:39]   Loaded.
+[22:57:39]  Loaded 11 plugins.
+
+[22:57:39] 
+[22:57:39] Ban list
+[22:57:39] --------
+[22:57:39]  Loaded: samp.ban
+[22:57:39] 
+[22:57:39] 
+[22:57:39] Filterscripts
+[22:57:39] ---------------
+[22:57:39]   Loading filterscript 'sobeit.amx'...
+[22:57:39] Anti Sobeit loaded
+[22:57:39]   Loaded 1 filterscripts.
+
+[22:57:39]  
+[22:57:39]  
+[22:57:39]  
+[22:57:39]  ======================================= 
+[22:57:39]  |                                     | 
+[22:57:39]  |        YSI version 3.09.0684        | 
+[22:57:39]  |        By Alex "Y_Less" Cole        | 
+[22:57:39]  |                                     | 
+[22:57:39]  ======================================= 
+[22:57:39]  
+[22:57:39]  
+[22:57:39]  
+[22:57:39]  
+[22:57:39] --------------------------------------
+[22:57:39]  Anticheat Nex-AC Load Shod
+[22:57:39]  Noskhe Anticheat: 1.9.69
+[22:57:39]  Sazande: Nexius
+[22:57:39] --------------------------------------
+
+[22:57:39] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:57:39] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:57:39] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:57:39] Server password has been removed.
+[22:57:39] -- Connected to MySQL Server successfully. --
+[22:57:39] 
+Loading Houses ...
+
+[22:57:39] 
+Loading Codes ...
+
+[22:57:39] 
+Loading Businesses ...
+
+[22:57:39] 
+Loading Special Businesses ...
+
+[22:57:39] 
+Loading Stuff ...
+
+[22:57:39] 
+Loading Factions/Families ...
+
+[22:57:39] 
+Loading Clans ...
+
+[22:57:39] 
+Loading Clans ...
+
+[22:57:39] 
+Loading Turfs ...
+
+[22:57:39] 
+Loading Meetings ...
+
+[22:57:39] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:57:39] Number of vehicle models: 120
+[22:57:39] 
+All Houses Loaded.
+
+[22:57:39] 
+All Codes Loaded.
+
+[22:57:39] 
+All Businesses Loaded.
+
+[22:57:39] 
+All Special Businesses Loaded.
+
+[22:57:39] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:57:39] 
+All Dynamic Factions Loaded.
+
+[22:57:39] 
+All Clans Loaded.
+
+[22:57:39] 
+All Friends Loaded.
+
+[22:57:39] 
+All Turfs Loaded.
+
+[22:57:39] 
+All Meetings Loaded.
+
+[22:57:39] 
+Royal City Game gamemode loaded.
+
+[22:57:39] 
+Scripter: MoeinBig.
+
+
+[22:57:39] 
+Site: Bigdev.ir.
+
+
+[22:57:40] Server password has been removed.
+[22:57:42] [connection] 2.147.161.164:15486 requests connection cookie.
+[22:57:42] [connection] incoming connection: 2.147.161.164:15486 id: 0
+[22:57:42] [join] Vexer has joined the server (0:2.147.161.164)
+[22:57:58] Vexer has logged in.
+[22:57:58] Now server has at least one active admin
+[22:58:04] Vexer has logged in.
+[22:58:04] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+[22:58:22] [part] Vexer has left the server (0:1)
+[22:58:22] Now server hasn't any active admin
+[22:58:22] [connection] 2.147.161.164:15487 requests connection cookie.
+[22:58:22] [connection] incoming connection: 2.147.161.164:15487 id: 0
+[22:58:23] [join] Vexer has joined the server (0:2.147.161.164)
+[22:58:35] Vexer has logged in.
+[22:58:35] Now server has at least one active admin
+[22:58:41] Vexer has logged in.
+[22:58:41] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:59:09] 
+[22:59:09] Server Plugins
+[22:59:09] --------------
+[22:59:09]  Loading plugin: streamer
+[22:59:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: FCNPC
+[22:59:09] 
+[22:59:09] -------------------------------------------------
+[22:59:09]      FCNPC - Fully Controllable NPC v1.8.2
+[22:59:09]          Windows SA-MP 0.3.7 R2
+[22:59:09]           Jan  8 2018 at 01:14:48
+[22:59:09] 
+[22:59:09]   Author:       OrMisicL (2013 - 2015)
+[22:59:09]   Continued by: ziggi (2016 - present)
+[22:59:09]   Contributors: kurta999, Neutralneu
+[22:59:09] -------------------------------------------------
+[22:59:09] 
+[22:59:09] Loading...
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: pawnregex
+[22:59:09] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: libRegEx
+[22:59:09] 
+[22:59:09]  ------------------------------
+[22:59:09]  |
+[22:59:09]  | -> Regular Expression Plugin v0.2
+[22:59:09]  | -> Using Oniguruma v5.9.5
+[22:59:09]  |
+[22:59:09]  ------ (c) 2014, Koala -------
+[22:59:09] 
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: ColAndreas
+[22:59:09] *********************
+[22:59:09] ** Created By:     **
+[22:59:09] ** [uL]Chris42O    **
+[22:59:09] ** [uL]Slice       **
+[22:59:09] ** [uL]Pottus      **
+[22:59:09] *********************
+[22:59:09] No collision data found.
+[22:59:09] *********************
+[22:59:09]   ColAndreas Loaded
+[22:59:09]    v1.4.0
+[22:59:09] *********************
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: mysql.dll
+[22:59:09]  >> plugin.mysql: R39-6 successfully loaded.
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: sampmysql
+[22:59:09] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: pawnraknet
+[22:59:09] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: sscanf
+[22:59:09] 
+
+[22:59:09]  ===============================
+
+[22:59:09]       sscanf plugin loaded.     
+
+[22:59:09]    (c) 2009 Alex "Y_Less" Cole
+
+[22:59:09]    0.3d-R2 500 Players "dnee"
+
+[22:59:09]  ===============================
+
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: Whirlpool
+[22:59:09]  
+[22:59:09]  ==================
+[22:59:09]  
+[22:59:09]   Whirlpool loaded
+[22:59:09]  
+[22:59:09]  ==================
+[22:59:09]  
+[22:59:09]   Loaded.
+[22:59:09]  Loading plugin: nativechecker
+[22:59:09]   Loaded.
+[22:59:09]  Loaded 11 plugins.
+
+[22:59:09] 
+[22:59:09] Ban list
+[22:59:09] --------
+[22:59:09]  Loaded: samp.ban
+[22:59:09] 
+[22:59:09] 
+[22:59:09] Filterscripts
+[22:59:09] ---------------
+[22:59:09]   Loading filterscript 'sobeit.amx'...
+[22:59:09] Anti Sobeit loaded
+[22:59:09]   Loaded 1 filterscripts.
+
+[22:59:09]  
+[22:59:09]  
+[22:59:09]  
+[22:59:09]  ======================================= 
+[22:59:09]  |                                     | 
+[22:59:09]  |        YSI version 3.09.0684        | 
+[22:59:09]  |        By Alex "Y_Less" Cole        | 
+[22:59:09]  |                                     | 
+[22:59:09]  ======================================= 
+[22:59:09]  
+[22:59:09]  
+[22:59:09]  
+[22:59:09]  
+[22:59:09] --------------------------------------
+[22:59:09]  Anticheat Nex-AC Load Shod
+[22:59:09]  Noskhe Anticheat: 1.9.69
+[22:59:09]  Sazande: Nexius
+[22:59:09] --------------------------------------
+
+[22:59:09] [npc:join] Billy has joined the server (502:127.0.0.1)
+[22:59:09] [npc:join] Chester has joined the server (501:127.0.0.1)
+[22:59:09] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[22:59:09] Server password has been removed.
+[22:59:09] -- Connected to MySQL Server successfully. --
+[22:59:09] 
+Loading Houses ...
+
+[22:59:09] 
+Loading Codes ...
+
+[22:59:09] 
+Loading Businesses ...
+
+[22:59:09] 
+Loading Special Businesses ...
+
+[22:59:09] 
+Loading Stuff ...
+
+[22:59:09] 
+Loading Factions/Families ...
+
+[22:59:09] 
+Loading Clans ...
+
+[22:59:09] 
+Loading Clans ...
+
+[22:59:09] 
+Loading Turfs ...
+
+[22:59:09] 
+Loading Meetings ...
+
+[22:59:09] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[22:59:09] Number of vehicle models: 120
+[22:59:10] 
+All Houses Loaded.
+
+[22:59:10] 
+All Codes Loaded.
+
+[22:59:10] 
+All Businesses Loaded.
+
+[22:59:10] 
+All Special Businesses Loaded.
+
+[22:59:10] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[22:59:10] 
+All Dynamic Factions Loaded.
+
+[22:59:10] 
+All Clans Loaded.
+
+[22:59:10] 
+All Friends Loaded.
+
+[22:59:10] 
+All Turfs Loaded.
+
+[22:59:10] 
+All Meetings Loaded.
+
+[22:59:10] 
+Royal City Game gamemode loaded.
+
+[22:59:10] 
+Scripter: MoeinBig.
+
+
+[22:59:10] 
+Site: Bigdev.ir.
+
+
+[22:59:11] Server password has been removed.
+[22:59:12] [connection] 2.147.161.164:15488 requests connection cookie.
+[22:59:12] [connection] incoming connection: 2.147.161.164:15488 id: 0
+[22:59:12] [join] Vexer has joined the server (0:2.147.161.164)
+[22:59:25] Vexer has logged in.
+[22:59:26] Now server has at least one active admin
+[22:59:31] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:09:49] 
+[23:09:49] Server Plugins
+[23:09:49] --------------
+[23:09:49]  Loading plugin: streamer
+[23:09:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: FCNPC
+[23:09:49] 
+[23:09:49] -------------------------------------------------
+[23:09:49]      FCNPC - Fully Controllable NPC v1.8.2
+[23:09:49]          Windows SA-MP 0.3.7 R2
+[23:09:49]           Jan  8 2018 at 01:14:48
+[23:09:49] 
+[23:09:49]   Author:       OrMisicL (2013 - 2015)
+[23:09:49]   Continued by: ziggi (2016 - present)
+[23:09:49]   Contributors: kurta999, Neutralneu
+[23:09:49] -------------------------------------------------
+[23:09:49] 
+[23:09:49] Loading...
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: pawnregex
+[23:09:49] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: libRegEx
+[23:09:49] 
+[23:09:49]  ------------------------------
+[23:09:49]  |
+[23:09:49]  | -> Regular Expression Plugin v0.2
+[23:09:49]  | -> Using Oniguruma v5.9.5
+[23:09:49]  |
+[23:09:49]  ------ (c) 2014, Koala -------
+[23:09:49] 
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: ColAndreas
+[23:09:49] *********************
+[23:09:49] ** Created By:     **
+[23:09:49] ** [uL]Chris42O    **
+[23:09:49] ** [uL]Slice       **
+[23:09:49] ** [uL]Pottus      **
+[23:09:49] *********************
+[23:09:49] No collision data found.
+[23:09:49] *********************
+[23:09:49]   ColAndreas Loaded
+[23:09:49]    v1.4.0
+[23:09:49] *********************
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: mysql.dll
+[23:09:49]  >> plugin.mysql: R39-6 successfully loaded.
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: sampmysql
+[23:09:49] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: pawnraknet
+[23:09:49] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: sscanf
+[23:09:49] 
+
+[23:09:49]  ===============================
+
+[23:09:49]       sscanf plugin loaded.     
+
+[23:09:49]    (c) 2009 Alex "Y_Less" Cole
+
+[23:09:49]    0.3d-R2 500 Players "dnee"
+
+[23:09:49]  ===============================
+
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: Whirlpool
+[23:09:49]  
+[23:09:49]  ==================
+[23:09:49]  
+[23:09:49]   Whirlpool loaded
+[23:09:49]  
+[23:09:49]  ==================
+[23:09:49]  
+[23:09:49]   Loaded.
+[23:09:49]  Loading plugin: nativechecker
+[23:09:49]   Loaded.
+[23:09:49]  Loaded 11 plugins.
+
+[23:09:49] 
+[23:09:49] Ban list
+[23:09:49] --------
+[23:09:49]  Loaded: samp.ban
+[23:09:49] 
+[23:09:49] 
+[23:09:49] Filterscripts
+[23:09:49] ---------------
+[23:09:49]   Loading filterscript 'sobeit.amx'...
+[23:09:49] Anti Sobeit loaded
+[23:09:49]   Loaded 1 filterscripts.
+
+[23:09:49]  
+[23:09:49]  
+[23:09:49]  
+[23:09:49]  ======================================= 
+[23:09:49]  |                                     | 
+[23:09:49]  |        YSI version 3.09.0684        | 
+[23:09:49]  |        By Alex "Y_Less" Cole        | 
+[23:09:49]  |                                     | 
+[23:09:49]  ======================================= 
+[23:09:49]  
+[23:09:49]  
+[23:09:49]  
+[23:09:49]  
+[23:09:49] --------------------------------------
+[23:09:49]  Anticheat Nex-AC Load Shod
+[23:09:49]  Noskhe Anticheat: 1.9.69
+[23:09:49]  Sazande: Nexius
+[23:09:49] --------------------------------------
+
+[23:09:49] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:09:49] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:09:49] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:09:49] Server password has been removed.
+[23:09:49] -- Connected to MySQL Server successfully. --
+[23:09:49] 
+Loading Houses ...
+
+[23:09:49] 
+Loading Codes ...
+
+[23:09:49] 
+Loading Businesses ...
+
+[23:09:49] 
+Loading Special Businesses ...
+
+[23:09:49] 
+Loading Stuff ...
+
+[23:09:49] 
+Loading Factions/Families ...
+
+[23:09:50] 
+Loading Clans ...
+
+[23:09:50] 
+Loading Clans ...
+
+[23:09:50] 
+Loading Turfs ...
+
+[23:09:50] 
+Loading Meetings ...
+
+[23:09:50] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:09:50] Number of vehicle models: 120
+[23:09:50] 
+All Houses Loaded.
+
+[23:09:50] 
+All Codes Loaded.
+
+[23:09:50] 
+All Businesses Loaded.
+
+[23:09:50] 
+All Special Businesses Loaded.
+
+[23:09:50] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:09:50] 
+All Dynamic Factions Loaded.
+
+[23:09:50] 
+All Clans Loaded.
+
+[23:09:50] 
+All Friends Loaded.
+
+[23:09:50] 
+All Turfs Loaded.
+
+[23:09:50] 
+All Meetings Loaded.
+
+[23:09:50] 
+Royal City Game gamemode loaded.
+
+[23:09:50] 
+Scripter: MoeinBig.
+
+
+[23:09:50] 
+Site: Bigdev.ir.
+
+
+[23:09:51] Server password has been removed.
+[23:09:51] [connection] 2.147.161.164:15489 requests connection cookie.
+[23:09:51] [connection] incoming connection: 2.147.161.164:15489 id: 0
+[23:09:52] [join] Vexer has joined the server (0:2.147.161.164)
+[23:10:04] Vexer has logged in.
+[23:10:04] Now server has at least one active admin
+[23:10:10] Vexer has logged in.
+[23:10:10] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+[23:10:20] (CMD) Vexer: /pin
+[23:10:25] (CMD) Vexer: /ml 0 0
+[23:10:32] [part] Vexer has left the server (0:1)
+[23:10:33] Now server hasn't any active admin
+[23:10:33] [connection] 2.147.161.164:15491 requests connection cookie.
+[23:10:33] [connection] incoming connection: 2.147.161.164:15491 id: 0
+[23:10:34] [connection] 2.147.161.164:15492 requests connection cookie.
+[23:10:34] [connection] incoming connection: 2.147.161.164:15492 id: 1
+[23:10:34] [join] Vexer has joined the server (1:2.147.161.164)
+[23:10:50] Vexer has logged in.
+[23:10:50] Now server has at least one active admin
+[23:10:55] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:36] 
+[23:12:36] Server Plugins
+[23:12:36] --------------
+[23:12:36]  Loading plugin: streamer
+[23:12:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: FCNPC
+[23:12:36] 
+[23:12:36] -------------------------------------------------
+[23:12:36]      FCNPC - Fully Controllable NPC v1.8.2
+[23:12:36]          Windows SA-MP 0.3.7 R2
+[23:12:36]           Jan  8 2018 at 01:14:48
+[23:12:36] 
+[23:12:36]   Author:       OrMisicL (2013 - 2015)
+[23:12:36]   Continued by: ziggi (2016 - present)
+[23:12:36]   Contributors: kurta999, Neutralneu
+[23:12:36] -------------------------------------------------
+[23:12:36] 
+[23:12:36] Loading...
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: pawnregex
+[23:12:36] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: libRegEx
+[23:12:36] 
+[23:12:36]  ------------------------------
+[23:12:36]  |
+[23:12:36]  | -> Regular Expression Plugin v0.2
+[23:12:36]  | -> Using Oniguruma v5.9.5
+[23:12:36]  |
+[23:12:36]  ------ (c) 2014, Koala -------
+[23:12:36] 
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: ColAndreas
+[23:12:36] *********************
+[23:12:36] ** Created By:     **
+[23:12:36] ** [uL]Chris42O    **
+[23:12:36] ** [uL]Slice       **
+[23:12:36] ** [uL]Pottus      **
+[23:12:36] *********************
+[23:12:36] No collision data found.
+[23:12:36] *********************
+[23:12:36]   ColAndreas Loaded
+[23:12:36]    v1.4.0
+[23:12:36] *********************
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: mysql.dll
+[23:12:36]  >> plugin.mysql: R39-6 successfully loaded.
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: sampmysql
+[23:12:36] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: pawnraknet
+[23:12:36] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: sscanf
+[23:12:36] 
+
+[23:12:36]  ===============================
+
+[23:12:36]       sscanf plugin loaded.     
+
+[23:12:36]    (c) 2009 Alex "Y_Less" Cole
+
+[23:12:36]    0.3d-R2 500 Players "dnee"
+
+[23:12:36]  ===============================
+
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: Whirlpool
+[23:12:36]  
+[23:12:36]  ==================
+[23:12:36]  
+[23:12:36]   Whirlpool loaded
+[23:12:36]  
+[23:12:36]  ==================
+[23:12:36]  
+[23:12:36]   Loaded.
+[23:12:36]  Loading plugin: nativechecker
+[23:12:36]   Loaded.
+[23:12:36]  Loaded 11 plugins.
+
+[23:12:36] 
+[23:12:36] Ban list
+[23:12:36] --------
+[23:12:36]  Loaded: samp.ban
+[23:12:36] 
+[23:12:36] 
+[23:12:36] Filterscripts
+[23:12:36] ---------------
+[23:12:36]   Loading filterscript 'sobeit.amx'...
+[23:12:36] Anti Sobeit loaded
+[23:12:36]   Loaded 1 filterscripts.
+
+[23:12:36]  
+[23:12:36]  
+[23:12:36]  
+[23:12:36]  ======================================= 
+[23:12:36]  |                                     | 
+[23:12:36]  |        YSI version 3.09.0684        | 
+[23:12:36]  |        By Alex "Y_Less" Cole        | 
+[23:12:36]  |                                     | 
+[23:12:36]  ======================================= 
+[23:12:36]  
+[23:12:36]  
+[23:12:36]  
+[23:12:36]  
+[23:12:36] --------------------------------------
+[23:12:36]  Anticheat Nex-AC Load Shod
+[23:12:36]  Noskhe Anticheat: 1.9.69
+[23:12:36]  Sazande: Nexius
+[23:12:36] --------------------------------------
+
+[23:12:36] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:12:36] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:12:36] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:12:36] Server password has been removed.
+[23:12:36] -- Connected to MySQL Server successfully. --
+[23:12:36] 
+Loading Houses ...
+
+[23:12:36] 
+Loading Codes ...
+
+[23:12:36] 
+Loading Businesses ...
+
+[23:12:36] 
+Loading Special Businesses ...
+
+[23:12:36] 
+Loading Stuff ...
+
+[23:12:36] 
+Loading Factions/Families ...
+
+[23:12:36] 
+Loading Clans ...
+
+[23:12:36] 
+Loading Clans ...
+
+[23:12:36] 
+Loading Turfs ...
+
+[23:12:36] 
+Loading Meetings ...
+
+[23:12:36] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:12:36] Number of vehicle models: 120
+[23:12:37] 
+All Houses Loaded.
+
+[23:12:37] 
+All Codes Loaded.
+
+[23:12:37] 
+All Businesses Loaded.
+
+[23:12:37] 
+All Special Businesses Loaded.
+
+[23:12:37] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:12:37] 
+All Dynamic Factions Loaded.
+
+[23:12:37] 
+All Clans Loaded.
+
+[23:12:37] 
+All Friends Loaded.
+
+[23:12:37] 
+All Turfs Loaded.
+
+[23:12:37] 
+All Meetings Loaded.
+
+[23:12:37] 
+Royal City Game gamemode loaded.
+
+[23:12:37] 
+Scripter: MoeinBig.
+
+
+[23:12:37] 
+Site: Bigdev.ir.
+
+
+[23:12:38] Server password has been removed.
+[23:12:39] [connection] 2.147.161.164:15493 requests connection cookie.
+[23:12:39] [connection] incoming connection: 2.147.161.164:15493 id: 0
+[23:12:40] [join] Vexer has joined the server (0:2.147.161.164)
+[23:12:52] Vexer has logged in.
+[23:12:52] Now server has at least one active admin
+[23:12:57] Vexer has logged in.
+[23:12:59] (CMD) Vexer: /pin
+[23:13:08] (CMD) Vexer: /ml 0 12
+[23:13:12] [part] Vexer has left the server (0:1)
+[23:13:12] Now server hasn't any active admin
+[23:13:13] [connection] 2.147.161.164:15494 requests connection cookie.
+[23:13:13] [connection] incoming connection: 2.147.161.164:15494 id: 0
+[23:13:14] [connection] 2.147.161.164:15495 requests connection cookie.
+[23:13:14] [connection] incoming connection: 2.147.161.164:15495 id: 1
+[23:13:25] [connection] 2.147.161.164:15497 requests connection cookie.
+[23:13:25] [connection] incoming connection: 2.147.161.164:15497 id: 0
+[23:13:26] [join] Vexer has joined the server (0:2.147.161.164)
+[23:13:38] Vexer has logged in.
+[23:13:38] Now server has at least one active admin
+[23:13:43] Vexer has logged in.
+[23:13:43] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+[23:13:55] Now server hasn't any active admin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:14:16] 
+[23:14:16] Server Plugins
+[23:14:16] --------------
+[23:14:16]  Loading plugin: streamer
+[23:14:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: FCNPC
+[23:14:16] 
+[23:14:16] -------------------------------------------------
+[23:14:16]      FCNPC - Fully Controllable NPC v1.8.2
+[23:14:16]          Windows SA-MP 0.3.7 R2
+[23:14:16]           Jan  8 2018 at 01:14:48
+[23:14:16] 
+[23:14:16]   Author:       OrMisicL (2013 - 2015)
+[23:14:16]   Continued by: ziggi (2016 - present)
+[23:14:16]   Contributors: kurta999, Neutralneu
+[23:14:16] -------------------------------------------------
+[23:14:16] 
+[23:14:16] Loading...
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: pawnregex
+[23:14:16] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: libRegEx
+[23:14:16] 
+[23:14:16]  ------------------------------
+[23:14:16]  |
+[23:14:16]  | -> Regular Expression Plugin v0.2
+[23:14:16]  | -> Using Oniguruma v5.9.5
+[23:14:16]  |
+[23:14:16]  ------ (c) 2014, Koala -------
+[23:14:16] 
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: ColAndreas
+[23:14:16] *********************
+[23:14:16] ** Created By:     **
+[23:14:16] ** [uL]Chris42O    **
+[23:14:16] ** [uL]Slice       **
+[23:14:16] ** [uL]Pottus      **
+[23:14:16] *********************
+[23:14:16] No collision data found.
+[23:14:16] *********************
+[23:14:16]   ColAndreas Loaded
+[23:14:16]    v1.4.0
+[23:14:16] *********************
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: mysql.dll
+[23:14:16]  >> plugin.mysql: R39-6 successfully loaded.
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: sampmysql
+[23:14:16] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: pawnraknet
+[23:14:16] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: sscanf
+[23:14:16] 
+
+[23:14:16]  ===============================
+
+[23:14:16]       sscanf plugin loaded.     
+
+[23:14:16]    (c) 2009 Alex "Y_Less" Cole
+
+[23:14:16]    0.3d-R2 500 Players "dnee"
+
+[23:14:16]  ===============================
+
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: Whirlpool
+[23:14:16]  
+[23:14:16]  ==================
+[23:14:16]  
+[23:14:16]   Whirlpool loaded
+[23:14:16]  
+[23:14:16]  ==================
+[23:14:16]  
+[23:14:16]   Loaded.
+[23:14:16]  Loading plugin: nativechecker
+[23:14:16]   Loaded.
+[23:14:16]  Loaded 11 plugins.
+
+[23:14:16] 
+[23:14:16] Ban list
+[23:14:16] --------
+[23:14:16]  Loaded: samp.ban
+[23:14:16] 
+[23:14:16] 
+[23:14:16] Filterscripts
+[23:14:16] ---------------
+[23:14:16]   Loading filterscript 'sobeit.amx'...
+[23:14:16] Anti Sobeit loaded
+[23:14:16]   Loaded 1 filterscripts.
+
+[23:14:16]  
+[23:14:16]  
+[23:14:16]  
+[23:14:16]  ======================================= 
+[23:14:16]  |                                     | 
+[23:14:16]  |        YSI version 3.09.0684        | 
+[23:14:16]  |        By Alex "Y_Less" Cole        | 
+[23:14:16]  |                                     | 
+[23:14:16]  ======================================= 
+[23:14:16]  
+[23:14:16]  
+[23:14:16]  
+[23:14:16]  
+[23:14:16] --------------------------------------
+[23:14:16]  Anticheat Nex-AC Load Shod
+[23:14:16]  Noskhe Anticheat: 1.9.69
+[23:14:16]  Sazande: Nexius
+[23:14:16] --------------------------------------
+
+[23:14:16] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:14:16] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:14:16] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:14:16] Server password has been removed.
+[23:14:16] -- Connected to MySQL Server successfully. --
+[23:14:16] 
+Loading Houses ...
+
+[23:14:16] 
+Loading Codes ...
+
+[23:14:16] 
+Loading Businesses ...
+
+[23:14:16] 
+Loading Special Businesses ...
+
+[23:14:16] 
+Loading Stuff ...
+
+[23:14:16] 
+Loading Factions/Families ...
+
+[23:14:16] 
+Loading Clans ...
+
+[23:14:16] 
+Loading Clans ...
+
+[23:14:16] 
+Loading Turfs ...
+
+[23:14:16] 
+Loading Meetings ...
+
+[23:14:16] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:14:16] Number of vehicle models: 120
+[23:14:17] 
+All Houses Loaded.
+
+[23:14:17] 
+All Codes Loaded.
+
+[23:14:17] 
+All Businesses Loaded.
+
+[23:14:17] 
+All Special Businesses Loaded.
+
+[23:14:17] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:14:17] 
+All Dynamic Factions Loaded.
+
+[23:14:17] 
+All Clans Loaded.
+
+[23:14:17] 
+All Friends Loaded.
+
+[23:14:17] 
+All Turfs Loaded.
+
+[23:14:17] 
+All Meetings Loaded.
+
+[23:14:17] 
+Royal City Game gamemode loaded.
+
+[23:14:17] 
+Scripter: MoeinBig.
+
+
+[23:14:17] 
+Site: Bigdev.ir.
+
+
+[23:14:18] Server password has been removed.
+[23:14:20] [connection] 2.147.161.164:16215 requests connection cookie.
+[23:14:20] [connection] incoming connection: 2.147.161.164:16215 id: 0
+[23:14:21] [join] Vexer has joined the server (0:2.147.161.164)
+[23:14:32] Vexer has logged in.
+[23:14:32] Now server has at least one active admin
+[23:14:38] Vexer has logged in.
+[23:14:38] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:00] 
+[23:16:00] Server Plugins
+[23:16:00] --------------
+[23:16:00]  Loading plugin: streamer
+[23:16:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: FCNPC
+[23:16:00] 
+[23:16:00] -------------------------------------------------
+[23:16:00]      FCNPC - Fully Controllable NPC v1.8.2
+[23:16:00]          Windows SA-MP 0.3.7 R2
+[23:16:00]           Jan  8 2018 at 01:14:48
+[23:16:00] 
+[23:16:00]   Author:       OrMisicL (2013 - 2015)
+[23:16:00]   Continued by: ziggi (2016 - present)
+[23:16:00]   Contributors: kurta999, Neutralneu
+[23:16:00] -------------------------------------------------
+[23:16:00] 
+[23:16:00] Loading...
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: pawnregex
+[23:16:00] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: libRegEx
+[23:16:00] 
+[23:16:00]  ------------------------------
+[23:16:00]  |
+[23:16:00]  | -> Regular Expression Plugin v0.2
+[23:16:00]  | -> Using Oniguruma v5.9.5
+[23:16:00]  |
+[23:16:00]  ------ (c) 2014, Koala -------
+[23:16:00] 
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: ColAndreas
+[23:16:00] *********************
+[23:16:00] ** Created By:     **
+[23:16:00] ** [uL]Chris42O    **
+[23:16:00] ** [uL]Slice       **
+[23:16:00] ** [uL]Pottus      **
+[23:16:00] *********************
+[23:16:00] No collision data found.
+[23:16:00] *********************
+[23:16:00]   ColAndreas Loaded
+[23:16:00]    v1.4.0
+[23:16:00] *********************
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: mysql.dll
+[23:16:00]  >> plugin.mysql: R39-6 successfully loaded.
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: sampmysql
+[23:16:00] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: pawnraknet
+[23:16:00] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: sscanf
+[23:16:00] 
+
+[23:16:00]  ===============================
+
+[23:16:00]       sscanf plugin loaded.     
+
+[23:16:00]    (c) 2009 Alex "Y_Less" Cole
+
+[23:16:00]    0.3d-R2 500 Players "dnee"
+
+[23:16:00]  ===============================
+
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: Whirlpool
+[23:16:00]  
+[23:16:00]  ==================
+[23:16:00]  
+[23:16:00]   Whirlpool loaded
+[23:16:00]  
+[23:16:00]  ==================
+[23:16:00]  
+[23:16:00]   Loaded.
+[23:16:00]  Loading plugin: nativechecker
+[23:16:00]   Loaded.
+[23:16:00]  Loaded 11 plugins.
+
+[23:16:00] 
+[23:16:00] Ban list
+[23:16:00] --------
+[23:16:00]  Loaded: samp.ban
+[23:16:00] 
+[23:16:00] 
+[23:16:00] Filterscripts
+[23:16:00] ---------------
+[23:16:00]   Loading filterscript 'sobeit.amx'...
+[23:16:00] Anti Sobeit loaded
+[23:16:00]   Loaded 1 filterscripts.
+
+[23:16:00]  
+[23:16:00]  
+[23:16:00]  
+[23:16:00]  ======================================= 
+[23:16:00]  |                                     | 
+[23:16:00]  |        YSI version 3.09.0684        | 
+[23:16:00]  |        By Alex "Y_Less" Cole        | 
+[23:16:00]  |                                     | 
+[23:16:00]  ======================================= 
+[23:16:00]  
+[23:16:00]  
+[23:16:00]  
+[23:16:00]  
+[23:16:00] --------------------------------------
+[23:16:00]  Anticheat Nex-AC Load Shod
+[23:16:00]  Noskhe Anticheat: 1.9.69
+[23:16:00]  Sazande: Nexius
+[23:16:00] --------------------------------------
+
+[23:16:00] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:16:00] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:16:00] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:16:00] Server password has been removed.
+[23:16:00] -- Connected to MySQL Server successfully. --
+[23:16:00] 
+Loading Houses ...
+
+[23:16:00] 
+Loading Codes ...
+
+[23:16:00] 
+Loading Businesses ...
+
+[23:16:00] 
+Loading Special Businesses ...
+
+[23:16:00] 
+Loading Stuff ...
+
+[23:16:00] 
+Loading Factions/Families ...
+
+[23:16:00] 
+Loading Clans ...
+
+[23:16:00] 
+Loading Clans ...
+
+[23:16:00] 
+Loading Turfs ...
+
+[23:16:00] 
+Loading Meetings ...
+
+[23:16:00] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:16:00] Number of vehicle models: 120
+[23:16:00] 
+All Houses Loaded.
+
+[23:16:00] 
+All Codes Loaded.
+
+[23:16:00] 
+All Businesses Loaded.
+
+[23:16:00] 
+All Special Businesses Loaded.
+
+[23:16:00] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:16:00] 
+All Dynamic Factions Loaded.
+
+[23:16:00] 
+All Clans Loaded.
+
+[23:16:00] 
+All Friends Loaded.
+
+[23:16:00] 
+All Turfs Loaded.
+
+[23:16:00] 
+All Meetings Loaded.
+
+[23:16:00] 
+Royal City Game gamemode loaded.
+
+[23:16:00] 
+Scripter: MoeinBig.
+
+
+[23:16:00] 
+Site: Bigdev.ir.
+
+
+[23:16:01] Server password has been removed.
+[23:16:04] [connection] 2.147.161.164:16216 requests connection cookie.
+[23:16:04] [connection] incoming connection: 2.147.161.164:16216 id: 0
+[23:16:04] [join] Vexer has joined the server (0:2.147.161.164)
+[23:16:16] Vexer has logged in.
+[23:16:16] Now server has at least one active admin
+[23:16:22] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:57] 
+[23:16:57] Server Plugins
+[23:16:57] --------------
+[23:16:57]  Loading plugin: streamer
+[23:16:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: FCNPC
+[23:16:57] 
+[23:16:57] -------------------------------------------------
+[23:16:57]      FCNPC - Fully Controllable NPC v1.8.2
+[23:16:57]          Windows SA-MP 0.3.7 R2
+[23:16:57]           Jan  8 2018 at 01:14:48
+[23:16:57] 
+[23:16:57]   Author:       OrMisicL (2013 - 2015)
+[23:16:57]   Continued by: ziggi (2016 - present)
+[23:16:57]   Contributors: kurta999, Neutralneu
+[23:16:57] -------------------------------------------------
+[23:16:57] 
+[23:16:57] Loading...
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: pawnregex
+[23:16:57] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: libRegEx
+[23:16:57] 
+[23:16:57]  ------------------------------
+[23:16:57]  |
+[23:16:57]  | -> Regular Expression Plugin v0.2
+[23:16:57]  | -> Using Oniguruma v5.9.5
+[23:16:57]  |
+[23:16:57]  ------ (c) 2014, Koala -------
+[23:16:57] 
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: ColAndreas
+[23:16:57] *********************
+[23:16:57] ** Created By:     **
+[23:16:57] ** [uL]Chris42O    **
+[23:16:57] ** [uL]Slice       **
+[23:16:57] ** [uL]Pottus      **
+[23:16:57] *********************
+[23:16:57] No collision data found.
+[23:16:57] *********************
+[23:16:57]   ColAndreas Loaded
+[23:16:57]    v1.4.0
+[23:16:57] *********************
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: mysql.dll
+[23:16:57]  >> plugin.mysql: R39-6 successfully loaded.
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: sampmysql
+[23:16:57] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: pawnraknet
+[23:16:57] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: sscanf
+[23:16:57] 
+
+[23:16:57]  ===============================
+
+[23:16:57]       sscanf plugin loaded.     
+
+[23:16:57]    (c) 2009 Alex "Y_Less" Cole
+
+[23:16:57]    0.3d-R2 500 Players "dnee"
+
+[23:16:57]  ===============================
+
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: Whirlpool
+[23:16:57]  
+[23:16:57]  ==================
+[23:16:57]  
+[23:16:57]   Whirlpool loaded
+[23:16:57]  
+[23:16:57]  ==================
+[23:16:57]  
+[23:16:57]   Loaded.
+[23:16:57]  Loading plugin: nativechecker
+[23:16:57]   Loaded.
+[23:16:57]  Loaded 11 plugins.
+
+[23:16:57] 
+[23:16:57] Ban list
+[23:16:57] --------
+[23:16:57]  Loaded: samp.ban
+[23:16:57] 
+[23:16:57] 
+[23:16:57] Filterscripts
+[23:16:57] ---------------
+[23:16:57]   Loading filterscript 'sobeit.amx'...
+[23:16:57] Anti Sobeit loaded
+[23:16:57]   Loaded 1 filterscripts.
+
+[23:16:57]  
+[23:16:57]  
+[23:16:57]  
+[23:16:57]  ======================================= 
+[23:16:57]  |                                     | 
+[23:16:57]  |        YSI version 3.09.0684        | 
+[23:16:57]  |        By Alex "Y_Less" Cole        | 
+[23:16:57]  |                                     | 
+[23:16:57]  ======================================= 
+[23:16:57]  
+[23:16:57]  
+[23:16:57]  
+[23:16:57]  
+[23:16:57] --------------------------------------
+[23:16:57]  Anticheat Nex-AC Load Shod
+[23:16:57]  Noskhe Anticheat: 1.9.69
+[23:16:57]  Sazande: Nexius
+[23:16:57] --------------------------------------
+
+[23:16:57] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:16:57] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:16:57] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:16:57] Server password has been removed.
+[23:16:57] -- Connected to MySQL Server successfully. --
+[23:16:57] 
+Loading Houses ...
+
+[23:16:57] 
+Loading Codes ...
+
+[23:16:57] 
+Loading Businesses ...
+
+[23:16:57] 
+Loading Special Businesses ...
+
+[23:16:57] 
+Loading Stuff ...
+
+[23:16:57] 
+Loading Factions/Families ...
+
+[23:16:57] 
+Loading Clans ...
+
+[23:16:57] 
+Loading Clans ...
+
+[23:16:57] 
+Loading Turfs ...
+
+[23:16:57] 
+Loading Meetings ...
+
+[23:16:57] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:16:57] Number of vehicle models: 120
+[23:16:57] 
+All Houses Loaded.
+
+[23:16:57] 
+All Codes Loaded.
+
+[23:16:57] 
+All Businesses Loaded.
+
+[23:16:57] 
+All Special Businesses Loaded.
+
+[23:16:57] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:16:57] 
+All Dynamic Factions Loaded.
+
+[23:16:57] 
+All Clans Loaded.
+
+[23:16:57] 
+All Friends Loaded.
+
+[23:16:57] 
+All Turfs Loaded.
+
+[23:16:57] 
+All Meetings Loaded.
+
+[23:16:57] 
+Royal City Game gamemode loaded.
+
+[23:16:57] 
+Scripter: MoeinBig.
+
+
+[23:16:57] 
+Site: Bigdev.ir.
+
+
+[23:16:58] Server password has been removed.
+[23:17:00] [connection] 2.147.161.164:16219 requests connection cookie.
+[23:17:00] [connection] incoming connection: 2.147.161.164:16219 id: 0
+[23:17:00] [join] Vexer has joined the server (0:2.147.161.164)
+[23:17:11] Vexer has logged in.
+[23:17:11] Now server has at least one active admin
+[23:17:17] Vexer has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:01] 
+[23:19:01] Server Plugins
+[23:19:01] --------------
+[23:19:01]  Loading plugin: streamer
+[23:19:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: FCNPC
+[23:19:01] 
+[23:19:01] -------------------------------------------------
+[23:19:01]      FCNPC - Fully Controllable NPC v1.8.2
+[23:19:01]          Windows SA-MP 0.3.7 R2
+[23:19:01]           Jan  8 2018 at 01:14:48
+[23:19:01] 
+[23:19:01]   Author:       OrMisicL (2013 - 2015)
+[23:19:01]   Continued by: ziggi (2016 - present)
+[23:19:01]   Contributors: kurta999, Neutralneu
+[23:19:01] -------------------------------------------------
+[23:19:01] 
+[23:19:01] Loading...
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: pawnregex
+[23:19:01] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: libRegEx
+[23:19:01] 
+[23:19:01]  ------------------------------
+[23:19:01]  |
+[23:19:01]  | -> Regular Expression Plugin v0.2
+[23:19:01]  | -> Using Oniguruma v5.9.5
+[23:19:01]  |
+[23:19:01]  ------ (c) 2014, Koala -------
+[23:19:01] 
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: ColAndreas
+[23:19:01] *********************
+[23:19:01] ** Created By:     **
+[23:19:01] ** [uL]Chris42O    **
+[23:19:01] ** [uL]Slice       **
+[23:19:01] ** [uL]Pottus      **
+[23:19:01] *********************
+[23:19:01] No collision data found.
+[23:19:01] *********************
+[23:19:01]   ColAndreas Loaded
+[23:19:01]    v1.4.0
+[23:19:01] *********************
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: mysql.dll
+[23:19:01]  >> plugin.mysql: R39-6 successfully loaded.
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: sampmysql
+[23:19:01] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: pawnraknet
+[23:19:01] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: sscanf
+[23:19:01] 
+
+[23:19:01]  ===============================
+
+[23:19:01]       sscanf plugin loaded.     
+
+[23:19:01]    (c) 2009 Alex "Y_Less" Cole
+
+[23:19:01]    0.3d-R2 500 Players "dnee"
+
+[23:19:01]  ===============================
+
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: Whirlpool
+[23:19:01]  
+[23:19:01]  ==================
+[23:19:01]  
+[23:19:01]   Whirlpool loaded
+[23:19:01]  
+[23:19:01]  ==================
+[23:19:01]  
+[23:19:01]   Loaded.
+[23:19:01]  Loading plugin: nativechecker
+[23:19:01]   Loaded.
+[23:19:01]  Loaded 11 plugins.
+
+[23:19:01] 
+[23:19:01] Ban list
+[23:19:01] --------
+[23:19:01]  Loaded: samp.ban
+[23:19:01] 
+[23:19:01] 
+[23:19:01] Filterscripts
+[23:19:01] ---------------
+[23:19:01]   Loading filterscript 'sobeit.amx'...
+[23:19:01] Anti Sobeit loaded
+[23:19:01]   Loaded 1 filterscripts.
+
+[23:19:02]  
+[23:19:02]  
+[23:19:02]  
+[23:19:02]  ======================================= 
+[23:19:02]  |                                     | 
+[23:19:02]  |        YSI version 3.09.0684        | 
+[23:19:02]  |        By Alex "Y_Less" Cole        | 
+[23:19:02]  |                                     | 
+[23:19:02]  ======================================= 
+[23:19:02]  
+[23:19:02]  
+[23:19:02]  
+[23:19:02]  
+[23:19:02] --------------------------------------
+[23:19:02]  Anticheat Nex-AC Load Shod
+[23:19:02]  Noskhe Anticheat: 1.9.69
+[23:19:02]  Sazande: Nexius
+[23:19:02] --------------------------------------
+
+[23:19:02] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:19:02] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:19:02] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:19:02] Server password has been removed.
+[23:19:02] -- Connected to MySQL Server successfully. --
+[23:19:02] 
+Loading Houses ...
+
+[23:19:02] 
+Loading Codes ...
+
+[23:19:02] 
+Loading Businesses ...
+
+[23:19:02] 
+Loading Special Businesses ...
+
+[23:19:02] 
+Loading Stuff ...
+
+[23:19:02] 
+Loading Factions/Families ...
+
+[23:19:02] 
+Loading Clans ...
+
+[23:19:02] 
+Loading Clans ...
+
+[23:19:02] 
+Loading Turfs ...
+
+[23:19:02] 
+Loading Meetings ...
+
+[23:19:02] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:19:02] Number of vehicle models: 120
+[23:19:02] 
+All Houses Loaded.
+
+[23:19:02] 
+All Codes Loaded.
+
+[23:19:02] 
+All Businesses Loaded.
+
+[23:19:02] 
+All Special Businesses Loaded.
+
+[23:19:02] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:19:02] 
+All Dynamic Factions Loaded.
+
+[23:19:02] 
+All Clans Loaded.
+
+[23:19:02] 
+All Friends Loaded.
+
+[23:19:02] 
+All Turfs Loaded.
+
+[23:19:02] 
+All Meetings Loaded.
+
+[23:19:02] 
+Royal City Game gamemode loaded.
+
+[23:19:02] 
+Scripter: MoeinBig.
+
+
+[23:19:02] 
+Site: Bigdev.ir.
+
+
+[23:19:03] Server password has been removed.
+[23:19:05] [connection] 2.147.161.164:16222 requests connection cookie.
+[23:19:05] [connection] incoming connection: 2.147.161.164:16222 id: 0
+[23:19:23] [connection] 2.147.161.164:16223 requests connection cookie.
+[23:19:23] [connection] incoming connection: 2.147.161.164:16223 id: 0
+[23:19:24] [join] Vexer has joined the server (0:2.147.161.164)
+[23:19:36] Vexer has logged in.
+[23:19:37] Now server has at least one active admin
+[23:19:42] Vexer has logged in.
+[23:19:42] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:21:20] 
+[23:21:20] Server Plugins
+[23:21:20] --------------
+[23:21:20]  Loading plugin: streamer
+[23:21:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: FCNPC
+[23:21:20] 
+[23:21:20] -------------------------------------------------
+[23:21:20]      FCNPC - Fully Controllable NPC v1.8.2
+[23:21:20]          Windows SA-MP 0.3.7 R2
+[23:21:20]           Jan  8 2018 at 01:14:48
+[23:21:20] 
+[23:21:20]   Author:       OrMisicL (2013 - 2015)
+[23:21:20]   Continued by: ziggi (2016 - present)
+[23:21:20]   Contributors: kurta999, Neutralneu
+[23:21:20] -------------------------------------------------
+[23:21:20] 
+[23:21:20] Loading...
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: pawnregex
+[23:21:20] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: libRegEx
+[23:21:20] 
+[23:21:20]  ------------------------------
+[23:21:20]  |
+[23:21:20]  | -> Regular Expression Plugin v0.2
+[23:21:20]  | -> Using Oniguruma v5.9.5
+[23:21:20]  |
+[23:21:20]  ------ (c) 2014, Koala -------
+[23:21:20] 
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: ColAndreas
+[23:21:20] *********************
+[23:21:20] ** Created By:     **
+[23:21:20] ** [uL]Chris42O    **
+[23:21:20] ** [uL]Slice       **
+[23:21:20] ** [uL]Pottus      **
+[23:21:20] *********************
+[23:21:20] No collision data found.
+[23:21:20] *********************
+[23:21:20]   ColAndreas Loaded
+[23:21:20]    v1.4.0
+[23:21:20] *********************
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: mysql.dll
+[23:21:20]  >> plugin.mysql: R39-6 successfully loaded.
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: sampmysql
+[23:21:20] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: pawnraknet
+[23:21:20] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: sscanf
+[23:21:20] 
+
+[23:21:20]  ===============================
+
+[23:21:20]       sscanf plugin loaded.     
+
+[23:21:20]    (c) 2009 Alex "Y_Less" Cole
+
+[23:21:20]    0.3d-R2 500 Players "dnee"
+
+[23:21:20]  ===============================
+
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: Whirlpool
+[23:21:20]  
+[23:21:20]  ==================
+[23:21:20]  
+[23:21:20]   Whirlpool loaded
+[23:21:20]  
+[23:21:20]  ==================
+[23:21:20]  
+[23:21:20]   Loaded.
+[23:21:20]  Loading plugin: nativechecker
+[23:21:20]   Loaded.
+[23:21:20]  Loaded 11 plugins.
+
+[23:21:20] 
+[23:21:20] Ban list
+[23:21:20] --------
+[23:21:20]  Loaded: samp.ban
+[23:21:20] 
+[23:21:20] 
+[23:21:20] Filterscripts
+[23:21:20] ---------------
+[23:21:20]   Loading filterscript 'sobeit.amx'...
+[23:21:20] Anti Sobeit loaded
+[23:21:20]   Loaded 1 filterscripts.
+
+[23:21:20]  
+[23:21:20]  
+[23:21:20]  
+[23:21:20]  ======================================= 
+[23:21:20]  |                                     | 
+[23:21:20]  |        YSI version 3.09.0684        | 
+[23:21:20]  |        By Alex "Y_Less" Cole        | 
+[23:21:20]  |                                     | 
+[23:21:20]  ======================================= 
+[23:21:20]  
+[23:21:20]  
+[23:21:20]  
+[23:21:20]  
+[23:21:20] --------------------------------------
+[23:21:20]  Anticheat Nex-AC Load Shod
+[23:21:20]  Noskhe Anticheat: 1.9.69
+[23:21:20]  Sazande: Nexius
+[23:21:20] --------------------------------------
+
+[23:21:20] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:21:20] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:21:20] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:21:20] Server password has been removed.
+[23:21:20] -- Connected to MySQL Server successfully. --
+[23:21:20] 
+Loading Houses ...
+
+[23:21:20] 
+Loading Codes ...
+
+[23:21:20] 
+Loading Businesses ...
+
+[23:21:20] 
+Loading Special Businesses ...
+
+[23:21:20] 
+Loading Stuff ...
+
+[23:21:20] 
+Loading Factions/Families ...
+
+[23:21:20] 
+Loading Clans ...
+
+[23:21:20] 
+Loading Clans ...
+
+[23:21:20] 
+Loading Turfs ...
+
+[23:21:20] 
+Loading Meetings ...
+
+[23:21:20] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:21:20] Number of vehicle models: 120
+[23:21:20] 
+All Houses Loaded.
+
+[23:21:20] 
+All Codes Loaded.
+
+[23:21:20] 
+All Businesses Loaded.
+
+[23:21:20] 
+All Special Businesses Loaded.
+
+[23:21:20] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:21:20] 
+All Dynamic Factions Loaded.
+
+[23:21:20] 
+All Clans Loaded.
+
+[23:21:20] 
+All Friends Loaded.
+
+[23:21:20] 
+All Turfs Loaded.
+
+[23:21:20] 
+All Meetings Loaded.
+
+[23:21:20] 
+Royal City Game gamemode loaded.
+
+[23:21:20] 
+Scripter: MoeinBig.
+
+
+[23:21:20] 
+Site: Bigdev.ir.
+
+
+[23:21:21] Server password has been removed.
+[23:21:23] [connection] 2.147.161.164:16227 requests connection cookie.
+[23:21:23] [connection] incoming connection: 2.147.161.164:16227 id: 0
+[23:21:23] [join] Vexer has joined the server (0:2.147.161.164)
+[23:21:34] Vexer has logged in.
+[23:21:35] Now server has at least one active admin
+[23:21:40] Vexer has logged in.
+[23:21:40] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:23:32] 
+[23:23:32] Server Plugins
+[23:23:32] --------------
+[23:23:32]  Loading plugin: streamer
+[23:23:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: FCNPC
+[23:23:32] 
+[23:23:32] -------------------------------------------------
+[23:23:32]      FCNPC - Fully Controllable NPC v1.8.2
+[23:23:32]          Windows SA-MP 0.3.7 R2
+[23:23:32]           Jan  8 2018 at 01:14:48
+[23:23:32] 
+[23:23:32]   Author:       OrMisicL (2013 - 2015)
+[23:23:32]   Continued by: ziggi (2016 - present)
+[23:23:32]   Contributors: kurta999, Neutralneu
+[23:23:32] -------------------------------------------------
+[23:23:32] 
+[23:23:32] Loading...
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: pawnregex
+[23:23:32] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: libRegEx
+[23:23:32] 
+[23:23:32]  ------------------------------
+[23:23:32]  |
+[23:23:32]  | -> Regular Expression Plugin v0.2
+[23:23:32]  | -> Using Oniguruma v5.9.5
+[23:23:32]  |
+[23:23:32]  ------ (c) 2014, Koala -------
+[23:23:32] 
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: ColAndreas
+[23:23:32] *********************
+[23:23:32] ** Created By:     **
+[23:23:32] ** [uL]Chris42O    **
+[23:23:32] ** [uL]Slice       **
+[23:23:32] ** [uL]Pottus      **
+[23:23:32] *********************
+[23:23:32] No collision data found.
+[23:23:32] *********************
+[23:23:32]   ColAndreas Loaded
+[23:23:32]    v1.4.0
+[23:23:32] *********************
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: mysql.dll
+[23:23:32]  >> plugin.mysql: R39-6 successfully loaded.
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: sampmysql
+[23:23:32] 
+/************************************************/
+/* SAMP-MySQL v0.13 Plugin loaded successfully ! */
+/************************************************/
+
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: pawnraknet
+[23:23:32] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: sscanf
+[23:23:32] 
+
+[23:23:32]  ===============================
+
+[23:23:32]       sscanf plugin loaded.     
+
+[23:23:32]    (c) 2009 Alex "Y_Less" Cole
+
+[23:23:32]    0.3d-R2 500 Players "dnee"
+
+[23:23:32]  ===============================
+
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: Whirlpool
+[23:23:32]  
+[23:23:32]  ==================
+[23:23:32]  
+[23:23:32]   Whirlpool loaded
+[23:23:32]  
+[23:23:32]  ==================
+[23:23:32]  
+[23:23:32]   Loaded.
+[23:23:32]  Loading plugin: nativechecker
+[23:23:32]   Loaded.
+[23:23:32]  Loaded 11 plugins.
+
+[23:23:32] 
+[23:23:32] Ban list
+[23:23:32] --------
+[23:23:32]  Loaded: samp.ban
+[23:23:32] 
+[23:23:32] 
+[23:23:32] Filterscripts
+[23:23:32] ---------------
+[23:23:32]   Loading filterscript 'sobeit.amx'...
+[23:23:32] Anti Sobeit loaded
+[23:23:32]   Loaded 1 filterscripts.
+
+[23:23:32]  
+[23:23:32]  
+[23:23:32]  
+[23:23:32]  ======================================= 
+[23:23:32]  |                                     | 
+[23:23:32]  |        YSI version 3.09.0684        | 
+[23:23:32]  |        By Alex "Y_Less" Cole        | 
+[23:23:32]  |                                     | 
+[23:23:32]  ======================================= 
+[23:23:32]  
+[23:23:32]  
+[23:23:32]  
+[23:23:32]  
+[23:23:32] --------------------------------------
+[23:23:32]  Anticheat Nex-AC Load Shod
+[23:23:32]  Noskhe Anticheat: 1.9.69
+[23:23:32]  Sazande: Nexius
+[23:23:32] --------------------------------------
+
+[23:23:32] [npc:join] Billy has joined the server (502:127.0.0.1)
+[23:23:32] [npc:join] Chester has joined the server (501:127.0.0.1)
+[23:23:32] [npc:join] Claudia has joined the server (500:127.0.0.1)
+[23:23:32] Server password has been removed.
+[23:23:32] -- Connected to MySQL Server successfully. --
+[23:23:32] 
+Loading Houses ...
+
+[23:23:32] 
+Loading Codes ...
+
+[23:23:32] 
+Loading Businesses ...
+
+[23:23:32] 
+Loading Special Businesses ...
+
+[23:23:32] 
+Loading Stuff ...
+
+[23:23:32] 
+Loading Factions/Families ...
+
+[23:23:32] 
+Loading Clans ...
+
+[23:23:32] 
+Loading Clans ...
+
+[23:23:32] 
+Loading Turfs ...
+
+[23:23:32] 
+Loading Meetings ...
+
+[23:23:32] <------------------------------------------------------> 
+ ** Royal City Game v1.1.1 is loading... ** 
+<------------------------------------------------------>
+[23:23:32] Number of vehicle models: 120
+[23:23:33] 
+All Houses Loaded.
+
+[23:23:33] 
+All Codes Loaded.
+
+[23:23:33] 
+All Businesses Loaded.
+
+[23:23:33] 
+All Special Businesses Loaded.
+
+[23:23:33] 
+Stuff loaded
+JackpotValue: 6013, Tax: 1, TaxValue: 10035023, MostPlayersOnline: 2
+
+[23:23:33] 
+All Dynamic Factions Loaded.
+
+[23:23:33] 
+All Clans Loaded.
+
+[23:23:33] 
+All Friends Loaded.
+
+[23:23:33] 
+All Turfs Loaded.
+
+[23:23:33] 
+All Meetings Loaded.
+
+[23:23:33] 
+Royal City Game gamemode loaded.
+
+[23:23:33] 
+Scripter: MoeinBig.
+
+
+[23:23:33] 
+Site: Bigdev.ir.
+
+
+[23:23:33] Server password has been removed.
+[23:23:34] [connection] 2.147.161.164:16228 requests connection cookie.
+[23:23:34] [connection] incoming connection: 2.147.161.164:16228 id: 0
+[23:23:35] [join] Vexer has joined the server (0:2.147.161.164)
+[23:23:46] Vexer has logged in.
+[23:23:46] Now server has at least one active admin
+[23:23:52] Vexer has logged in.
+[23:23:52] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+[23:23:53] (CMD) Vexer: /pin
+[23:23:58] (CMD) Vexer: /ml 0
+[23:23:59] (CMD) Vexer: /ml 0 0
+[23:24:03] (CMD) Vexer: /ml 0 15
+[23:24:07] [part] Vexer has left the server (0:1)
+[23:24:07] Now server hasn't any active admin
+[23:24:08] [connection] 2.147.161.164:16229 requests connection cookie.
+[23:24:08] [connection] incoming connection: 2.147.161.164:16229 id: 0
+[23:24:08] [join] Vexer has joined the server (0:2.147.161.164)
+[23:24:20] Vexer has logged in.
+[23:24:20] Now server has at least one active admin
+[23:24:26] Vexer has logged in.
+[23:24:26] [Nex-AC] ID 0 Mashkook Mibashad. Dalil: 021
+[23:25:02] Now server hasn't any active admin
