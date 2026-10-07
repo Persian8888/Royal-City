@@ -5165,3 +5165,1598 @@
 [09:06:05 10/07/26] [ERROR] cache_get_row_int - invalid datatype
 [09:06:54 10/07/26] [ERROR] cache_get_row_int - invalid datatype
 [09:07:26 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:16:02 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:16:02 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:16:02 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:16:02 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:16:02 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:16:02 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:16:02 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:16:02 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:16:37 10/07/26] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('0') (Query: "SELECT * FROM `users` WHERE `pName`='Vexer'")
+[18:16:37 10/07/26] [ERROR] cache_get_field_content_int - invalid datatype
+[18:17:33 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:18:06 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:18:13 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:18:39 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:18:46 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:19:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:19:19 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:19:45 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:19:52 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:20:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:20:25 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:20:51 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:20:58 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:21:11 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:21:11 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:21:11 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:21:11 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:21:11 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:21:11 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:21:11 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:21:12 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:22:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:22:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:22:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:22:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:22:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:22:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:22:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:22:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:24:49 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:24:49 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:24:49 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:24:49 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:24:49 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:24:49 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:24:49 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:24:49 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:25:08 10/07/26] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('0') (Query: "SELECT * FROM `users` WHERE `pName`='Vexer'")
+[18:25:08 10/07/26] [ERROR] cache_get_field_content_int - invalid datatype
+[18:26:04 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:26:37 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:27:10 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:27:43 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:27:51 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:28:23 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:28:24 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:28:56 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:28:57 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:29:29 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:29:30 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:30:01 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:30:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:30:34 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:30:35 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:31:07 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:31:08 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:31:40 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:31:41 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:32:13 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:32:14 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:32:46 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:32:47 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:33:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:33:20 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:33:51 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:33:52 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:33:56 10/07/26] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('0') (Query: "SELECT * FROM `users` WHERE `pName`='[Wonder]'")
+[18:33:56 10/07/26] [ERROR] cache_get_field_content_int - invalid datatype
+[18:34:24 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:34:51 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:34:57 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:35:24 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:35:30 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:35:57 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:36:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:36:30 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:36:35 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:37:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:37:08 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:37:35 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:37:41 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:38:08 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:38:14 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:38:41 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:38:47 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:39:14 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:39:19 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:39:47 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:39:52 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:40:20 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:40:25 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:40:52 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:40:58 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:41:25 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:41:31 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:41:58 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:42:04 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:42:31 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:42:36 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:43:04 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:43:09 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:43:36 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:43:42 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:44:09 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:44:15 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:44:42 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:44:48 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:45:15 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:45:20 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:45:47 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:45:54 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:46:20 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:46:26 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:46:53 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:46:59 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:47:26 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:47:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:47:59 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:05 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:48:32 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:48:32 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:48:32 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:48:32 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:48:32 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:48:32 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:48:32 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:48:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:49:02 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:49:15 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:49:35 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:49:48 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:50:08 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:50:21 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:50:41 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:50:53 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:51:14 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:51:26 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:51:46 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:51:59 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:52:19 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:52:31 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:52:52 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:04 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:53:18 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:53:18 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:53:18 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:53:18 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:53:18 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:53:18 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:53:18 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:53:44 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:54:17 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:54:50 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:55:23 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:55:56 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:56:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:56:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:56:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:56:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [WARNING] cache_get_row_count - no active cache
+[18:56:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[18:56:27 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[18:56:27 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:56:54 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:57:26 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:57:59 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:58:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:59:05 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[18:59:38 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:00:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:00:44 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:01:17 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:01:50 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:02:22 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:02:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:03:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:04:01 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:04:34 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:05:07 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:05:40 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:06:13 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:06:46 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:07:18 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:07:51 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:08:24 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:08:57 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:09:30 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:10:03 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:10:35 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:11:08 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:11:41 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:12:14 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:12:47 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:13:20 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:13:52 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:14:15 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:14:25 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:14:48 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:14:58 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:15:21 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:15:31 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:15:54 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:16:04 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:16:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:16:37 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:17:00 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:17:10 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:17:32 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:17:42 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:18:05 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:18:16 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:18:38 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:18:48 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:19:11 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:19:21 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:19:44 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:19:54 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:20:17 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:20:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:20:50 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:21:00 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:21:22 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:21:33 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:21:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:05 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:28 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:38 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [WARNING] cache_get_row_count - no active cache
+[19:22:54 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[19:22:54 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [WARNING] cache_get_row_count - no active cache
+[19:22:54 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[19:22:54 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [WARNING] cache_get_row_count - no active cache
+[19:22:54 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [WARNING] cache_get_field_content_int - no active cache
+[19:22:54 10/07/26] [ERROR] cache_delete - invalid connection handle (id: 1)
+[19:22:54 10/07/26] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[19:22:54 10/07/26] [ERROR] mysql_tquery - invalid connection handle (id: 0)
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:22:55 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:23:21 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:23:54 10/07/26] [ERROR] cache_get_row_int - invalid datatype
+[19:24:27 10/07/26] [ERROR] cache_get_row_int - invalid datatype

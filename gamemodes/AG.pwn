@@ -39,16 +39,16 @@
 #include                            <strlib>
 #define                             USE_BWC
 /* ---|SERVER STATUS|--- */
-#define                             SERVER_NAME1                             "BigDev"
+#define                             SERVER_NAME1                             "Royal City"
 #define                             SERVER_NAME2                             "Game"
-#define                             SV_NAME                                  "BigDev"
-#define                             SV_VER                                   "1.8"
-#define                             SV_LINK                                  "BigDev.ir"
-#define                             RADIO_LINK                               "Bigdev.ir/music"
-#define                             WELCOME_LINK                             "Bigdev.ir/join.mp3"
-#define                             TELEGRAM_ID                              "@BigDEv"
-#define                             FORUM_ADD                                "BigDev.ir"
-#define                             HOST_NAME1                               "BigDev"
+#define                             SV_NAME                                  "Royal City: RPG"
+#define                             SV_VER                                   "1.1.1"
+#define                             SV_LINK                                  "RoyalCity.ir"
+#define                             RADIO_LINK                               "5.57.34.81/RoyalCity.mp3"
+#define                             WELCOME_LINK                             "5.57.34.81/RoyalCity.mp3"
+#define                             TELEGRAM_ID                              "@RoyalCity"
+#define                             FORUM_ADD                                "RoyalCity.ir"
+#define                             HOST_NAME1                               "Royal City"
 #define                             HOST_NAME2                               "Game"
 /* ---|SERVER STATUS|--- */
 /*-----------------------------**MySQL System**-------------------------------*/
@@ -58,7 +58,7 @@
 #define         sqldb           "samp"
 /*---------------------------**DEFINES**------------------------------*/
 #undef                              MAX_PLAYERS
-#define                             MAX_PLAYERS                              103
+#define                             MAX_PLAYERS                              503
 #define                             MAX_NPCC                                   3
 #define                             MAX_CLANS                                100
 #undef                              MAX_VEHICLES
@@ -155659,6 +155659,8 @@ SearchFriend(playerid, id)
 
 function OnFriendSearch(playerid)
 {
+	CanYES[playerid] = 0;
+	phoneloaded[playerid] = 0;
 	new row = cache_get_row_count(handle);
 	new id = ReferralID[playerid];
 	if(row == 0)
