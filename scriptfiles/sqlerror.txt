@@ -1,0 +1,4 @@
+
+
+
+Error( 1054 ): Unknown column 'pNam' in 'where clause', at: OnPassChanged, Query was be: UPDATE `users` SET pKey='HelloItsMeWowHoMkaskojosjolsdjflsdjflsdflskdjf45646df4sd6f46sd4fsdfdsfdsfdsfdsfffffffffffa' WHERE pNam
