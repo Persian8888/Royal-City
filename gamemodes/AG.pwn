@@ -6338,8 +6338,6 @@ static PlayerSetFreq[MAX_PLAYERS][10],
 
 	   TBFc1,
 	   TBFc2,
-	   TBFc3,
-	   TBFc4,
 	   TBFc5,
 	   TBFc6,
 	   TBFc7,
@@ -12943,7 +12941,7 @@ public IsAtCnn(playerid)
 {
 	if(IsPlayerConnected(playerid))
 	{
-	   if(PlayerToPoint(4.0,playerid,1111.92,-1796.84,16.5937) || PlayerToPoint(4.0,playerid,2079.4434,2046.1344,11.0579) || PlayerToPoint(3.0,playerid,1329.7839,-983.6779,33.8966))
+	   if(PlayerToPoint(4.0,playerid,649.302001,-1357.327148,13.6937) || PlayerToPoint(4.0,playerid,2079.4434,2046.1344,11.0579) || PlayerToPoint(3.0,playerid,1329.7839,-983.6779,33.8966))
 	   {
 		  return 1;
 	   }
@@ -13269,7 +13267,7 @@ public IsPGangCar19(carid)//Top BOys
 /*----------------------------------------------------------------------------*/
 public IsPGangCar6(carid)//TBF
 {
-if((carid == patcar) || (carid == patcar1) || (carid == patcar2) || (carid == patcar3) || (carid == patcar4) || (carid == patcar5) || (carid == patcar6) || (carid == patcar7) || (carid == TBFc1) || (carid == TBFc2) || (carid == TBFc3) || (carid == TBFc4) || (carid == TBFc5) || (carid == TBFc6) || (carid == TBFc7) || (carid == TBFc8) || (carid == TBFc9) || (carid == TBFc10) || (carid == TBFc11) || (carid == TBFc12) || (carid == TBFc13))
+if((carid == patcar) || (carid == patcar1) || (carid == patcar2) || (carid == patcar3) || (carid == patcar4) || (carid == patcar5) || (carid == patcar6) || (carid == patcar7) || (carid == TBFc1) || (carid == TBFc2) || (carid == TBFc5) || (carid == TBFc6) || (carid == TBFc7) || (carid == TBFc8) || (carid == TBFc9) || (carid == TBFc10) || (carid == TBFc11) || (carid == TBFc12) || (carid == TBFc13))
 	{
 	   return 1;
 	}
@@ -17839,7 +17837,7 @@ FreezePlayer(playerid);
 		  SetPlayerVirtualWorld(playerid, 0);
 		  SetPlayerToTeamColor(playerid);
 		  //SetPlayerPos(playerid,1714.988469,-1872.208374,13.566562);//rentmotor Atm
-			SetPlayerPos(playerid,1641.9963,-2239.7080,13.4964);// Spawn Orginaal
+			SetPlayerPos(playerid,1685.5939941406,-2332.935910156,13.8000);// Spawn Orginaal
 		  SetPlayerFacingAngle(playerid, 0);
 		  SetPlayerInterior(playerid,0);
 		  Mahal[playerid] = 9999;
@@ -29668,7 +29666,7 @@ TimerRingTone[i] = 1;
 				SetCameraBehindPlayer(i);
 				TogglePlayerControllable(i, 1);
 				SetPlayerKoon(true, i,100);
-				SetPlayerPos(i,1641.9963,-2239.7080,13.4964);
+				SetPlayerPos(i,1685.5939941406,-2332.935910156,13.8000);
 				//SCM(i,COLOR_YELLOW,"Moalem: khob, khosh oomadi be in server, man komaket mikonam ta dar in server lahzate khoshi ro dashte bashi.");
 				//SCM(i,COLOR_YELLOW,"Moalem: behtare ke aval beri va govahiname ranandegito begiri ta betooni savare mashin va motor ha beshi.");
 				//SCM(i,COLOR_YELLOW,"Moalem: man behet ye Checkpoint midam ta betooni amoozeshgahe ranandegi ro peida koni, be dakhele checkpoint boro.");
@@ -30068,8 +30066,8 @@ return 1;
 		  }
 		  if(Mahal[FindAccepted[i]] == 8)
 		  {
-			pDistance = GetPlayerDistanceFromPoint(i,1455.4546,750.9794,11.0234);
-		  SetPlayerCheckpoint(i,1455.4546,750.9794,11.0234,5);
+			pDistance = GetPlayerDistanceFromPoint(i,2233.638183,-1333.180786,23.985052);
+		  SetPlayerCheckpoint(i,2233.638183,-1333.180786,23.985052,5);
 		  }
 		  if(Mahal[FindAccepted[i]] == 9)
 		  {
@@ -30528,7 +30526,7 @@ return 1;
 		  }
 		  if(Mahal[TaxiAccepted[i]] == 8)
 		  {
-		  SetPlayerCheckpoint(i,1455.4546,750.9794,11.0234,5);
+		  SetPlayerCheckpoint(i,2233.638183,-1333.180786,23.985052,5);
 		  }
 		  if(Mahal[TaxiAccepted[i]] == 9)
 		  {
@@ -30804,7 +30802,7 @@ return 1;
 		  }
 		  if(Mahal[MedicAccepted[i]] == 8)
 		  {
-		  SetPlayerCheckpoint(i,1455.4546,750.9794,11.0234,5);
+		  SetPlayerCheckpoint(i,2233.638183,-1333.180786,23.985052,5);
 		  }
 		  if(Mahal[MedicAccepted[i]] == 9)
 		  {
@@ -31079,7 +31077,7 @@ return 1;
 		  }
 		  if(Mahal[MechanicAccepted[i]] == 8)
 		  {
-		  SetPlayerCheckpoint(i,1455.4546,750.9794,11.0234,5);
+		  SetPlayerCheckpoint(i,2233.638183,-1333.180786,23.985052,5);
 		  }
 		  if(Mahal[MechanicAccepted[i]] == 9)
 		  {
@@ -54491,7 +54489,7 @@ CreateDynamicObject(986, 1221.82288, 678.22198, 10.84152,   0.00000, 0.00000, -2
 	/*----------------------------------------------------------------------------*///
 	AddStaticVehicleEx(466, 1978.4500, 2239.7720, 26.8959, 268.8609, -1, -1, 100);
 	//--------------------------------------------------------------------------Planes
-	patcar3 = AddStaticVehicleEx(487,1464.2153,774.1384,11.0032,89.3618,179,179,900); //TBF Maverick 153
+	patcar3 = AddStaticVehicleEx(487,2224.681,-1328.897,24.170,180.000,179,179,900); //TBF Maverick 153
 	AddStaticVehicleEx(487, 1557.2292, -2631.7034, 13.6891, 0.0000, -1, -1, 100); // airport heli ls 2
 	AddStaticVehicleEx(487, 1570.3289, -2631.7034, 13.6891, 0.0000, -1, -1, 100); // airport heli ls 1
 	cuncar2 = AddStaticVehicleEx(487,704.9799,-1458.7103,17.9001,0.0010,12,12,900); // Maverick Da Nang Boys 156
@@ -54717,7 +54715,7 @@ SetVehicleNumberPlate(amb8, "MED 444");
 	CreatePickup(1239, 1, 2637.4326,2352.0256,10.8203,0); // GroveStreet Family HQ
 	CreatePickup(1239, 1, 725.5550,-1451.0232,17.6953,0); //Da Nang Boys HQ
 	CreatePickup(1239, 1, 1456.7424,2773.4614,10.8203,0);//HQ Triads entrace
-	CreatePickup(1239, 1, 1455.4546,750.9794,11.0234,0);//HQ TBF
+	CreatePickup(1239, 1, 2233.638183,-1333.180786,23.985052,0);//HQ TBF
 	CreatePickup(1239, 1, 2792.800292, -1087.528320, 30.718750, 0);//VLA
 	//CreatePickup(1239, 1, -2720.359619, -318.036743, 7.843750, 0);//Top Boys
 	CreatePickup(1239, 1, 1615.0603,1815.7771,10.8203,0); // HQ Medic pickup /goup heli
@@ -54910,7 +54908,7 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	//CreateDynamic3DTextLabel("Airport San Fiero\n Type : /buyticket For Travel",COLOR_GRAD4,-1421.201171,-287.120727,14.148437,10.0);//SF
 	new vl[60];
 	format(vl, sizeof(vl), "%s %s\n RPG Server", SERVER_NAME1, SERVER_NAME2);
-	CreateDynamic3DTextLabel(vl,COLOR_SINA2,1642.127319, -2237.589355, 13.498844,5.0,.testlos=1);//LS              Spawn Textdraw [ Ranger ] ;)
+	CreateDynamic3DTextLabel(vl,COLOR_SINA2,1685.69567871, -2335.49804687, 13.548844,5.0,.testlos=1);//LS              Spawn Textdraw [ Ranger ] ;)
 	//CreateDynamic3DTextLabel("{FF0000}Scripter Ranger{993333}:\n {33FFFF}Welcome To Our Server Hope You Enjoy.\n {66FF99}If You See Any Bug You Can Tell To Our Admins With /Report For I Fix It\n {FFFF66}If You Tell Us Any Bug We Give You Prize!.",COLOR_SINA2,1643.17542, -2247.96338, 14.65764,10.0);//LS              Spawn ActorRangerSpawn Upper [ Ranger ] ;)
 	//CreateDynamic3DTextLabel("{FF0000}Mariana",COLOR_SINA2,1369.04468, -1153.58911, 25.09402,10.0);//LS            Box Mariana name
 	CreateDynamic3DTextLabel("Use /BoxHelp to know how it works.",COLOR_SINAGHERMEZ,1368.02014, -1151.84814, 23.71862,10.0,.testlos=1);//LS            Box Mariana name
@@ -54923,7 +54921,7 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	CreateDynamic3DTextLabel("The Killers Family\n Type: /enter to enter",COLOR_GRAD4,1456.7424,2773.4614,10.8203,10.0,.testlos=1);//VLA
 	//CreateDynamic3DTextLabel("San Fiero Police Departament / Enter In : Parking",COLOR_GRAD4,-1605.513793,710.273010,13.867187,10.0);//SFPD Jelosh
 	//CreateDynamic3DTextLabel("Top Boys Family\n Type: /enter to enter",COLOR_GRAD4,-2720.359619,-318.036743,7.843750 ,10.0);//TopBoys
-	CreateDynamic3DTextLabel("Fast N Furious Family\n Type: /enter to enter",COLOR_GRAD4,1455.4546,750.9794,11.0234 ,10.0,.testlos=1);//TBF
+	CreateDynamic3DTextLabel("Fast N Furious Family\n Type: /enter to enter",COLOR_GRAD4,2233.638183,-1333.180786,23.985052 ,10.0,.testlos=1);//TBF
 	CreateDynamic3DTextLabel("The Silence Mafia\n Type: /enter to enter",COLOR_GRAD4,725.5550,-1451.0232,17.6953,10.0,.testlos=1);//Da Nang Boys
 	CreateDynamic3DTextLabel("Legendary Men Family\n Type: /enter to enter",COLOR_GRAD4,1122.7065,-2037.0063,69.8942,10.0,.testlos=1);//Triads
 	CreateDynamic3DTextLabel("Use /up for go up.",COLOR_GRAD4,2793.181152,-1080.431518,30.718750,10.0,.testlos=1);//Strm
@@ -55071,7 +55069,6 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	AddStaticVehicleEx(400,708.87915039,-461.27371216,16.47204781,90.00000000,-1,-1,900); //Landstalker LS CaRsS
 	//ultimele masini adaugate in ls
 	AddStaticVehicleEx(404,-7280.938964,5645.653808,135.283035 ,0,-1,-1,900); // LS car
-	AddStaticVehicleEx(549,2229.2122,-1345.3350,23.6886,92.6004,-1,-1,900); // LS car
 	AddStaticVehicleEx(458,2485.5276,-1556.1805,23.9130,178.8331,-1,-1,900); // LS car
 	AddStaticVehicleEx(547,2472.3152,1990.9030,10.5559,359.6977,-1,-1,900); // Primo LV
 	AddStaticVehicleEx(400,1672.9822,1306.0332,10.9127,359.5630,-1,-1,900); // Lanscaker geep LV
@@ -55129,12 +55126,13 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	barcar4 = AddStaticVehicleEx(560,2592.9392,2279.0708,10.5258,269.8347,128,128,900); //GroveStreet Sultan
 	barcar5 = AddStaticVehicleEx(579,2610.6892,2262.6421,10.7604,90.5400,128,128,900); //GroveStreet Huntely
 	barcar6 = AddStaticVehicleEx(560,2585.2268,2250.3696,10.5257,1.3324,128,128,900); //GroveStreet Sultan
-	patcar = AddStaticVehicleEx(560,1412.9275,746.2699,10.5253,269.6378,179,179,900); //TBF sulatn
-	patcar1 = AddStaticVehicleEx(560,1455.1625,787.9921,10.5252,180.1390,179,179,900); //TBF Sultan
-	patcar2 = AddStaticVehicleEx(521,1464.7676,787.8281,10.3909,178.1865,179,179,900); //TBF FCR
-	patcar4 = AddStaticVehicleEx(413,1412.6277,778.3160,10.9122,269.8798,179,179,900); //TBF Pony
-	patcar5 = AddStaticVehicleEx(579,1412.8949,759.0291,10.7547,269.8812,179,179,900); //TBF Huntely
-	patcar6 = AddStaticVehicleEx(409,1473.6249,731.5168,10.6203,269.4417,179,179,900); //TBF Streech
+	
+	patcar = AddStaticVehicleEx(560,2215.384,-1361.073,23.692,269.6378,179,179,900); //TBF sulatn
+	patcar1 = AddStaticVehicleEx(560,2246.944,-1313.267,23.690,180.1390,179,179,900); //TBF Sultan
+	patcar2 = AddStaticVehicleEx(521,2218.899,-1313.129,23.555,178.1865,179,179,900); //TBF FCR
+	patcar4 = AddStaticVehicleEx(413,2216.309,-1326.117,24.076,269.8798,179,179,900); //TBF Pony
+	patcar5 = AddStaticVehicleEx(579,2216.601,-1329.937,23.918,269.8812,179,179,900); //TBF Huntely
+	patcar6 = AddStaticVehicleEx(409,2234.653,-1305.900,23.998,269.4417,179,179,900); //TBF Streech
 	tcc1 = AddStaticVehicleEx(525,864.6730,-1255.5668,14.7480,270.6490,0,102,900); //TCC towtruck  **Numar**-- 212
 	tcc2 = AddStaticVehicleEx(525,864.5558,-1245.1750,14.7540,272.7823,0,102,900); //TCC towtruck  **Numar**-- 213
 	tcc3 = AddStaticVehicleEx(525,867.1730,-1206.1055,16.8590,177.8868,0,102,900); //TCC towtruck   **Numar**--214
@@ -55142,13 +55140,13 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	tcc5 = AddStaticVehicleEx(525,911.8616,-1253.7588,15.5698,0.3719,0,102,900); //TCC towtruck   **Numar**--216
 	tcc6 = AddStaticVehicleEx(552,900.2590,-1272.3209,14.3154,91.9758,1,102,900); //TCC utility   **Numar**--217
 	cuncar7 = AddStaticVehicleEx(545,703.6102,-1422.1788,13.3500,0.2704,12,12,900); //Da Nang Boys car
-	patcar7 = AddStaticVehicleEx(545,1477.5614,787.7814,10.6314,179.8004,179,179,900); //TBF
+	patcar7 = AddStaticVehicleEx(545,2257.639,-1314.714,23.798,179.8004,179,179,900); //TBF
 	//spawn civil masini
-	sp1 = AddStaticVehicle(510,1641.6342,-2261.7256,13.0918,358.4038,1,1); // Spawn Bike 001
-	sp2 = AddStaticVehicle(510,1640.7858,-2261.6899,13.0598,358.4113,1,1); // Spawn Bike 002
-	sp3 = AddStaticVehicle(510,1639.9376,-2261.6465,13.0746,358.4212,1,1); // Spawn Bike 003
-	sp4 = AddStaticVehicle(510,1639.0894,-2261.6104,13.0708,358.4310,1,1); // Spawn Bike 004
-	sp5 = AddStaticVehicle(510,1638.2412,-2261.5735,13.0727,358.4386,1,1); // Spawn Bike 005
+	sp1 = AddStaticVehicle(510,1652.8205,-2328.0590,13.1918,358.4038,1,1); // Spawn Bike 001
+	sp2 = AddStaticVehicle(510,1651.8205,-2328.0590,13.1918,358.4113,1,1); // Spawn Bike 002
+	sp3 = AddStaticVehicle(510,1650.8205,-2328.0590,13.1918,358.4212,1,1); // Spawn Bike 003
+	sp4 = AddStaticVehicle(510,1649.8205,-2328.0590,13.1918,358.4310,1,1); // Spawn Bike 004
+	sp5 = AddStaticVehicle(510,1648.8205,-2328.0590,13.1918,358.4386,1,1); // Spawn Bike 005
 
 	//--------------DMV mashinS:D -----------------------------------------------------
 	dmv1 = AddStaticVehicleEx(547, 1647.1479, -2166.4380, 13.2636, 180.0000, 162, 162, 100);
@@ -55430,19 +55428,17 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	stormc11 = AddStaticVehicle(426,2806.649902,-1086.309204,30.478000,180.468978,155,155);//Vehid:621 Title:premSTM
 	stormc12 = AddStaticVehicle(445,2812.343994,-1075.862060,30.453344,266.735809,155,155);//Vehid:622 Title:AdmiralSTM
 	stormc13 = AddStaticVehicle(445,2814.640869,-1097.121948,30.599527,179.606323,155,155);//Vehid:623 Title:AdmiralSTM
-	TBFc1 = AddStaticVehicle(521,1463.732055,787.798706,10.392331,177.639144,179,179);//Vehid:624 Title:fcrTBF
-	TBFc2 = AddStaticVehicle(521,1465.753417,787.903381,10.391798,182.814422,179,179);//Vehid:625 Title:fcrTBF
-	TBFc3 = AddStaticVehicle(445,1412.707763,762.347595,10.695291,268.795471,179,179);//Vehid:626 Title:admTBF
-	TBFc4 = AddStaticVehicle(445,1412.714477,765.597778,10.695317,269.626647,179,179);//Vehid:627 Title:admTBF
-	TBFc5 = AddStaticVehicle(426,1413.034423,787.960876,10.562915,270.338531,179,179);//Vehid:628 Title:premTBF
-	TBFc6 = AddStaticVehicle(426,1413.050048,784.703735,10.563760,270.023376,179,179);//Vehid:629 Title:premTBF
-	TBFc7 = AddStaticVehicle(474,1413.047607,717.857238,10.582903,269.560302,179,179);//Vehid:630 Title:hermTBF
-	TBFc8 = AddStaticVehicle(545,1412.859252,711.464599,10.631421,269.966918,179,179);//Vehid:631 Title:hustTBF
-	TBFc9 = AddStaticVehicle(492,1413.323852,704.980651,10.602080,269.520385,179,179);//Vehid:632 Title:GreenTBF
-	TBFc10 = AddStaticVehicle(487,1485.258056,773.829162,10.997942,88.999000,179,179);//Vehid:633 Title:mavTBF
-	TBFc11 = AddStaticVehicle(522,1412.715332,770.936157,10.385717,270.022552,179,179);//Vehid:634 Title:nrgTBF
-	TBFc12 = AddStaticVehicle(522,1412.716552,771.833435,10.387135,270.022552,179,179);//Vehid:635 Title:nrgTBF
-	TBFc13 = AddStaticVehicle(522,1412.668701,772.730712,10.391721,270.022583,179,179);//Vehid:636 Title:nrgTBF
+	TBFc1 = AddStaticVehicle(521,2215.899,-1313.130,23.556,177.639144,179,179);//Vehid:624 Title:fcrTBF
+	TBFc2 = AddStaticVehicle(521,2212.899,-1313.130,23.556,182.814422,179,179);//Vehid:625 Title:fcrTBF
+	TBFc5 = AddStaticVehicle(426,2215.724,-1360.052,23.727,270.338531,179,179);//Vehid:628 Title:premTBF
+	TBFc6 = AddStaticVehicle(426,2215.724,-1357.052,23.727,270.023376,179,179);//Vehid:629 Title:premTBF
+	TBFc7 = AddStaticVehicle(474,2237.598,-1313.811,23.705,180.000,179,179);//Vehid:630 Title:hermTBF
+	TBFc8 = AddStaticVehicle(545,2214.850,-1347.760,23.797,269.966918,179,179);//Vehid:631 Title:hustTBF
+	TBFc9 = AddStaticVehicle(492,2224.701,-1315.275,23.766,180.000,179,179);//Vehid:632 Title:GreenTBF
+	TBFc10 = AddStaticVehicle(487,2224.681,-1358.897,24.170,180.000,179,179);//Vehid:633 Title:mavTBF
+	TBFc11 = AddStaticVehicle(522,2214.838,-1334.765,23.555,270.022552,179,179);//Vehid:634 Title:nrgTBF
+	TBFc12 = AddStaticVehicle(522,2214.838,-1336.765,23.555,270.022552,179,179);//Vehid:635 Title:nrgTBF
+	TBFc13 = AddStaticVehicle(522,2214.838,-1338.765,23.555,270.022583,179,179);//Vehid:636 Title:nrgTBF
 	dtc1 = AddStaticVehicle(487,2598.300048,2395.096679,17.994068,298.641418,128,128);//Vehid:637 Title:mavdt
 	dtc2 = AddStaticVehicle(521,2612.194091,2280.865722,10.382313,88.115165,128,128);//Vehid:638 Title:fcrdt
 	dtc3 = AddStaticVehicle(521,2612.166992,2279.968505,10.409512,88.115226,128,128);//Vehid:639 Title:fcrdt
@@ -55690,8 +55686,6 @@ SetVehicleNumberPlate(hitmav3, "HIT 050");
 
 	SetVehicleNumberPlate(TBFc1, "FNF Family");
 	SetVehicleNumberPlate(TBFc2, "FNF Family");
-	SetVehicleNumberPlate(TBFc3, "FNF Family");
-	SetVehicleNumberPlate(TBFc4, "FNF Family");
 	SetVehicleNumberPlate(TBFc5, "FNF Family");
 	SetVehicleNumberPlate(TBFc6, "FNF Family");
 	SetVehicleNumberPlate(TBFc7, "FNF Family");
@@ -75144,7 +75138,7 @@ if(dialogid == 100)
 	}
 	if(listitem == 13)
 		  {
-	SetPlayerCheckpoint(playerid,1455.4546,750.9794,11.0234,3.0);
+	SetPlayerCheckpoint(playerid,2233.638183,-1333.180786,23.985052,3.0);
 	SendClientMessage(playerid, COLOR_BLUE, "Goto CheckPoint For HQ : Fast N Furious Family. Use /cancel checkpoint For Delete Checkpoint.");
 	OnCheckpoint[playerid] = 1;
 	CP[playerid] = 9922555;
@@ -88742,14 +88736,22 @@ if(!strcmp(cmd,"/aleaders",true))
 		  {
 		  GetPlayerName(playerid, sendername, sizeof(sendername));
 		   new veh = GetPlayerVehicleID(playerid);
-		   if(veh <= akharinvehicle)
-		   {
-		   SCM(playerid,COL_SYN,"This is a Static Vehicle.");
-		   return 1;
-		   }
+
 		   if(OwnedMashin[veh] == 1)
 		   {
 		   SCM(playerid,COLOR_YELLOW2,"Error: This vehicle is a personal vehicle.");
+		   return 1;
+		   }
+		   new bool:isCreatedCar = false;
+		   for(new a = 0; a < CreatedCar; a++)
+		   {
+		   if(CreatedCars[a] != 0 && OwnedMashin[CreatedCars[a]] != 1 && OwnedMashin_2[CreatedCars[a]] != 1 && IsValidAVeh[CreatedCars[a]] == true && veh == CreatedCars[a]){
+		   isCreatedCar = true;
+		   break;
+		   }
+		   }
+		   if(!isCreatedCar){
+		   SCM(playerid,COLOR_YELLOW2,"Error: This is not an admin-created vehicle.");
 		   return 1;
 		   }
 		   if(IsValidObject(ShipObject[GetPlayerVehicleID(playerid)]))return Error(playerid, "Error: You are in an UFO")
@@ -131297,7 +131299,7 @@ if(!strcmp(cmd,"/firegun",true))
 			}
 			else if(PlayerInfo[playerid][pMember] == 14 || PlayerInfo[playerid][pLeader] == 14)// TBF entrance
 			{
-				if (PlayerToPoint(2, playerid,1455.4546,750.9794,11.0234))
+				if (PlayerToPoint(2, playerid,2233.638183,-1333.180786,23.985052))
 				{
 					if(InVeh != 1)
 	{
@@ -131737,7 +131739,7 @@ if(!strcmp(cmd,"/firegun",true))
 			}
 			else if(PlayerToPoint(5.0, playerid, 2324.611328, -1146.620605, 1050.710083) && GetPlayerVirtualWorld(playerid) == 40014) // TBF Exit
 			{
-				SetPlayerPos(playerid, 1455.4546,750.9794,11.0234);
+				SetPlayerPos(playerid, 2233.638183,-1333.180786,23.985052);
 				SetPlayerInterior(playerid, 0);
 				SetPlayerVirtualWorld(playerid, 0);
 				GameTextForPlayer(playerid, "~r~Las ~g~Venturas",5000,1);
@@ -134964,7 +134966,7 @@ if(!strcmp(cmd,"/firegun",true))
 						SendFamilyMessage(8, COLOR_BLUE, string);
 						return 1;
 					}
-					if (PlayerToPoint(2, playerid, 1455.4546,750.9794,11.0234))
+					if (PlayerToPoint(2, playerid, 2233.638183,-1333.180786,23.985052))
 					{
 						SetPlayerPos(playerid, 2324.611328, -1146.620605, 1050.710083);
 						SetPlayerVirtualWorld(playerid, 40014);

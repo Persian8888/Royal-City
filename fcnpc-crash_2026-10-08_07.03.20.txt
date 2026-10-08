@@ -1,0 +1,36 @@
+=========================== FCNPC Exception Handler ============================
+Address: 0x73cdf24b
+
+Registers:
+EAX: 0x45a5b0 - EBX: 0x73c75370 - ECX: 0x19fda8 - EDX: 0x0
+ESI: 0x74 - EDI: 0x0 - EBP: 0x19fdd0 - ESP: 0x19fd80
+
+Stack:
+0x0: 0x486c7aa4 - 0x4: 0x30 - 0x8: 0x6655f8 - 0xC: 0x73c75370 - 0x10: 0x73c755ae - 0x14: 0x73cf9720
+0x18: 0x7738a1b0 - 0x1C: 0x19fdc8 - 0x20: 0x73cd5f32
+
+Information:
+  System: Windows
+  SA-MP: 0.3.7 R2
+  FCNPC: 1.8.2
+
+Functions:
+  FUNC_CPlayerPool__DeletePlayer: 0x466570
+  FUNC_CPlayer__Kill: 0x484620
+  FUNC_CPlayer__EnterVehicle: 0x484c70
+  FUNC_CPlayer__ExitVehicle: 0x484f50
+  FUNC_CPlayer__SpawnForWorld: 0x486d30
+  FUNC_GetVehicleModelInfo: 0x488240
+  FUNC_CConsole__GetIntVariable: 0x48b5b0
+  FUNC_ClientJoin_RPC: 0x4918f0
+
+Pointers:
+  VAR_ServerAuthentication: 0x4f5fe8
+  VAR_NetVersion: 0xfd9
+
+Offsets:
+  OFFSET_RemoteSystemManager: 0x33c
+  OFFSET_RemoteSystemSize: 0xcb8
+  OFFSET_RemoteSystem__ConnectMode: 0xcb0
+  OFFSET_RemoteSystem__Unknown: 0xcb5
+=========================== FCNPC Exception Handler ============================
