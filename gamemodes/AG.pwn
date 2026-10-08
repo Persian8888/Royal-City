@@ -6356,11 +6356,9 @@ static PlayerSetFreq[MAX_PLAYERS][10],
 	   dtc6,
 	   dtc7,
 	   dtc8,
-	   dtc9,
 	   dtc10,
 	   dtc11,
 	   dtc12,
-	   dtc13,
 	   dtc14,
 
 		tkc,
@@ -13244,7 +13242,7 @@ public IsPGangCar3(carid)//TOW car company
 /*----------------------------------------------------------------------------*/
 public IsPGangCar4(carid)//Grove Street
 {
-if((carid == barcar) || (carid == barcar1) || (carid == barcar2) || (carid == barcar3) || (carid == barcar4) || (carid == barcar5) || (carid == barcar6) || (carid == dtc1) || (carid == dtc2) || (carid == dtc3) || (carid == dtc4) || (carid == dtc5) || (carid == dtc6) || (carid == dtc7) || (carid == dtc8) || (carid == dtc9) || (carid == dtc10) || (carid == dtc11) || (carid == dtc12) || (carid == dtc13) || (carid == dtc14))
+if((carid == barcar) || (carid == barcar1) || (carid == barcar2) || (carid == barcar3) || (carid == barcar4) || (carid == barcar5) || (carid == barcar6) || (carid == dtc1) || (carid == dtc2) || (carid == dtc3) || (carid == dtc4) || (carid == dtc5) || (carid == dtc6) || (carid == dtc7) || (carid == dtc8) || (carid == dtc10) || (carid == dtc11) || (carid == dtc12) || (carid == dtc14))
 	{
 	   return 1;
 	}
@@ -30086,8 +30084,8 @@ return 1;
 		  }
 		  if(Mahal[FindAccepted[i]] == 12)
 		  {
-			pDistance = GetPlayerDistanceFromPoint(i,2637.1936,2352.0090,10.8203);
-		  SetPlayerCheckpoint(i,2637.1936,2352.0090,10.8203,5);
+			pDistance = GetPlayerDistanceFromPoint(i,2495.342529,-1690.869262,14.7605625);
+		  SetPlayerCheckpoint(i,2495.342529,-1690.869262,14.7605625,5);
 		  }
 		  if(Mahal[FindAccepted[i]] == 13)
 		  {
@@ -30337,8 +30335,8 @@ return 1;
 		  }
 		  if(Mahal[FindAccepted[i]] == 70)
 		  {
-			pDistance = GetPlayerDistanceFromPoint(i,1607.520996,1815.756591,10.820312);
-		  SetPlayerCheckpoint(i,1607.520996,1815.756591,10.820312,5);
+			pDistance = GetPlayerDistanceFromPoint(i,1172.265014,-1323.372314,15.401484);
+		  SetPlayerCheckpoint(i,1172.265014,-1323.372314,15.401484,5);
 		  }
 		  if(Mahal[FindAccepted[i]] == 71)
 		  {
@@ -30542,7 +30540,7 @@ return 1;
 		  }
 		  if(Mahal[TaxiAccepted[i]] == 12)
 		  {
-		  SetPlayerCheckpoint(i,2637.1936,2352.0090,10.8203,5);
+		  SetPlayerCheckpoint(i,2495.342529,-1690.869262,14.7605625,5);
 		  }
 		  if(Mahal[TaxiAccepted[i]] == 13)
 		  {
@@ -30743,7 +30741,7 @@ return 1;
 		  }
 		  if(Mahal[TaxiAccepted[i]] == 70)
 		  {
-		  SetPlayerCheckpoint(i,1607.520996,1815.756591,10.820312,5);
+		  SetPlayerCheckpoint(i,1172.265014,-1323.372314,15.401484,5);
 		  }
 		  if(Mahal[TaxiAccepted[i]] == 71)
 		  {
@@ -30818,7 +30816,7 @@ return 1;
 		  }
 		  if(Mahal[MedicAccepted[i]] == 12)
 		  {
-		  SetPlayerCheckpoint(i,2637.1936,2352.0090,10.8203,5);
+		  SetPlayerCheckpoint(i,2495.342529,-1690.869262,14.7605625,5);
 		  }
 		  if(Mahal[MedicAccepted[i]] == 13)
 		  {
@@ -31019,7 +31017,7 @@ return 1;
 		  }
 		  if(Mahal[MedicAccepted[i]] == 70)
 		  {
-		  SetPlayerCheckpoint(i,1607.520996,1815.756591,10.820312,5);
+		  SetPlayerCheckpoint(i,1172.265014,-1323.372314,15.401484,5);
 		  }
 		  if(Mahal[MedicAccepted[i]] == 71)
 		  {
@@ -31093,7 +31091,7 @@ return 1;
 		  }
 		  if(Mahal[MechanicAccepted[i]] == 12)
 		  {
-		  SetPlayerCheckpoint(i,2637.1936,2352.0090,10.8203,5);
+		  SetPlayerCheckpoint(i,2495.342529,-1690.869262,14.7605625,5);
 		  }
 		  if(Mahal[MechanicAccepted[i]] == 13)
 		  {
@@ -31294,7 +31292,7 @@ return 1;
 		  }
 		  if(Mahal[MechanicAccepted[i]] == 70)
 		  {
-		  SetPlayerCheckpoint(i,1607.520996,1815.756591,10.820312,5);
+		  SetPlayerCheckpoint(i,1172.265014,-1323.372314,15.401484,5);
 		  }
 		  if(Mahal[MechanicAccepted[i]] == 71)
 		  {
@@ -54352,8 +54350,8 @@ CreateDynamicObject(986, 1221.82288, 678.22198, 10.84152,   0.00000, 0.00000, -2
 	amb2 = AddStaticVehicleEx(416,1179.00000000,-1308.55395508,13.87588120,267.99499512,1,3,900); //Ambulance LS 59
 	amb3 = AddStaticVehicleEx(407,1750.71472168,2077.48583984,11.19031239,179.99993896,3,1,900); //Firetruck LV f/p 60
 	amb4 = AddStaticVehicleEx(407,1763.40002441,2077.48535156,11.19031239,179.99450684,3,1,900); //Firetruck LV f/p 61
-	amb5 = AddStaticVehicleEx(416,1583.71789551,1807.50390625,11.11988831,0.00000000,1,3,900); //Ambulance LV 62
-	amb6 = AddStaticVehicleEx(416,1624.01892090,1819.05505371,11.11988831,4.00000000,1,3,900); //Ambulance LV 63
+	amb5 = AddStaticVehicleEx(416,1189.00000000,-1303.55395508,13.87588120,270.00000000,1,3,900); //Ambulance LV 62
+	amb6 = AddStaticVehicleEx(416,1184.00000000,-1334.03942871,13.87588120,270.00000000,1,3,900); //Ambulance LV 63
 	amb7 = AddStaticVehicleEx(416,1579.83215332,1752.59997559,11.11988831,0.00000000,1,3,900); //Ambulance LV 64
 	amb8 = AddStaticVehicleEx(416,1579.83276367,1774.25488281,11.11988831,180.00000000,1,3,900); //Ambulance LV 65
 	/*----------------------------------------------------------------------------*///
@@ -54413,7 +54411,7 @@ CreateDynamicObject(986, 1221.82288, 678.22198, 10.84152,   0.00000, 0.00000, -2
 	SetVehicleNumberPlate(jcarx2=AddStaticVehicleEx(525,1638.00000000,2197.60156250,10.81031227,179.99450684,-1,3,900), "Mechanic"); //Tow Truck, Job mechanic 87
 	SetVehicleNumberPlate(jcarx3=AddStaticVehicleEx(525,1649.30004883,2197.60156250,10.81031227,179.99450684,-1,3,900), "Mechanic"); //Tow Truck, Job mechanic 88
 	/*----------------------------------------------------------------------------*///
-	amb9 = AddStaticVehicleEx(563,1607.58959961,1800.33703613,30.73374939,0.00000000,1,3,900); //Maverick MEDIC 89
+	amb9 = AddStaticVehicleEx(563,1160.178,-1301.841,32.206,0.00000000,1,3,900); //Maverick MEDIC 89
 	/*----------------------------------------------------------------------------*///
 	SetVehicleNumberPlate(AddStaticVehicleEx(571,2286.2141,-2354.5000,12.8306,225.8705,-1,-1,900), "Kart"); // kart 90
 	SetVehicleNumberPlate(AddStaticVehicleEx(571,2279.9412,-2348.4141,12.8312,225.8585,-1,-1,900), "Kart"); // kart 91
@@ -54482,7 +54480,7 @@ CreateDynamicObject(986, 1221.82288, 678.22198, 10.84152,   0.00000, 0.00000, -2
 	SetVehicleNumberPlate(AddStaticVehicleEx(527,2119.9829,1408.3014,10.5889,0.4287,-1,-1,900), "Rent");//Rent car LS Vrigo 146
 	SetVehicleNumberPlate(AddStaticVehicleEx(529,2139.1919,1408.0792,10.6108,0.4416,-1,-1,900), "Rent");//Rent car LS Comet 147
 	//--------------------------------------------------------------------------Planes
-	barcar1 = AddStaticVehicleEx(487,2614.9856,2404.2256,17.9968,299.2169,128,128,1200); //GroveStreet Hely 148
+	barcar1 = AddStaticVehicleEx(487,2492.381,-1668.355,13.524,299.2169,128,128,1200); //GroveStreet Hely 148
 	/*----------------------------------------------------------------------------*///
 	SetVehicleNumberPlate(AddStaticVehicleEx(409, 1482.3547, -1736.1621, 13.2465, 270.2103, 1, 1, 1200), "Mayor"); //Mayor car added by Sina
 	AddStaticVehicleEx(550, 1616.7512, -1137.0022, 23.7013, 269.1846, -1, -1, 1200);// added by Sina (sunrise parking ls)
@@ -54632,7 +54630,7 @@ SetVehicleNumberPlate(amb8, "MED 444");
 
 	//AsansorP = CreatePickup(1318, 1, 1280.484252,-812.622131,83.593766,0);//erfan
 	//AsansorB = CreatePickup(1318, 1, 1285.041137,-829.096557,109.274423,0);//erfan
-	CreatePickup(1239, 1, 1607.520996,1815.756591,10.820312,0);//medic hq
+	CreatePickup(1239, 1, 1172.265014,-1323.372314,15.401484,0);//medic hq
 	CreatePickup(1239, 1, -329.8395,1536.6249,76.6117, 0);//News Reporter HQ PickUp.
 	for(new i = 0;i<3;i++)
 	{
@@ -54712,14 +54710,14 @@ SetVehicleNumberPlate(amb8, "MED 444");
    // CreatePickup(1239, 1, -1606.268066,672.061706,-4.906250,0);//SFPD Paein Pickup (Edit)
 	CreatePickup(1239, 1, -1639.474853,716.886535,48.937500,0);//Storm Bala Pickup (Edit)
 	CreatePickup(1239, 1, 2793.181152,-1080.431518,30.718750,0);//Storm Paein Pickup (Edit)
-	CreatePickup(1239, 1, 2637.4326,2352.0256,10.8203,0); // GroveStreet Family HQ
+	CreatePickup(1239, 1, 2495.342529,-1690.869262,14.7605625,0); // GroveStreet Family HQ
 	CreatePickup(1239, 1, 725.5550,-1451.0232,17.6953,0); //Da Nang Boys HQ
 	CreatePickup(1239, 1, 1456.7424,2773.4614,10.8203,0);//HQ Triads entrace
 	CreatePickup(1239, 1, 2233.638183,-1333.180786,23.985052,0);//HQ TBF
 	CreatePickup(1239, 1, 2792.800292, -1087.528320, 30.718750, 0);//VLA
 	//CreatePickup(1239, 1, -2720.359619, -318.036743, 7.843750, 0);//Top Boys
-	CreatePickup(1239, 1, 1615.0603,1815.7771,10.8203,0); // HQ Medic pickup /goup heli
-	CreatePickup(1239, 1, 1607.4210,1787.6932,30.4688,0); //HQ meci pickup /godown heli
+	CreatePickup(1239, 1, 1172.573486,-1319.403686,15.392553,0); // HQ Medic pickup /goup heli
+	CreatePickup(1239, 1, 1158.744262,-1328.977294,31.511993,0); //HQ meci pickup /godown heli
 	CreatePickup(1239, 1, 2287.0576,2432.1121,10.8203,0);//DEA HQ ENTER
 	CreatePickup(1239, 1, 1080.997192,-345.408233,73.984069,0);//hq hitman entrance
 	CreatePickup(1239, 1, 960.3047,1784.0295,8.8516,0);//Taxi Up Two
@@ -54917,7 +54915,7 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	//HQs
 	CreateDynamic3DTextLabel("Los Santos Police Departament\n Type: /enter to enter",COLOR_GRAD4,1554.9537,-1675.6584,16.1953,10.0,.testlos=1);//LSPD HQ AFARA
 	CreateDynamic3DTextLabel("Drug Enforcement Administration\n Type: /enter to enter",COLOR_GRAD4,2287.0576,2432.1121,10.8203,10.0,.testlos=1);//EBI
-	CreateDynamic3DTextLabel("Dangerous Tiger Family\n Type: /enter to enter",COLOR_GRAD4,2637.4326,2352.0256,10.8203,10.0,.testlos=1);//Grove Street
+	CreateDynamic3DTextLabel("Dangerous Tiger Family\n Type: /enter to enter",COLOR_GRAD4,2495.342529,-1690.869262,14.7605625,10.0,.testlos=1);//Grove Street
 	CreateDynamic3DTextLabel("The Killers Family\n Type: /enter to enter",COLOR_GRAD4,1456.7424,2773.4614,10.8203,10.0,.testlos=1);//VLA
 	//CreateDynamic3DTextLabel("San Fiero Police Departament / Enter In : Parking",COLOR_GRAD4,-1605.513793,710.273010,13.867187,10.0);//SFPD Jelosh
 	//CreateDynamic3DTextLabel("Top Boys Family\n Type: /enter to enter",COLOR_GRAD4,-2720.359619,-318.036743,7.843750 ,10.0);//TopBoys
@@ -54981,7 +54979,7 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	CreateDynamic3DTextLabel("Welcome\nType: /eat to eat", COLOR_WHITE, 375.6895,-118.9683,1001.4995, 10,.testlos=1);
 	CreateDynamic3DTextLabel("Welcome To Resturant\nType: /eat to eat", COLOR_WHITE, -787.565551,500.073822,1371.742187, 8,.testlos=1);
 	CreateDynamic3DTextLabel("Welcome\nType: /eat to eat", COLOR_WHITE, 379.0611,-186.6032,1000.6328, 10,.testlos=1);
-	CreateDynamic3DTextLabel("Fire & Meidc Department HQ\n type /enter to enter.", COLOR_WHITE, 1607.520996,1815.756591,10.820312, 10,.testlos=1);
+	CreateDynamic3DTextLabel("Fire & Meidc Department HQ\n type /enter to enter.", COLOR_WHITE, 1172.265014,-1323.372314,15.401484, 10,.testlos=1);
 	CreateDynamic3DTextLabel("News Reporter HQ\n type /enter to enter.",COLOR_WHITE,-329.8395,1536.6249,76.6117, 10,.testlos=1);
 
 	//========================[vehicles]===========================================================================
@@ -55120,12 +55118,11 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	cuncar4 = AddStaticVehicleEx(560,762.5101,-1436.9780,13.2316,89.4126,12,12,900); // Sultan Da Nang Boys
 	cuncar5 = AddStaticVehicleEx(560,762.7592,-1432.9436,13.2316,88.2338,12,12,900); // Sultan Da Nang Boys
 	cuncar6 = AddStaticVehicleEx(579,720.3476,-1438.9354,13.4625,268.9999,12,12,900); // Huntley Da Nang Boys
-	barcar = AddStaticVehicleEx(521,2625.4695,2398.7769,10.3831,179.9701,128,128,900); //GroveStreet FCR
-	barcar2 = AddStaticVehicleEx(409,2614.2307,2292.5232,10.6203,2.3735,128,128,900); //GroveStreet limuzina
-	barcar3 = AddStaticVehicleEx(413,2582.6482,2296.1357,10.9000,268.9250,128,128,900); //GroveStreet Pony
-	barcar4 = AddStaticVehicleEx(560,2592.9392,2279.0708,10.5258,269.8347,128,128,900); //GroveStreet Sultan
-	barcar5 = AddStaticVehicleEx(579,2610.6892,2262.6421,10.7604,90.5400,128,128,900); //GroveStreet Huntely
-	barcar6 = AddStaticVehicleEx(560,2585.2268,2250.3696,10.5257,1.3324,128,128,900); //GroveStreet Sultan
+	barcar2 = AddStaticVehicleEx(409,2457.498,-1653.507,13.161,90.3735,128,128,900); //GroveStreet limuzina
+	barcar3 = AddStaticVehicleEx(413,2504.306,-1649.221,13.701,268.9250,128,128,900); //GroveStreet Pony
+	barcar4 = AddStaticVehicleEx(560,2489.106,-1684.219,13.129,269.8347,128,128,900); //GroveStreet Sultan
+	barcar5 = AddStaticVehicleEx(579,2505.588,-1682.890,13.486,90.5400,128,128,900); //GroveStreet Huntely
+	barcar6 = AddStaticVehicleEx(560,2468.861,-1672.054,13.110,1.3324,128,128,900); //GroveStreet Sultan
 	
 	patcar = AddStaticVehicleEx(560,2215.384,-1361.073,23.692,269.6378,179,179,900); //TBF sulatn
 	patcar1 = AddStaticVehicleEx(560,2246.944,-1313.267,23.690,180.1390,179,179,900); //TBF Sultan
@@ -55439,20 +55436,18 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	TBFc11 = AddStaticVehicle(522,2214.838,-1334.765,23.555,270.022552,179,179);//Vehid:634 Title:nrgTBF
 	TBFc12 = AddStaticVehicle(522,2214.838,-1336.765,23.555,270.022552,179,179);//Vehid:635 Title:nrgTBF
 	TBFc13 = AddStaticVehicle(522,2214.838,-1338.765,23.555,270.022583,179,179);//Vehid:636 Title:nrgTBF
-	dtc1 = AddStaticVehicle(487,2598.300048,2395.096679,17.994068,298.641418,128,128);//Vehid:637 Title:mavdt
-	dtc2 = AddStaticVehicle(521,2612.194091,2280.865722,10.382313,88.115165,128,128);//Vehid:638 Title:fcrdt
-	dtc3 = AddStaticVehicle(521,2612.166992,2279.968505,10.409512,88.115226,128,128);//Vehid:639 Title:fcrdt
-	dtc4 = AddStaticVehicle(521,2612.138671,2279.071289,10.401531,88.114929,128,128);//Vehid:640 Title:fcrdt
-	dtc5 = AddStaticVehicle(426,2610.822753,2275.413818,10.563615,89.687377,128,128);//Vehid:641 Title:premdt
-	dtc6 = AddStaticVehicle(426,2610.478759,2270.980957,10.563194,90.213455,128,128);//Vehid:642 Title:premdt
-	dtc7 = AddStaticVehicle(545,2592.752441,2271.574707,10.631417,269.781250,128,128);//Vehid:643 Title:hustdt
-	dtc8 = AddStaticVehicle(474,2593.649169,2263.912109,10.583108,269.702301,128,128);//Vehid:644 Title:hermdt
-	dtc9 = AddStaticVehicle(445,2610.616943,2249.995361,10.688261,89.012260,128,128);//Vehid:645 Title:admdt
-	dtc10 = AddStaticVehicle(522,2611.300537,2257.485839,10.383152,87.584945,128,128);//Vehid:646 Title:nrgdt
-	dtc11 = AddStaticVehicle(522,2611.247802,2256.590087,10.407494,87.585334,128,128);//Vehid:647 Title:nrgdt
-	dtc12 = AddStaticVehicle(522,2611.202148,2255.694335,10.382013,87.585891,128,128);//Vehid:648 Title:nrgdt
-	dtc13 = AddStaticVehicle(445,2594.197998,2250.650390,10.695307,1.126917,128,128);//Vehid:649 Title:admdt
-	dtc14 = AddStaticVehicle(492,2582.007568,2271.482666,10.602090,88.803855,128,128);//Vehid:650 Title:grwdt
+	dtc1 = AddStaticVehicle(487,2528.268,-1675.957,20.111,120.641418,128,128);//Vehid:637 Title:mavdt
+	dtc2 = AddStaticVehicle(521,2513.394,-1663.560,13.162,88.115165,128,128);//Vehid:638 Title:fcrdt
+	dtc3 = AddStaticVehicle(521,2513.394,-1662.560,13.162,88.115226,128,128);//Vehid:639 Title:fcrdt
+	dtc4 = AddStaticVehicle(521,2513.394,-1661.560,13.162,88.114929,128,128);//Vehid:640 Title:fcrdt
+	dtc5 = AddStaticVehicle(426,2506.623,-1677.831,13.206,89.687377,128,128);//Vehid:641 Title:premdt
+	dtc6 = AddStaticVehicle(426,22506.623,-1672.831,13.206,90.213455,128,128);//Vehid:642 Title:premdt
+	dtc7 = AddStaticVehicle(545,2478.052,-1653.657,13.202,269.781250,128,128);//Vehid:643 Title:hustdt
+	dtc8 = AddStaticVehicle(474,2460.643,-1664.030,13.149,269.702301,128,128);//Vehid:644 Title:hermdt
+	dtc10 = AddStaticVehicle(522,2510.832,-1672.144,13.005,87.584945,128,128);//Vehid:646 Title:nrgdt
+	dtc11 = AddStaticVehicle(522,2510.832,-1671.144,13.005,87.585334,128,128);//Vehid:647 Title:nrgdt
+	dtc12 = AddStaticVehicle(522,2510.832,-1670.144,13.005,87.585891,128,128);//Vehid:648 Title:nrgdt
+	dtc14 = AddStaticVehicle(492,2480.135,-1684.786,13.287,88.803855,128,128);//Vehid:650 Title:grwdt
 	tkc = AddStaticVehicle(413,1529.519042,2827.245849,10.907035,89.749595,0,0);//Vehid:652 Title:ponykmf
 	smcar = AddStaticVehicle(522,728.447937,-1431.241699,13.150270,159.412857,12,12);//Vehid:653 Title:nrgsm
 
@@ -55704,11 +55699,9 @@ SetVehicleNumberPlate(hitmav3, "HIT 050");
 	SetVehicleNumberPlate(dtc6, "DTF");
 	SetVehicleNumberPlate(dtc7, "DTF");
 	SetVehicleNumberPlate(dtc8, "DTF");
-	SetVehicleNumberPlate(dtc9, "DTF");
 	SetVehicleNumberPlate(dtc10, "DTF");
 	SetVehicleNumberPlate(dtc11, "DTF");
 	SetVehicleNumberPlate(dtc12, "DTF");
-	SetVehicleNumberPlate(dtc13, "DTF");
 	SetVehicleNumberPlate(dtc14, "DTF");
 
 	SetVehicleNumberPlate(tkc, "Killers");
@@ -75068,7 +75061,7 @@ if(dialogid == 100)
 	}
 	if(listitem == 3)
 		  {
-	SetPlayerCheckpoint(playerid,1607.520996,1815.756591,10.820312,3.0);
+	SetPlayerCheckpoint(playerid,1172.265014,-1323.372314,15.401484,3.0);
 	SendClientMessage(playerid, COLOR_BLUE, "Goto CheckPoint For HQ : Fire & Medics LV. Use /cancel checkpoint For Delete Checkpoint.");
 	OnCheckpoint[playerid] = 1;
 	CP[playerid] = 9922555;
@@ -75124,7 +75117,7 @@ if(dialogid == 100)
 	}
 	if(listitem == 11)
 		  {
-	SetPlayerCheckpoint(playerid,2637.4326,2352.0256,10.8203,3.0);
+	SetPlayerCheckpoint(playerid,1172.265014,-1323.372314,15.401484,3.0);
 	SendClientMessage(playerid, COLOR_BLUE, "Goto CheckPoint For HQ : Dangerous Tigers Family. Use /cancel checkpoint For Delete Checkpoint.");
 	OnCheckpoint[playerid] = 1;
 	CP[playerid] = 9922555;
@@ -90961,9 +90954,9 @@ if(!strcmp(cmd,"/aleaders",true))
 		{
 			if(PlayerInfo[playerid][pMember] == 4 || PlayerInfo[playerid][pLeader] == 4)//Medic heli up
 			{
-				if (PlayerToPoint(5, playerid, 1615.0603,1815.7771,10.8203))
+				if (PlayerToPoint(5, playerid, 1172.573486,-1319.403686,15.392553))
 				{
-					SetPlayerPos(playerid, 1607.4210,1787.6932,30.4688);
+					SetPlayerPos(playerid, 1158.744262,-1328.977294,31.511993);
 					SetPlayerInterior(playerid, 0);
 					return 1;
 				}
@@ -91040,9 +91033,9 @@ if(!strcmp(cmd,"/aleaders",true))
 			*/
 			if(PlayerInfo[playerid][pMember] == 4 || PlayerInfo[playerid][pLeader] == 4)
 			{
-				if (PlayerToPoint(5, playerid, 1607.4210,1787.6932,30.4688)) //Medic heli down
+				if (PlayerToPoint(5, playerid, 1158.744262,-1328.977294,31.511993)) //Medic heli down
 				{
-					SetPlayerPos(playerid, 1615.0603,1815.7771,10.8203);
+					SetPlayerPos(playerid, 1172.573486,-1319.403686,15.392553);
 					SetPlayerInterior(playerid, 0);
 					return 1;
 				}
@@ -131267,7 +131260,7 @@ if(!strcmp(cmd,"/firegun",true))
 
 			else if(PlayerInfo[playerid][pMember] == 12 || PlayerInfo[playerid][pLeader] == 12)// Grove Street entrance
 			{
-				if (PlayerToPoint(2, playerid, 2637.1936,2352.0090,10.8203))
+				if (PlayerToPoint(2, playerid, 2495.342529,-1690.869262,14.7605625))
 				{
 					if(InVeh != 1)
 	{
@@ -131446,7 +131439,7 @@ if(!strcmp(cmd,"/firegun",true))
 			}
 			else if(PlayerInfo[playerid][pMember] == 4 || PINFO[playerid][pLeader] == 4)
 			{
-			   if(PTP(5,playerid,1607.520996,1815.756591,10.820312))
+			   if(PTP(5,playerid,1172.265014,-1323.372314,15.401484))
 			   {
 			   	if(InVeh != 1)
 	{
@@ -131728,7 +131721,7 @@ if(!strcmp(cmd,"/firegun",true))
 
 			else if (PlayerToPoint(5, playerid, 1298.830810,-795.336669,1084.007812) && GetPlayerVirtualWorld(playerid) == 40012) // Grove Street Exit
 			{
-				SetPlayerPos(playerid, 2637.1936,2352.0090,10.8203);
+				SetPlayerPos(playerid, 2495.342529,-1690.869262,14.7605625);
 				SetPlayerInterior(playerid, 0);
 				GameTextForPlayer(playerid, "~r~Las ~g~Venturas",5000,1);
 				Mahal[playerid] = 9999;
@@ -131828,7 +131821,7 @@ if(!strcmp(cmd,"/firegun",true))
 			}
 			else if(PTP(5,playerid,1494.325195,1304.942871,1093.289062) && GetPlayerVirtualWorld(playerid) == 71)
 			{
-			SetPlayerPos(playerid,1607.520996,1815.756591,10.820312);
+			SetPlayerPos(playerid,1172.265014,-1323.372314,15.401484);
 			SetPlayerInterior(playerid,0);
 			SetPlayerVirtualWorld(playerid,0);
 			Mahal[playerid] = 9999;
@@ -134951,7 +134944,7 @@ if(!strcmp(cmd,"/firegun",true))
 						SendFamilyMessage(8, COLOR_BLUE, string);
 						return 1;
 					}
-					if (PlayerToPoint(2, playerid, 2637.1936,2352.0090,10.8203))
+					if (PlayerToPoint(2, playerid, 2495.342529,-1690.869262,14.7605625))
 					{
 						SetPlayerPos(playerid, 1298.830810,-795.336669,1084.007812);
 						SetPlayerVirtualWorld(playerid, 40012);
@@ -135066,7 +135059,7 @@ if(!strcmp(cmd,"/firegun",true))
 						SendFamilyMessage(8, COLOR_BLUE, string);
 						return 1;
 					}
-					if(PTP(5,playerid,1607.520996,1815.756591,10.820312))
+					if(PTP(5,playerid,1172.265014,-1323.372314,15.401484))
 					{
 					   SetPlayerPos(playerid,1494.325195,1304.942871,1093.289062);
 					   SetPlayerInterior(playerid,3);
@@ -147559,7 +147552,7 @@ public CustomPickups()
 		  {
 			 GameTextForPlayer(i, "~g~Welcome to gym~n~~w~Type ~r~/fightstyle ~w~to learn new fight moves.", 5000, 3);
 		  }
-		  else if (GetPlayerState(i) == 1 && PlayerToPoint(1.0, i,1615.0603,1815.7771,10.8203))
+		  else if (GetPlayerState(i) == 1 && PlayerToPoint(1.0, i,1172.573486,-1319.403686,15.392553))
 		  {
 			 if(PlayerInfo[i][pMember] == 4 || PlayerInfo[i][pLeader] == 4)
 			 {
@@ -147606,7 +147599,7 @@ public CustomPickups()
 				GameTextForPlayer(i, "~w~You haven't a materials license.", 2000, 3);
 			 }
 		  }
-		  else if (GetPlayerState(i) == 1 && PlayerToPoint(1.0, i,1607.4210,1787.6932,30.4688))
+		  else if (GetPlayerState(i) == 1 && PlayerToPoint(1.0, i,1158.744262,-1328.977294,31.511993))
 		  {
 			 if(PlayerInfo[i][pMember] == 4 || PlayerInfo[i][pLeader] == 4)
 			 {
