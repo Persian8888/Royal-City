@@ -12728,7 +12728,7 @@ public IsAtATMSystem(playerid)
 {
 	if(IsPlayerConnected(playerid))
 	{
-	   if(PlayerToPoint(3.0,playerid,1009.2220,-929.6009,42.3281) || PlayerToPoint(3.0,playerid,603.6191,-1247.6931,18.4213) || PlayerToPoint(3.0,playerid,308.051910,-141.461181,999.601562))
+	   if(PlayerToPoint(3.0,playerid,1009.2220,-929.6009,42.3281) || PlayerToPoint(3.0,playerid,603.6191,-1247.6931,18.4213))
 	   {//ATM SYSTEM
 		  return 1;
 	   }
@@ -54973,7 +54973,6 @@ BuffPickup[59] = CreatePickup(11712, 1, 1736.7170, -2024.8231, 20.5925, -1);
 	//////========================================================================
 	CreateDynamic3DTextLabel("You can get your job's license here\nUse /getjl",COLOR_JOB,358.673706, 182.649597, 1008.382812,12.0,.testlos=1);//license in city hall
 	CreateDynamic3DTextLabel("Welcome\nType: /eat to eat", COLOR_WHITE, 368.9714,-6.2486,1001.8516, 10,.testlos=1);
-	CreateDynamic3DTextLabel("Welcome\nType: /Atmwithdraw to withdraw money from your bank account\n Type: /Atmbalance to see how much money do you have in your bank account", COLOR_WHITE, 308.0,-141.461181,999.601562, 10,.testlos=1);
 	CreateDynamic3DTextLabel("Welcome\nType: /eat to eat", COLOR_WHITE, 313.977355,-138.886062,1004.062500, 10,.testlos=1);
 	CreateDynamic3DTextLabel("Welcome\nType: /eat to eat", COLOR_WHITE, 376.8571,-67.6620,1001.5151, 10,.testlos=1);
 	CreateDynamic3DTextLabel("Welcome\nType: /eat to eat", COLOR_WHITE, 375.6895,-118.9683,1001.4995, 10,.testlos=1);
@@ -131186,17 +131185,7 @@ if(!strcmp(cmd,"/firegun",true))
 			{
 				if(InVeh != 1)
 	{
-				SetPlayerPos(playerid,303.9991,-141.7700,1004.0625);
-				SetPlayerInterior(playerid,7);
-				FreezePlayer(playerid);
-				}
-				return 1
-			}
-			else if (PlayerToPoint(2, playerid, 300.1706,-141.8950,1004.0625))//GSLS
-			{
-				if(InVeh != 1)
-	{
-				SetPlayerPos(playerid,298.5961,-141.8859,1004.0547);
+				SetPlayerPos(playerid,298.596099,-141.885894,1004.0625);
 				SetPlayerInterior(playerid,7);
 				FreezePlayer(playerid);
 				}
@@ -131643,16 +131632,16 @@ if(!strcmp(cmd,"/firegun",true))
 				TooBiz[playerid] = 9999;
 				return 1;
 			}
-			else if (PlayerToPoint(2, playerid, 303.9991,-141.7700,1004.0625))//GSLS
+			else if (PlayerToPoint(2, playerid, 298.5961,-141.8859,1004.0547))//GSLS
 			{
 				SetPlayerPos(playerid, 305.3564,-141.8755,1004.0625);
 				SetPlayerInterior(playerid, 7);
 				SetPlayerVirtualWorld(playerid, 0);
 				return 1;
 			}
-			else if (PlayerToPoint(2, playerid, 298.5961,-141.8859,1004.0547))//GSLS
+			else if (PlayerToPoint(2, playerid, 305.3564,-141.8755,1004.0625))//GSLS
 			{
-				SetPlayerPos(playerid, 300.1706,-141.8950,1004.0625);
+				SetPlayerPos(playerid, 298.5961,-141.8859,1004.0547);
 				SetPlayerInterior(playerid, 7);
 				SetPlayerVirtualWorld(playerid, 0);
 				return 1;
